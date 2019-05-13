@@ -206,21 +206,28 @@ End If
                         sSQL = sSQL & " and DT_ABSENT = '" & fdate2(rstTMClk2("DT_SHIFT")) & "'" 
                         rstTMABSENT.Open sSQL, conn, 3, 3
                         if not rstTMABSENT.eof then '=== Absent is recorded
-                            Set rstTMEOFF = server.CreateObject("ADODB.RecordSet")    
-                            sSQL = "select * from TMEOFF where "
-                            sSQL = sSQL & " EMP_CODE ='" & sEMP_CODE & "'"
-                            sSQL = sSQL & " and ('" & fdate2(rstTMABSENT("DT_ABSENT")) & "' between DTFR and DTTO )" '===Can't left join between DTFR and DTTO
-                            rstTMEOFF.Open sSQL, conn, 3, 3
-                            if not rstTMEOFF.eof then  '==== Check if got Apply leave Time off
-
-                                if rstTMABSENT("TYPE") = "F" then '=== Check the ABSENT recorded as FULL or HALF
+                            if rstTMABSENT("TYPE") = "F" then '=== Check the ABSENT recorded as FULL or HALF
+                                Set rstTMEOFF = server.CreateObject("ADODB.RecordSet")    
+                                sSQL = "select * from TMEOFF where "
+                                sSQL = sSQL & " EMP_CODE ='" & sEMP_CODE & "'"
+                                sSQL = sSQL & " and ('" & fdate2(rstTMABSENT("DT_ABSENT")) & "' between DTFR and DTTO )" '===Can't left join between DTFR and DTTO
+                                rstTMEOFF.Open sSQL, conn, 3, 3
+                                if not rstTMEOFF.eof then  '==== Check if got Apply leave Time off
                                     sTimeOffColumn = rstTMEOFF("TOFF_ID") & " - " & rstTMEOFF("PART")
-                                else '=== Half Day leave
-                                    sTimeOffColumn = rstTMEOFF("TOFF_ID") & " - " & rstTMEOFF("PART") & " - " & rstTMEOFF("DURA") & " Day 0.5 Absent"
+                                else
+                                    sTimeOffColumn =  "Absent"
                                 end if
-
-                            else '=== Never Apply leave
-                                sTimeOffColumn =  "Absent"
+                            elseif rstTMABSENT("TYPE") = "H" then
+                                Set rstTMEOFF = server.CreateObject("ADODB.RecordSet")    
+                                sSQL = "select * from TMEOFF where "
+                                sSQL = sSQL & " EMP_CODE ='" & sEMP_CODE & "'"
+                                sSQL = sSQL & " and ('" & fdate2(rstTMABSENT("DT_ABSENT")) & "' between DTFR and DTTO )" '===Can't left join between DTFR and DTTO
+                                rstTMEOFF.Open sSQL, conn, 3, 3
+                                if not rstTMEOFF.eof then  '==== Check if got Apply leave Time off
+                                    sTimeOffColumn = rstTMEOFF("TOFF_ID") & " - " & rstTMEOFF("PART")
+                                else
+                                    sTimeOffColumn =  "0.5 Day Absent"
+                                end if
                             end if
 
                         else '=== No Absent recorded, Not working check if is it a Holiday
