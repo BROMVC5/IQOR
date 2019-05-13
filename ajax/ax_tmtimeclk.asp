@@ -3,7 +3,7 @@
 <!-- #include file="../include/proc.asp"-->
 
 <%
-
+    'ters
 Dim PageLen,PageNo,TotalRecord,TotalPage,intID
 Dim PageStart,PageEnd
 
