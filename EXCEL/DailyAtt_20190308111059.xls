@@ -1,0 +1,47 @@
+DayShift Date	Emp Code	NameCost Center	Shift	In	Out	Total	Total OT	Approved OT	Time Off	Status
+Tue	22/01/2019	NORM 08:00-16:30	07:32	18:20	10:48	00:00			Normal 
+Wed	23/01/2019	NORM 08:00-16:30	07:31	17:41	10:10	00:00			Normal 
+Thu	24/01/2019	NORM 08:00-16:30	07:33	18:05	10:32	00:00			Normal 
+Fri	25/01/2019	NORM 08:00-16:30	07:35	17:42	10:07	00:00			Normal 
+Sat	26/01/2019	OFF						Absent	OFF  No info 
+Sun	27/01/2019	REST						Absent	REST  No info 
+Mon	28/01/2019	NORM 08:00-16:30	07:35	16:43	09:08	00:00			Normal 
+Tue	29/01/2019	NORM 08:00-16:30	07:34	16:48	09:14	00:00			Normal 
+Wed	30/01/2019	NORM 08:00-16:30	07:33	18:27	10:54	00:00			Normal 
+Thu	31/01/2019	NORM 08:00-16:30	07:33	17:57	10:24	00:00			Normal 
+Fri	01/02/2019	NORM 08:00-16:30	07:32	18:02	10:30	00:00			Normal 
+Sat	02/02/2019	OFF						Absent	OFF  No info 
+Sun	03/02/2019	REST						Absent	REST  No info 
+Mon	04/02/2019	NORM 08:00-16:30						Chinese New Year	Holiday No info 
+Tue	05/02/2019	NORM 08:00-16:30						Chinese New Year	Holiday No info 
+Wed	06/02/2019	NORM 08:00-16:30	07:36	16:41	09:05	00:00			Normal 
+Thu	07/02/2019	NORM 08:00-16:30	07:35	17:19	09:44	00:00			Normal 
+Fri	08/02/2019	NORM 08:00-16:30	07:26	17:00	09:34	00:00			Normal 
+Sat	09/02/2019	OFF						Absent	OFF  No info 
+Sun	10/02/2019	REST						Absent	REST  No info 
+Mon	11/02/2019	NORM 08:00-16:30	07:31	18:36	11:05	02:06	02:00		Normal  OT 
+Tue	12/02/2019	NORM 08:00-16:30	07:32	18:23	10:51	00:00			Normal 
+Wed	13/02/2019	NORM 08:00-16:30	07:32	17:05	09:33	00:00			Normal 
+Thu	14/02/2019	NORM 08:00-16:30	07:32	18:13	10:41	00:00			Normal 
+Fri	15/02/2019	NORM 08:00-16:30	07:25	18:09	10:44	00:00			Normal 
+Sat	16/02/2019	OFF						Absent	OFF  No info 
+Sun	17/02/2019	REST						Absent	REST  No info 
+Mon	18/02/2019	NORM 08:00-16:30	07:30	16:49	09:19	00:00			Normal 
+Tue	19/02/2019	NORM 08:00-16:30	07:29	17:02	09:33	00:00			Normal 
+Wed	20/02/2019	NORM 08:00-16:30	07:30	17:01	09:31	00:00			Normal 
+Thu	21/02/2019	NORM 08:00-16:30	07:28	16:36	09:08	00:00			Normal 
+Fri	22/02/2019	NORM 08:00-16:30	07:28	17:38	10:10	00:00			Normal 
+Sat	23/02/2019	OFF						Absent	OFF  No info 
+Sun	24/02/2019	REST						Absent	REST  No info 
+Mon	25/02/2019	NORM 08:00-16:30	07:28	17:03	09:35	00:00			Normal 
+Tue	26/02/2019	NORM 08:00-16:30	07:28	16:41	09:13	00:00			Normal 
+Wed	27/02/2019	NORM 08:00-16:30	07:31	18:50	11:19	02:20	02:00		Normal  OT 
+Thu	28/02/2019	NORM 08:00-16:30	07:29	12:29				3000 - Annual Leave	Normal  Irregular 
+Fri	01/03/2019	NORM 08:00-16:30						3000 - Annual Leave	No Schedule  No info 
+Sat	02/03/2019	OFF						Absent	OFF  No info 
+Sun	03/03/2019	REST						Absent	REST  No info 
+Mon	04/03/2019	NORM 08:00-16:30	07:30	16:58	09:28	00:00			Normal 
+Tue	05/03/2019	NORM 08:00-16:30	07:30	16:43	09:13	00:00			Normal 
+Wed	06/03/2019	NORM 08:00-16:30	07:29	18:06	10:37	00:00			Normal 
+Thu	07/03/2019	NORM 08:00-16:30	07:30	18:11	10:41	00:00			Normal 
+Fri	08/03/2019	NORM 08:00-16:30	07:33						Normal  Incomplete 

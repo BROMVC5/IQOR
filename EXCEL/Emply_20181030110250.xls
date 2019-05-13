@@ -1,0 +1,407 @@
+No	Employee Code	Card No	First Name	Last Name	Display Name	Acces Type	Email	Date Join	Date Confirm	Date Resign	Department	Grade	Superior	Cost Center	Employment Contract	Designation	Address 1	Address 2	City	State	Country	Correspondent Address 1	Correspondent Address 2	City	State	Country	Tel	Mobile Phone	Date of Birth	Gender	NRIC	Race	Passport No	Marital Status	Nationality	Religion	Work Permit Number	Work Permit Expiry Date	Work Location	Area Code	Generate Shift	Own Transport	
+1	102265	993646	Lim	Cheng Chye	Lim Cheng Chye	M	CC.Lim@iqor.com	25/10/2001			REG IT	M8	331135	20301921	PERMAN	INFORMATION SERVICES MGR II													14/06/2018	M		C		M	M	B			PG		N	Y	
+2	102266	993647	Tan	Cheng Leng	Tan Cheng Leng	S	Eunice.Tan@iqor.com	16/07/2013			BU1	M6	102272	20301012	PERMAN	SNR PROGRAM ADMINISTRATOR													20/09/2018	M		C		M	M	B			PG		N	Y	
+3	102267	276582	Ja'Ayah	Binti Hassan	Ja'Ayah Binti Hassan	E		25/10/2001		31/07/2018	CISCO	M1	7010878	20301003	PERMAN	JNR TECH													20/09/2018	F		M		M	M	I			PG		N	Y	
+4	102271	276586	Sarinah	Binti Samsuddin	Sarinah Binti Samsuddin	E		25/10/2001		31/07/2018	BU 5	M0	182429	20301014	PERMAN	PROD LINE LEADER													20/09/2018	F		M		M	M	I			PG	KJ06	N	N	
+5	102272	236518			Lim Kok Beng	M	kb.lim@iqor.com	25/10/2001			BU1	M8	331135	20301012	PERMAN	BUSINESS UNIT LEADER													14/06/2018										PG		N	Y	
+6	102275	236454	Cheah	Bee Loon	Cheah Bee Loon	S	BL.Cheah@iqor.com	25/10/2001			REG IT	M8	102265	20301921	PERMAN	INFORMATION SERVICES MGR I													14/06/2018	F		C		M	M	B			PG		N	Y	
+7	102278	277137	Nordin	Bin Osman	Nordin Bin Osman	S	Nordin.Osman@iqor.com	30/10/2000			FACILITY	M1	164968	20301011	PERMAN	SNR TECH													14/09/2018	M		M		M	M	I			PG		Y	Y	
+8	102279	276590	Chor	Phaik Seok	Chor Phaik Seok	E	ps.chor@iqor.com	25/10/2001			QA	M6	102790	20301270	PERMAN	QUALITY SYSTEM ENGINEER													14/09/2018	F		C		M	M	B			PG		N	Y	
+9	102280	583043	Siti Hajar	Binti Awang	Siti Hajar Binti Awang	E		15/04/1999			QA	M1	102429	20301270	PERMAN	JUNIOR TRAINER													14/09/2018	F		M		M	M	I			PG		Y	N	
+10	102281	583120	Norhasimah	Binti Kassim	Norhasimah Binti Kassim	E		05/05/1999		30/06/2018	CISCO	M1	7010878	20301003	PERMAN	JNR TECH													21/09/2018	F		M			M	I			PG		Y	Y	
+11	102285	276595	Hafizah	Binti Mat Yusoff	Hafizah Binti Mat Yusoff	E		16/06/2000		30/06/2018	QA	M0	28975	20301270	PERMAN	QA LEADER													21/09/2018	F		M			M	I			PG	KJ03	Y	N	
+12	102286	582560	Norbashiroh	Binti Md Amin	Norbashiroh Binti Md Amin	E		21/08/2000			BU1	M1	7008183	20301033	PERMAN	JNR TECH													14/09/2018	F		M		M	M	I			PG	KJ01	Y	Y	
+13	102287	236505	Faridah	Binti Hassan	Faridah Binti Hassan	E		02/03/1998			QA	M0	102790	20301270	PERMAN	QA Inspector													14/09/2018	F		M		M	M	I			PG	KJ14	Y	N	
+14	102288	276843	Hajar	Binti Tahir	Hajar Binti Tahir	E		14/02/2000			HP	M0	102303	20301005	PERMAN	DEBUG OPRT													14/09/2018	F		M		M	M	I			PG	KJ15	Y	N	
+15	102289	276599	Leong	Wai Hin	Leong Wai Hin	S	WH.Leong@iqor.com	20/06/2000			DELL	M6	164968	20301012	PERMAN	SNR DEBUG ENGINEER													14/09/2018	M		C		M	M	B			PG		N	Y	
+16	102291	586544	Rusnah	Binti Dolah	Rusnah Binti Dolah	E		20/06/2000			DELL	M1	102317	20301011	PERMAN	TECH DEBUG													14/09/2018	F		M		M	M	I			PG		Y	Y	
+17	102293	276602	Azhar	Bin Baharum	Azhar Bin Baharum	E		09/11/1999			CISCO	M6	7010605	20301003	PERMAN	DEBUG ENGINEER													14/09/2018	M		M		M	M	I			PG		N	Y	
+18	102295	236321	Lee	Cheng Guat	Lee Cheng Guat	E		19/02/2001		30/06/2018	CISCO	M4	7010605	20301003	PERMAN	TECHNICAL SPECIALIST													13/06/2018	F		C		S	M	B			PG		Y	Y	
+19	102298	236423	Azizi	Bin Othman	Azizi Bin Othman	E		13/12/1999			DELL	M4	164968	20301011	PERMAN	TECHNICAL SPECIALIST													14/09/2018	M		M		M	M	I			PG		Y	Y	
+20	102301	083712	Chong	Poh Lee	Chong Poh Lee	M	Danny.Chong@iqor.com	25/10/2001			MATERIAL	M8	331135	20301203	PERMAN	LOGISTIC & INV CONTROL MGR													14/06/2018	M		C		M	M	C			PG		N	Y	
+21	102303	276611	Chia	Lay Kuen	Chia Lay Kuen	S	Jess.Chia@iqor.com	25/10/2001			BU1	M4	164968	20301011	PERMAN	SNR OPERATION LEAD													04/07/2018	F		C		M	M	B			PG		N	Y	
+22	102304	987762	Chong	Yih Cherng	Chong Yih Cherng	M	Yc.Chong@iqor.com	19/03/2002			ADMIN	M8	331135	20301211	PERMAN	SITE ENGINEERING MANAGER													14/06/2018	M		C			M	B			PG		N	Y	
+23	102305	582516	Aneis Ahmad	Bin Rahaman Saar	Aneis Ahmad Bin Rahaman Saar	M	aneis.ahmad@iqor.com	25/10/2001			BU 5	M8	331135	20301014	PERMAN	DIRECTOR OF OPERATIONS													14/06/2018	M		M		M	M	I			PG		N	Y	
+24	102306	141733	Low	Tai Seng	Low Tai Seng	E	taiseng.low@iqor.com	08/05/2002			BU1	M4	164968	20301011	PERMAN	TECHNICAL SPECIALIST													20/09/2018	M		C		S	M	B			PG		Y	Y	
+25	102308	276615	Chan	Su-Lin	Chan Su-Lin	S	SL.Chan@iqor.com	25/10/2001			BU 5	M8	102305	20301014	PERMAN	PROGRAM MGR													14/06/2018	F		C		M	M	B			PG		N	Y	
+26	102312	141791	Fadzlina	Binti Md Shariff	Fadzlina Binti Md Shariff	E		21/03/2000			DELL	M1	102266	20301011	PERMAN	SNR TECH													14/09/2018	F		M		M	M	I			PG		Y	Y	
+27	102313	987743	Tuani Ibrahim	Bin Meerasa	Tuani Ibrahim Bin Meerasa	E	tuani.ibrahim@iqor.com	16/09/2002		31/08/2018	SHIPPING	M2	00102506	20301201	PERMAN	Shipping Asst													20/09/2018	M		M			M	I			PG		Y	Y	
+28	102315	993641	Whong	Gaik Kooi	Whong Gaik Kooi	E		22/07/2013			FINANCE	M6	102533	20301420	PERMAN	SNR ACCOUNT OFFICER													20/09/2018	F		C		S	M	B			PG		N	Y	
+29	102317	276626	Tan	Saw Lan	Tan Saw Lan	S	Jesslyn.Tan@iqor.com	25/10/2001			DELL	M6	164968	20301011	PERMAN	SNR LINE MGR													14/09/2018	F		C		M	M	B			PG		N	Y	
+30	102326	276634			Siti Aisah Binti Hussain	E		10/12/2002		31/05/2018	CISCO	M0	7010878	20301003	PERMAN	PROD LINE LEADER													31/05/2018										PG	KJ12	Y		
+31	102327	236600			Angalene A/P Subramaniam	E		10/12/2002			DELL	M0	183036	20301011		PROD LINE LEADER																								KJ12	Y		
+32	102328	583034	Yeoh	Yeow Khiang	Yeoh Yeow Khiang	M	YK.Yeoh@iqor.com	10/12/2002			BU3	M8	331135	20301003	PERMAN	BUSINESS UNIT LEADER													14/06/2018	M		C		S	M	B			PG		N	Y	
+33	102329	276637	Lee	Mean Ong	Lee Mean Ong	E	mo.lee@iqor.com	10/12/2002			CISCO	M6	80360	20301003	PERMAN	SNR DEBUG ENGINEER													20/09/2018	M		C		M	M	B			PG		N	Y	
+34	102330	236424			Lina Marni Binti Md Noor	E		10/12/2002		13/08/2018	CISCO	M0	7010878	20301003		PROD OPRT																								KJ04	Y		
+35	102332	277301			Rafidah Binti Harun	E		10/12/2002		30/06/2018	CISCO	M0	7010878	20301003	PERMAN	PROD OPRT													31/05/2018										PG	KJ10	Y		
+36	102333	277289			Salehan Binti Jamhari	E		10/12/2002		30/06/2018	CISCO	M0	7010878	20301003		PROD OPRT																								KJ03	Y		
+37	102338	987648			Zuraida Binti Zenun	E		10/12/2002			DELL LCD	M1	183036	20301011	PERMAN	TECH DEBUG													14/09/2018	M		M		M	M	I			PG		Y	N	
+38	102340	276705			Suriani Binti Sabli	E		10/12/2002		31/07/2018	CISCO	M0	7010878	20301003		PROD LINE LEADER																								KJ10	Y		
+39	102345	276648	Tan	Soo Ling	Tan Soo Ling	E		01/01/1997			DELL	M0	102317	20301012	PERMAN	PROD OPRT													14/09/2018	F		C		S	M	B			PG	KJ12	Y	N	
+40	102347	987667	Zaleha	Binti Ahmad	Zaleha Binti Ahmad	S	Zaleha.Ahmad@iqor.com	01/01/1997			STORE	M2	102301	20301203	PERMAN	SNR STORE ASST													14/09/2018	F		M		M	M	I			PG		Y	Y	
+41	102350	276654	Noraini	Binti Kadir	Noraini Binti Kadir	E		25/10/2001		31/07/2018	QA	M0	28975	20301270	PERMAN	QA LEADER													20/09/2018	F		M			M	I			PG	KJ05	N	N	
+42	102361	583035			Soridan Bin Hussein	E		01/03/2004			HP	M4	102303	20301005		TECHNICAL SPECIALIST																									Y		
+43	102365	987724			Zuraini Binti Yahaya	E		15/03/2004		31/07/2018	DELL	M0	183036	20301012		PROD LINE LEADER																								KJ09	Y		
+44	102367	276666			Rosli Bin Abdullah	E		12/04/2004		30/06/2018	EHS	M6	107284	20301281		FACILITIES SERVICES COORDINATO																											
+45	102370	987687	Zaharizan	Bin Zakaria	Zaharizan Bin Zakaria	E		19/04/2004		31/08/2018	SHIPPING	M2	00102506	20301201	PERMAN	Shipping Asst													20/09/2018	M		M			M	I			PG		Y	Y	
+46	102371	987796			Dhevaghi A/P Sugamaran	E		19/04/2004		31/07/2018	DELL	M0	183036	20301011		PROD LINE LEADER																								KJ05	Y		
+47	102375	987736	Siti Fatimah	Binti Abd.Rahim	Siti Fatimah Binti Abd.Rahim	E		22/04/2004			TELLABS	M0	41461	20301006	PERMAN	Prod Line Leader													20/09/2018	F		M			M	I			PG	KJ15	Y	N	
+48	102378	276679	Tan	Siew Nee	Tan Siew Nee	E	sn.tan@iqor.com	06/05/2004			REG IT	M6	102275	20301921	PERMAN	SR BUSINESS SYSTEMS ANALYST													20/09/2018	F		C		M	M	B			PG		N	Y	
+49	102380	236385			Zalriah Binti Talib	E		10/05/2004		31/07/2018	QA	M0	28975	20301270		QA LEADER																								KJ06	Y		
+50	102384	276824			Rohiza Binti Mat Isa	E		23/06/2004			DELL	M0	183036	20301012		PROD OPRT																								KJ04	Y		
+51	102385	276685	Norhashira	Binti Halim	Norhashira Binti Halim	E		28/06/2004			BU1	M0	183036	20301012	PERMAN	PROD LINE LEADER													20/09/2018	F		M			M	I			PG	KJ04	Y	N	
+52	102408	236448			Rusliza Binti Ishak	E		06/10/2004			DELL	M0	102317	20301011		PROD OPRT																								KJ04	Y		
+53	102414	810311	Tan	Han Nam	Tan Han Nam	S	Han.Tan@iqor.com	25/07/2011			BU 5	M6	102555	20301014	PERMAN	MATERIAL PLANNER													20/09/2018	M		C		M	M	B			PG		N	Y	
+54	102418	810365			Soffiah Binti Othaman	E		01/12/2004		30/06/2018	CISCO	M1	7010878	20301003		JNR TECH																								KJ10	Y		
+55	102429	236557	Muhamad Sulaiman	Bin Mohamed Noor	Muhamad Sulaiman Bin Mohamed Noor	S	Muhamad.Sulaiman@iqor.com	20/12/2004			QA	M6	102790	20301270	PERMAN	SNR QA ENGINEER													20/09/2018	M		M		M	M	I			PG		N	Y	
+56	102433	585472	Wan Yusanisah	Binti Wan Yusoff	Wan Yusanisah Binti Wan Yusoff	E		10/01/2005			BU2	M1	41461	20301006	PERMAN	Tech Debug													20/09/2018	F		M		M	M	I			PG		Y	Y	
+57	102435	987607			Sagayamary A/P Maniam	E		10/01/2005		31/07/2018	DELL	M0	102317	20301011		PROD OPRT																								KJ08	Y		
+58	102449	987606			Wong Gim Hock	V	gh.wong@iqor.com	20/01/2005			HUMAN RESOURCE	M8	122737	20301410	PERMAN	ASST HR MANAGER													21/05/2018										PG	KJ03	N	Y	
+59	102450	236552			Lim Bee Hwa	V	Janet.Lim@iqor.com	01/02/2005			HUMAN RESOURCE	M6	122737	20301410	PERMAN	SNR HR OFICER													24/05/2018										HQ	KJ05	N	Y	
+60	102452	276751	Zaniyah	Binti Said	Zaniyah Binti Said	E		02/02/2005			BU1	M0	183036	20301011	PERMAN	PROD OPRT													20/09/2018	F		M			M	I			PG	KJ02	Y	N	
+61	102459	029360			Parvathi A/P Kuppusamy	E		01/03/2005			DELL	M0	183036	20301011		PROD OPRT																								KJ12	Y		
+62	102468	276762	Norehan	Binti Ismail	Norehan Binti Ismail	E		14/03/2005			DELL	M0	183036	20301011	PERMAN	PROD OPRT													20/09/2018	F		M			M	I			PG	KJ12	Y	N	
+63	102469	276763			Zaleha Binti Jaafar	E		14/03/2005		31/07/2018	DELL LCD	M0	183036	20301011		PROD OPRT																								KJ05	Y		
+64	102476	236598	Chuah	Teik Ping	Chuah Teik Ping	E		04/04/2005			ADMIN	M6	331135	20301400	PERMAN	EXECUTIVE SECRETARY													14/09/2018	F		C		M	M	B			PG		N	Y	
+65	102483	276778			Siti Aishah Binti Biduan	E		24/05/2005		31/07/2018	QA	M0	28975	20301270		QA INSPECTOR																								KJ05	Y		
+66	102501	810339			Siti Salbiah Binti Saad	E		28/11/2005		30/06/2018	CISCO	M1	7010878	20301003		JNR TECH																								KJ06	Y		
+67	102505	277406			Mohamad Sukri Bin Zainol Abidin	E		05/12/2005			DELL LCD	M1	183036	20301011		TECH DEBUG																								OS01	Y		
+68	102506	583082			Leng Siew Peng	S	Elaine.Leng@iqor.com	07/12/2005			MATERIAL	M8	102301	20301201	PERMAN	LOGISTIC & TC ASST MANAGER													14/06/2018										PG		N	Y	
+69	102508	236428			Rozimah Binti Hj Sidek	E		07/12/2005		30/06/2018	CISCO	M0	7010878	20301003		PROD OPRT																								KJ06	Y		
+70	102516	236473			Sabirah Binti Md Saleh	E		12/12/2005			DELL	M0	183036	20301012		PROD LINE LEADER																								KJ15	Y		
+71	102522	276823	Azean	Binti Ghazali	Azean Binti Ghazali	E		19/12/2005			QA	M0	00102790	20301270	PERMAN	QA Inspector													20/09/2018	F		M			M	I			PG	KJ01	Y	N	
+72	102533	276834			Tan Lye Hong	S	Jessie.Tan@iqor.com	09/01/2006			FINANCE	M8	176879	20301420	PERMAN	ACCOUNTING MANAGER													14/06/2018										PG		N	Y	
+73	102536	276775			Noorsakila Binti Mohd Isa	E		11/01/2006			DELL	M0	00183036	20301011		Prod Oprt																								KJ01	Y		
+74	102549				Roshaiza Bt Ismail @ Abd Ghani	E		18/01/2006		13/05/2018		M0	102289	20301012		OPERATOR II																								KJ02	Y		
+75	102555	993642	Yeoh	Peng Joo	Yeoh Peng Joo	S	Gary.Yeoh@iqor.com	22/07/2013			MICROSOFT	M8	102305	20301035	PERMAN	REPAIR MANAGER													14/06/2018	M		C		M	M	B			PG		N	Y	
+76	102570	987706			Noor Hedayahtun Bt. Mat Nayan @ Ayub	E		20/03/2006		31/07/2018	DELL	M0	102317	20301012		PROD OPRT																								KJ06	Y		
+77	102572	236319	Hamidah	Bt Che Mei	Hamidah Bt Che Mei	E		27/03/2006			SHIPPING	M2	102506	20301201	PERMAN	SNR SHIPPING ASST													20/09/2018	F		M		S	M	I			PG	KJ14	Y	N	
+78	102576	236511			Rozana Binti Mohd Khalid	E		01/04/2006		31/07/2018	CISCO	M0	7010878	20301003		PROD OPRT																								KJ14	Y		
+79	102587	276899			Noraini Binti Salleh	E		10/04/2006		31/07/2018	DELL LCD	M0	183036	20301011		OPERATOR II																								KJ09	Y		
+80	102592	987775			Azlina Binti Alias	E		17/04/2006			DELL	M0	183036	20301011		PROD LINE LEADER																								KJ12	Y		
+81	102606	276921			Suzila Binti Mat	E		24/04/2006			DELL LCD	M0	183036	20301011		PROD OPRT																								KJ01	Y		
+82	102609	236503			Norliah Binti Rahman	E		09/11/2009			DELL	M0	183036	20301012		PROD OPRT																								KJ03	Y		
+83	102617	276938			Nurazniza Binti Rosli	E		29/05/2006		31/05/2018	QA	M1	28975	20301270		JUNIOR TRAINER																								KJ01	Y		
+84	102635	030211	Narita	Binti Abdul Latif	Narita Binti Abdul Latif	E		03/07/2006			DELL MBD	M0	183036	20301012	PERMAN	PROD OPRT													14/09/2018	F		C		S	M				PG	KJ02	Y	N	
+85	102636	236550	Maizura	Binti Md Nor	Maizura Binti Md Nor	E	maizura.nor@iqor.com	03/07/2006		30/09/2018	BU3	M6	00080360	20301003	PERMAN	Debug Engineer													20/09/2018										PG		N	Y	
+86	102649	276977			Rohani Binti Kadir	E		17/07/2006			DELL	M0	183036	20301011		OPERATOR II																								KJ14	Y		
+87	102652	236597			Siti Asmah Binti Biduan	E		26/07/2006		31/07/2018	CISCO	M0	7010878	20301003		PROD OPRT																								KJ05	Y		
+88	102664	987639			Norhabibah Binti Man	E		21/08/2006		31/07/2018	CISCO	M0	7010878	20301003		OPERATOR III																								KJ05	Y		
+89	102674	276869	Sannura	Bt Sulaiman	Sannura Bt Sulaiman	E		15/10/2006			BU1	M1	102317	20301011	PERMAN	JNR TECH													14/09/2018	F		M		M	M	I			PG		Y	Y	
+90	102677	277041			Norhayati Binti Razali	E		01/11/2006			DELL	M0	102289	20301012		PROD OPRT																								KJ03	Y		
+91	102686	993702	Mohd Fares	Bin Jamil	Mohd Fares Bin Jamil	E		08/01/2007			BU1	M1	102303	20301005	PERMAN	JNR TECH													14/09/2018	M		M		M	M	I			PG	KJ02	Y	Y	
+92	102718	277190			Haslinda Binti Ismail	E		13/08/2007		31/07/2018	DELL LCD	M0	183036	20301011		PROD OPRT																								KJ05	Y		
+93	102721	583048			Siti Zainab Binti Nordin	E		13/08/2007			DELL	M0	183036	20301011		OPERATOR II																								KJ01	Y		
+94	102727	141823			Mas Ayuza Binti Mohd Yusof	E		13/08/2007			QA	M1	00102790	20301270		Junior Trainer																								KJ01	Y		
+95	102748	582517			Asmawati Binti Asalludin	E		27/08/2007			DELL	M0	183036	20301011		OPERATOR II																								KJ01	Y		
+96	102753	277235			Norrihan Binti Piee	E		10/09/2007			DELL MBD	M0	183036	20301012		PROD LINE LEADER																								KJ01	Y		
+97	102765	987617			Normariani Binti Abdul Rahim	E		21/07/2008			DELL	M0	102289	20301012		PROD OPRT																								KJ01	Y		
+98	102785	582676	Nurul Husna	Bt Ramli	Nurul Husna Bt Ramli	E		03/09/2008			DELL	M0	102289	20301012	PERMAN	PROD OPRT													20/09/2018	F		M			M	I			PG	KJ02	Y	N	
+99	102787	236323	Norhafiza	Binti Mat Zin	Norhafiza Binti Mat Zin	E		17/09/2008			MICROSOFT	M1	182429	20301014	PERMAN	TECH DEBUG													21/09/2018	F		M			M	I			PG		Y	Y	
+100	102790	585372			Ching Chin Hui	M	Chinhui.Ching@iqor.com	13/10/2008			QA	M8	331135	20301270	PERMAN	QA MANAGER													14/06/2018										PG		N	Y	
+101	102799	236556			Roslizawatie Binti Md Zain	E		03/11/2008		30/06/2018	CISCO	M0	7010878	20301003		OPERATOR II																								KJ04	Y		
+102	107284	586573	Lee	Kong Leng	Lee Kong Leng	S	Richard.Lee@iqor.com	10/08/2009			FACILITY	M6	102272	20301281	CR	SNR FACILITIES ENGINEER													20/09/2018	M		C		M	M	C			PG		N	Y	
+103	111032	141793	Nurul Ezzati Atiqah	Binti Isma	Nurul Ezzati Atiqah Binti Isma	E		29/01/2013		31/05/2018	CISCO	M0	7010878	20301003	PERMAN	PROD OPRT													20/09/2018	F		M		S	M	I			PG	KJ04	N	N	
+104	114278	30210	Santhimathy	A/P Gopalan	Santhimathy A/P Gopalan	E		09/11/2009		31/07/2018	CISCO	M0	7010878	20301003	PERMAN	PROD OPRT													21/09/2018	F		I		S	M	H			PG	KJ07	Y	N	
+105	122737	083737	Tan	Saw Eam	Tan  Saw Eam	M	SE.Tan@iqor.com	15/03/2010			HUMAN RESOURCE	M8	331135	20301410	PERMAN	SENIOR HR MANAGER													14/06/2018	F		C		M	M	B			PG		N	Y	
+106	123917	236451	Vincent Fong	Siew Chung	Vincent Fong Siew Chung	S		22/03/2010			FACILITY	M6	102272	20301281	PERMAN	SNR EHS OFFICER													20/09/2018	M		C		S	M	B			PG		N	Y	
+107	130711	30138	Yushaida	Binti Yusof	Yushaida Binti Yusof	V		24/05/2010		31/07/2018	HUMAN RESOURCE	M6	102449	20301410	PERMAN	HR OFFICER													24/05/2018	F		M		S	M	I			HQ	KJ05	N	Y	
+108	131783	276735			Malar A/P Segaran	E		04/06/2010		30/06/2018	CISCO	M0	7010878	20301003		PROD OPRT																								KJ02	Y		
+109	135543	987708	Chong	Heng Luong	Chong Heng Luong	S		10/06/2014		31/05/2018	CISCO	M6	7010878	20301003	PERMAN	SNR DEBUG ENGINEER													20/09/2018	M		C		M	M	B			PG		N	Y	
+110	137169	586505	Kamilia	Binti Mohd Yussof	Kamilia Binti Mohd Yussof	E		19/11/2012		30/06/2018	BU3	M1	7010878	20301003	PERMAN	TECH DEBUG													20/09/2018	F		M			M	I			PG		N	Y	
+111	152187	29350			Thanaletchmee A/P Gopalan	E		22/12/2010		31/07/2018	CISCO	M0	7010878	20301003	CE	PROD LINE LEADER													21/05/2018										HQ	KJ06	Y		
+112	156003	29376			Hiew Yoon Fook	E		07/02/2011		31/07/2018	CISCO	M1	7010878	20301003		TECH DEBUG																									Y		
+113	157237	029382	Haslina	Binti Hussin	Haslina Binti Hussin	E		14/02/2011			DELL	M0	7008183	20301033	PERMAN	PROD OPRT													20/09/2018	F		M			M	I			PG	KJ15	Y	N	
+114	157249	583087			Norhaizal Bin Johari	E		14/02/2011		07/08/2018	CISCO	M4	7010878	20301003		TECHNICAL SPECIALIST																									Y		
+115	160072	083825			Norida Binti Abdullah	E		01/04/2011			STORE	M2	102347	20301203	PERMAN	STORE ASST													18/09/2018										PG		Y	Y	
+116	160683	236411	Khoo	Theng Ling	Khoo Theng Ling	E	thengling.khoo@iqor.com	11/04/2011			FINANCE	M6	102533	20301420	PERMAN	ACCOUNT OFFICER													20/09/2018										PG		N	Y	
+117	161193	236342	Yeap	Bee Chew	Yeap Bee Chew	E		18/04/2011			DELL	M6	164968	20301033	PERMAN	SNR PLANNER													09/07/2018	M		C		M	M	B			PG		N	Y	
+118	162923	810406			Helmi Bin Hashim	E		23/05/2011		31/07/2018	CISCO	M1	7010878	20301003		TECH DEBUG																									Y		
+119	164968	583080	Looi	Kok Leong	Looi Kok Leong	S	KokLeong.Looi@iqor.com	06/04/2015			DELL	M8	102272	20301012	PERMAN	PROGRAM MGR													14/06/2018	M		C		M	M	B			PG		N	Y	
+120	165117	993668			Siti Fatimah Binti Mat Hussain	E		04/07/2011			DELL	M1	183036	20301011		SNR TECH																								KJ10	Y		
+121	166638	810314	Lim	Chek Yien	Lim Chek Yien	E	chekyien.lim@iqor.com	08/08/2011		30/09/2018	CISCO	M6	00080360	20301103	PERMAN	Program Administrator													20/09/2018	F		C			M	B			PG		N	Y	
+122	168334	236602			Faisal Bin Zailani	E		23/05/2017		30/06/2018	CISCO	M0	7010878	20301003		PROD OPRT																								KJ10	Y		
+123	174996	141718	Ahmad Nazri	Bin Mat Isa	Ahmad Nazri Bin Mat Isa	E		01/02/2012			STORAGE	M2	102347	20301203	PERMAN	STORE ASST													20/09/2018	M		M			M	I			PG		Y	Y	
+124	174998	586543	Mohd Azuwan	Bin Jamjam	Mohd Azuwan Bin Jamjam	E		01/02/2012		31/08/2018	SHIPPING	M2	00102506	20301201	PERMAN	Store Asst													20/09/2018	M		M			M	I			PG		Y	Y	
+125	175041	586576	Lam	Siang Choong	Lam Siang Choong	E	siangchoong.lam@iqor.com	01/11/2012			BUSINESS DEV	M8	331135	20301306	PERMAN	VP BUSINESS DEVELOPMENT													14/06/2018	M		C		M	M	B			PG		N	Y	
+126	176879	810425			Teh Shaw Ning	M	Shawn.Teh@iqor.com	19/03/2012			FINANCE	M8	331135	20301420	PERMAN	PLANT CONTROLLER													14/06/2018										PG		N	Y	
+127	177079	810428	Ho	Shyh Kee	Ho Shyh Kee	E		24/03/2012			ACCOUNTING	M6	102533	20301420	PERMAN	ACCOUNT OFFICER													20/09/2018	M		C		M	M	B			PG		N	Y	
+128	178173	810293			Kam Soo Ling	E		12/04/2012			IT	M6	102275	20301921	PERMAN	SNR BUSINESS ANALYST													20/09/2018	F		C		S	M	B			PG		N	Y	
+129	178994	582656	Muhammad Fazmi	Bin Abd Latif	Muhammad Fazmi Bin Abd Latif	E		23/04/2012			SHIPPING	M2	102506	20301201	PERMAN	SHIPPING ASST													20/09/2018	M		M			M	I			PG		Y	Y	
+130	178996	236564			Mohd Fadil Bin Saat	E		23/04/2012			STORE	M2	00102506	20301201		Snr Store Asst																									Y		
+131	182429	421673	Khor	Wei Jie	Khor Wei Jie	S	Weijie.Khor@iqor.com	11/06/2012			MICROSOFT	M4	102555	20301014	PERMAN	OPERATION LEAD													21/09/2018	M		C		S	M	B			PG		Y	Y	
+132	183036	083711	Adelyn Lim	Ean Ping	Adelyn Lim Ean Ping	S	Adelyn.Lim@iqor.com	18/06/2012			DELL	M6	164968	20301011	PERMAN	DEBUG ENGINEER													04/07/2018	F		C		S	M	B			PG		N	Y	
+133	183167	734498			Nur Nazwa Binti Aziz	E		25/06/2012			DELL	M1	183036	20301011		TECH DEBUG																									Y		
+134	187173	585521			Zaleha Binti Hamzah	E		28/08/2012		31/07/2018	CISCO	M0	7010878	20301003		PROD OPRT																								KJ01	Y		
+135	187827	141744	Khairul Azlan Hisham	Bin Man	Khairul Azlan Hisham Bin Man	E		01/09/2012			SHIPPING	M2	102506	20301201	PERMAN	STORE ASST													20/09/2018	M		M			M	I			PG		Y	Y	
+136	187830	585498			Marziah Binti Md Nangan	E		03/09/2012		31/07/2018	DELL	M0	183036	20301011		PROD OPRT																								KJ10	Y		
+137	188673	585447	Ho	Ming Kong	Ho Ming Kong	E	mingkong.ho@iqor.com	18/09/2012			CISCO	M6	7010605	20301003	PERMAN	SNR DEBUG ENGINEER													20/09/2018	M		C		S	M	B			PG		N	Y	
+138	189258	582655			Mohamad Ariff Bin A.Rahman	E		01/10/2012		22/06/2018	CISCO	M1	7010605	20301003		TECH DEBUG																									Y		
+139	194585	236358	Nadia	Binti Azahar	Nadia Binti Azahar	E		03/12/2012			BU 5	M1	102414	20301014	PERMAN	TECH DEBUG													20/09/2018	F		M		M	M	I			PG		Y	Y	
+140	195028	586545	Noorul Huda	Binti Mohd Arif	Noorul Huda Binti Mohd Arif	E		05/12/2012			BU 5	M1	00102308	20301014	PERMAN	Snr Tech													20/09/2018	F		M		S	M	I			PG		Y	N	
+141	195745	236404			Saiful Bin Abd Shukor	E		17/12/2012		06/08/2018	SHIPPING	M2	102506	20301201		SHIPPING ASST																									Y		
+142	206103	582677			Siti Atikah Binti Che Soh	E		21/01/2013		30/06/2018	QA	M0	28975	20301270		QA INSPECTOR																								KJ14	Y		
+143	207082	583031			Mohd Faizal Bin Nanyan	E		04/02/2013		24/06/2018	BU2	M1	41461	20301006		Failure Analysis Technician II																									Y		
+144	28975	810315	Siti Rohani	Binti Mehad	Siti Rohani Binti Mehad	S	Siti.Rohani@iqor.com	01/10/1997		30/09/2018	QA	M4	00102790	20301270	PERMAN	Manufacturing Training Supervi													14/09/2018	F		M		M	M	I			PG		Y	Y	
+145	29241	810335	Tan	Siew Hong	Tan Siew Hong	M	Algina.Tan@iqor.com	05/06/2012		31/08/2018	PURCHASING	M8	331135	20301260	PERMAN	MATERIALS MANAGER													14/06/2018	F		C		M	M	B			PG		N	Y	
+146	29684	582674	Hor	Ai Chean	Hor Ai Chean	E		25/10/2001			PURCHASING	M6	29241	20301260	PERMAN	BUYER CUM PLANNER													14/09/2018	F		C			M	B			PG		N	Y	
+147	30113	30151	Noorazah	Binti Abdul Wahab	Noorazah Binti Abdul Wahab	E		06/02/2002		31/07/2018	QA	M0	28975	20301270	PERMAN	QA INSPECTOR													21/09/2018	F		M			M	I			PG		Y	N	
+148	30123	810336	Siti Zubaidah	Binti Ahmad	Siti Zubaidah Binti Ahmad	E		06/02/2006			DELL	M0	183036	20301012	PERMAN	PROD OPRT													20/09/2018	F		M			M	I			PG	KJ12	Y	N	
+149	30576	585348	Nor Intan	Binti Che Ali	Nor Intan Binti Che Ali	E		30/07/2012			QA	M1	00102790	20301270	PERMAN	Trainer													21/09/2018	F		M		M	M	I			PG		Y	Y	
+150	306986	993682	Siti Khadijah	Binti Abu Bakar	Siti Khadijah Binti Abu Bakar	E		29/04/2013			BU 5	M1	102308	20301014	PERMAN	TECH DEBUG													20/09/2018	F		M			M	I			PG		Y	N	
+151	31881	30209	Faridah Hana	Binti Mohamad	Faridah Hana Binti Mohamad	E		14/01/2004		31/07/2018	CISCO	M0	7010878	20301003	PERMAN	PROD OPRT													21/09/2018										PG		Y	N	
+152	32224	586522	Yeap	Kim Peng	Yeap Kim Peng	E		28/05/2007			FINANCE	M6	176879	20301420	PERMAN	SNR ACCOUNT OFFICER													20/09/2018	F		C		M	M	B			PG		N	Y	
+153	32783	141756	Yeap	Cheng Gaik	Yeap Cheng Gaik	E		21/05/2013		30/06/2018	BU 5	M6	102305	20301014	PERMAN	SNR INVENTORY CONTROLLER													21/09/2018	F		C		S	M	B			PG		N	Y	
+154	32964	276742			Yusliana Binti Md Yusof	E		14/01/2005			DELL	M0	183036	20301011		PROD OPRT																									Y		
+155	331135	277368	Tan	Hooi Chieh	Tan Hooi Chieh	M	richard.tan@iqor.com	07/01/2002			ADMIN	M8	331135	20301400	PERMAN	DIRECTOR OF OPERATIONS													14/09/2018	M		C		M	M	B			PG		N	Y	
+156	375069	993639	Leong	Kok Wai	Leong Kok Wai	E		30/07/2013			PURCHASING	M6	29241	20301260	PERMAN	SNR BUYER CUM PLANNER													20/09/2018	M		C		M	M	B			PG		N	Y	
+157	38540	277433			Fatimah Binti Mat Tajuddin	E		20/10/2008		31/07/2018	CISCO	M0	7010878	20301003		PROD OPRT																									Y		
+158	38550	083732			Roslina Binti Saidin	E		20/10/2008			DELL	M0	164968	20301011	PERMAN	PROD OPRT													11/06/2018										PG	KJ04	Y	N	
+159	389512	993630	Lai	Hooi See	Lai Hooi See	E		19/08/2013		30/06/2018	HUMAN RESOURCE	M6	102449	20301410	PERMAN	SNR HR OFICER													21/09/2018	F		C		M	M	B			PG		N	Y	
+160	41461	236405	Chu	Wee Liang	Chu Wee Liang	E	Weeliang.Chu@iqor.com	12/06/2017			DEV ENGINEERING	M6	102304	20301211	PERMAN	SNR TEST ENGINEER													20/09/2018	M		C			M	B			PG		N	Y	
+161	419046	987704	Lian	Seng Hoe	Lian Seng Hoe	E	senghoe.liang@iqor.com	03/09/2013			BU6	M8	102305	20301014	PERMAN	PROGRAM MGR													14/06/2018	M		C		M	M	C			PG		N	Y	
+162	448268	236514	Ku Azuwan	Bin Ku Adenan	Ku Azuwan Bin Ku Adenan	E		01/10/2013			SHIPPING	M2	102506	20301201	PERMAN	STORE ASST													20/09/2018	M		M			M	I			PG		Y	Y	
+163	455338	141820	Tan	Chee Hoon	Tan Chee Hoon	E		01/11/2013			ACCOUNTING	M6	102533	20301420	PERMAN	ACCOUNT OFFICER													20/09/2018	F		C		M	M	B			PG		N	Y	
+164	45891	993708	Khor	Chin Ming	Khor Chin Ming	E		25/03/2013		12/10/2018	BU3	M6	00102328	20301103	PERMAN	Snr Program Administrator													14/09/2018	F		C		M	M	B			PG		N	Y	
+165	459569	810463	Goh	Chin Hon	Goh Chin Hon	E		01/12/2013			SHIPPING	M6	102301	20301201	PERMAN	LOGISTICS OFFICER													20/09/2018	M		C		D	M	B			PG		N	Y	
+166	6999999	583039	Lee	Wei Zhong	Lee Wei Zhong	E		02/03/2015		31/07/2018	CISCO	M6	7010878	20301003	PERMAN	TEST ENGINEER													20/09/2018	M		C		S	M	B			PG		N	Y	
+167	7000460	582527			Mohd Zahidi Bin Othman	E		27/07/2015		31/07/2018	DELL LCD	M1	183036	20301011		TECH DEBUG																									Y		
+168	7000997	582573	Rolando	Calaparan Lagua	Rolando Calaparan Lagua	E		14/09/2015			QA	M6	102790	20301270	PERMAN	QA ENGINEER													20/09/2018	M		O		S	P	C			PG		N	Y	
+169	7002027				Tan Siew Chin	E		14/12/2015		07/05/2018		M6	102533	20301420		AR ACCOUNTANT																											
+170	7003679	582654			Siti Amnah Binti Ahmad	E		21/03/2016		31/07/2018	DELL LCD	M0	183036	20301011		PROD OPRT																									Y		
+171	7004353	582659	Noor Azfarid	Bin Abd Samad	Noor Azfarid Bin Abd Samad	E		09/05/2016		31/08/2018	BU3	M6	07010605	20301103	PERMAN	Debug Engineer													20/09/2018	M		M		M	M	I			PG		N	Y	
+172	7005629	236387			Mohd Faizal Ahmed	E		27/06/2016		30/06/2018	CISCO	M1	7010605	20301003		SNR TECH																									Y		
+173	7006482	236477	Chew	Eng Khoon	Chew Eng Khoon	E	ek.chew@iqor.com	01/08/2016			BU 5	M8	331135	20301014	PERMAN	APAC NPI PROJECT MANAGER													14/06/2018	M		C		M	M	B			PG		N	Y	
+174	7006738	236457			Nurul Wahida Binti Kamarulzaman	E		15/08/2016		31/05/2018	CISCO	M0	7010878	20301003		PROD OPRT																									Y		
+175	7007170	236551			Hasbullah Bin Zakaria	E		19/09/2016		31/07/2018	CISCO	M0	7010878	20301003		PROD OPRT																									Y		
+176	7007342	236469			Mohamad Fakhrul Akmal Bin Mohd Yusof	E		26/09/2016		31/07/2018	CISCO	M0	7010878	20301003		PROD OPRT																									Y		
+177	7007556	236467	Goo	Feng Guan	Goo Feng Guan	E		04/10/2016		30/06/2018	DELL LCD	M4	164968	20301011	PERMAN	OPERATION LEAD													21/09/2018	M		C			M	I			PG		Y	Y	
+178	7007597	236350			Nur Farzana Hanim Binti Mohd Fadzli	E		11/10/2016		31/07/2018	RIM	M0	102289	20301012		PROD OPRT																									Y		
+179	7007598	236351	Marzu	Bin Mat Isa	Marzu Bin Mat Isa	E		10/10/2016		31/08/2018	CISCO	M6	07010605	20301103	PERMAN	Snr Equip Engineer													20/09/2018	F		M		M	M	I			PG		N	Y	
+180	7008055	236308	Joel	Cortez Martin	Joel Cortez Martin	E		28/11/2016			BU1	M6	164968	20301011	PERMAN	DEBUG ENGINEER													20/09/2018	M		O			P	O			PG		N	Y	
+181	7008183	236311	Goh	Bee Sien	Goh Bee Sien	S	Tracelyn.Goh@iqor.com	13/12/2016			DELL	M6	164968	20301033	PERMAN	MATERIAL PLANNER													20/09/2018	F		C		S	M	B			PG		N	Y	
+182	7008559	236331	Simon	A/L Mariadas	Simon A/L Mariadas	E		16/01/2017			PJ	M0	7011251	20301035	PERMAN	PROD OPRT													21/09/2018	M		I			M	H			PJ		N	Y	
+183	7008561	236333	Norfadhilah	Binti Shahruddin	Norfadhilah Binti Shahruddin	E		16/01/2017			PJ	M0	7011251	20301035	PERMAN	PROD OPRT													21/09/2018	F		M			M	I			PJ		N	Y	
+184	7008565	236336	Muhammad Rafiq	Bin Abd Latif	Muhammad Rafiq Bin Abd Latif	E		16/01/2017			PJ	M1	7011251	20301035	PERMAN	SNR TECH													21/09/2018	M		M			M	I			PJ		N	Y	
+185	7008566	236337	Alias	Bin Abdullah	Alias Bin Abdullah	E		16/01/2017		31/07/2018	PJ	M1	7011251	20301035	PERMAN	TECH DEBUG													21/09/2018	M		M			M	I			PJ		Y	Y	
+186	7008567	083739	Abdul Rashid	Bin Zulkefli	Abdul Rashid Bin Zulkefli	E		16/01/2017			PJ	M1	7011251	20301035	PERMAN	SNR TECH													21/09/2018	M		M			M	I			PJ		N	Y	
+187	7008768	7008768	Mohd Fairuz	Bin Othman	Mohd Fairuz Bin Othman	S	Fairuz.Othman@iqor.com	23/01/2017		04/10/2018	BU 5	M6	00102308	20301114	PERMAN	Inventory Controller													14/09/2018	M		M		M	M	I			PG		N	Y	
+188	7008772	236343	Razita	Binti Sidek	Razita Binti Sidek	E		24/01/2017			QA	M0	00102790	20301270	PERMAN	QA Inspector													20/09/2018	F		M			M	I			PG		Y	N	
+189	7009012	236583	Ganesan	A/L Gunasagaran	Ganesan A/L Gunasagaran	E		03/02/2017		11/06/2018	PJ	M1	7011251	20301035	PERMAN	TECH DEBUG													21/09/2018	M		I			M	H			PJ		Y	Y	
+190	7009013	236586	Nur Amira Syafiqah	Binti Abdul	Nur Amira Syafiqah Binti Abdul	E		03/02/2017			PJ	M1	7011251	20301035	PERMAN	TECH DEBUG													21/09/2018	F		M			M	I			PJ		N	Y	
+191	7009020	236580	Normurni	Binti Mohd Rosdy	Normurni Binti Mohd Rosdy	E		03/02/2017		30/06/2018	PJ	M0	7011251	20301035	PERMAN	PROD OPRT													21/09/2018	F		M			M	I			PJ		Y	Y	
+192	7009021	236581	Wan Nor Adabiah	Binti Wan Mazlan	Wan Nor Adabiah Binti Wan Mazlan	E		03/02/2017			PJ	M0	7011251	20301035	PERMAN	PROD OPRT													21/09/2018	F		M			M	I			PJ		N	Y	
+193	7009022	236582	Siti Maisarah	Binti Quaj Mamandh	Siti Maisarah Binti Quaj Mamandh	E		03/02/2017			PJ	M0	7011251	20301035	PERMAN	PROD OPRT													21/09/2018	F		M			M	I			PJ		N	Y	
+194	7009055	7009055	Mohd Afandi	Bin Pauzi	Mohd Afandi Bin Pauzi	E		01/09/2018		03/11/2017	PJ	M1	7011251	20301035	PERMAN	Tech Debug													20/09/2018	M		M			M	I			PJ		N	Y	
+195	7009270	236579	Tng	Jen Cheng	Tng Jen Cheng	E		27/02/2017			PJ	M1	7011251	20301035	PERMAN	TECH DEBUG													21/09/2018	M		C		S	M	B			PJ		N	Y	
+196	7009271	236340	Tng	Jen Siang	Tng Jen Siang	E		27/02/2017			PJ	M0	7011251	20301035	PERMAN	PROD OPRT													21/09/2018	M		C		S	M	B			PJ		N	Y	
+197	7009299	236576	Nurida	Binti Abdul Halim	Nurida Binti Abdul Halim	E		06/03/2017			BU1	M0	183036	20301011	PERMAN	OPERATOR II													20/09/2018	F		M			M	I			PG		Y	N	
+198	7009354	236604	Frederick	Fabon	Frederick Fabon	E		20/03/2017		31/08/2018	BU3	M6	07010878	20301103	PERMAN	Debug Engineer													20/09/2018	M		O			P	C			PG		N	Y	
+199	7009677	236553	Fong	Hui Sheng	Fong Hui Sheng	E		02/05/2017			PJ	M0	7011251	20301035	PERMAN	PROD OPRT													21/09/2018	M		C		S	M	B			PJ		N	Y	
+200	7009750	083707	Kristoffer	Garcia	Kristoffer Garcia	E		01/05/2017			DELL	M6	183036	20301011	PERMAN	DEBUG ENGINEER													20/09/2018	M		O			P	C			PG		N	Y	
+201	7009791	236520	Lee	Siew Hooi	Lee Siew Hooi	E		15/05/2017			FINANCE	M6	102533	20301420	PERMAN	ACCOUNTANT													14/09/2018	F		C		S	M	B			PG		N	Y	
+202	7010152	236591	Siti Nurhidayah	Binti Mydin Pi	Siti Nurhidayah Binti Mydin Pi	E		05/06/2017		05/08/2018	DELL	M1	102266	20301012	PERMAN	TECH DEBUG													21/09/2018	F		M			M	I			PG		Y	Y	
+203	7010160	236533			Siti Nor Azmani Binti Idris	E		05/06/2017			DELL	M0	183036	20301033		PROD OPRT																									Y		
+204	7010444	987765	Wiratad	Manotam	Wiratad Manotam	E		28/06/2017		30/06/2018	CISCO	M6	7010605	20301003	PERMAN	TEST ENGINEER													21/09/2018	M		O		M	M	B			PG		N	Y	
+205	7010445	236546	Nining	SetiaWaty	Nining SetiaWaty	E		28/06/2017			HP	M0	102303	20301005	PERMAN	PROD OPRT													20/09/2018	F		M			I	I			PG		Y	N	
+206	7010605	11111	Ooi	Seng Wei	Ooi Seng Wei	S	SengWei.Ooi@iqor.com	11/07/2017		31/08/2018	BU3	M8	102328	20301003	PERMAN	ENGINEERING MGR													14/06/2018	M		C		M	M	B			PG		N	Y	
+207	7010653	236422	Thinagaran	A/L Mathurai Veeran	Thinagaran A/L Mathurai Veeran	E		17/07/2017			PJ	M1	7011251	20301035	PERMAN	TECH DEBUG													21/09/2018	M		I			M	H			PJ		N	Y	
+208	7010878	236419	Ng	Kok Aun	Ng Kok Aun	S	KokAun.Ng@iqor.com	01/09/2018			BU 5	M8	102305	20301014	PERMAN	REPAIR MANAGER													14/06/2018	M		C		M	M	B			PG		N	Y	
+209	7011095	236417	Lim	Shee Fhang	Lim Shee Fhang	E		15/08/2017			PJ	M6	7011251	20301035	PERMAN	MATERIALS ANALYST													21/09/2018	F		C		S	M	B			PJ		N	Y	
+210	7011251	236449	Tham	Wai Kin	Tham Wai Kin	S	WaiKin.Tham@iqor.com	25/09/2017			PJ	M8	102305	20301035	PERMAN	PROGRAM MGR													14/06/2018	M		C		M	M	B			PG		N	Y	
+211	7011686	83710			Chen Bee Woon	E		27/11/2017		01/06/2018	FINANCE	M6	102533	20301420		ACCOUNTANT																											
+212	753200	987734			Premala A/P Alagesan	E		02/06/2014		31/07/2018	CISCO	M0	7010878	20301003		PROD OPRT																								KJ14	Y		
+213	765257	236494			Norhuda Binti Mustaffa	E		25/04/2016			DELL MBD	M0	183036	20301012		PROD OPRT																								KJ03	Y		
+214	766527	236488			Norhanida Binti Hanafi	E		16/05/2016		31/07/2018	CISCO	M0	7010878	20301003		PROD OPRT																								KJ12	Y		
+215	778304	582660			Noorliah Binti Matin @ Arshad	E		24/06/2014			QA	M0	00102790	20301270		QA Inspector																								KJ12	Y		
+216	8002925	083722	Muhammad Hafizhat	Bin Mohd Rosli	Muhammad Hafizhat Bin Mohd Rosli	E		01/02/2018		05/10/2018	PJ	M1	07011251	20401035	PERMAN	Tech Debug													21/09/2018	M		M			M	I			PJ		N	Y	
+217	8005156	83740	Selvarany	A/P Kuttiappan	Selvarany A/P Kuttiappan	E		26/02/2018		29/06/2018	PJ	M1	7011251	20301035	PERMAN	TECH DEBUG													21/09/2018	F		I			M	H			PJ		Y	Y	
+218	8005158	083721	Lim	Keng Seng	Lim Keng Seng	E		26/02/2018			BU1	M6	164968	20301011	PERMAN	DEBUG ENGINEER													14/09/2018	M		C		M	M	B			PG		N	Y	
+219	8005819	236329	S.Murugayah	A/L M.Sagadevan	S.Murugayah A/L M.Sagadevan	E		05/03/2018			PJ	M1	7011251	20301035	PERMAN	SN TECH													21/09/2018	M		I			M	H			PJ		N	Y	
+220	8015727	236410	Md Yusri	Bin Md Yusoff	Md Yusri Bin Md Yusoff	E		11/06/2018			Tellabs	M1	41461	20301006	PERMAN	Debug Tech													20/09/2018	M		M		M	M	I			PG		Y	Y	
+221	8015728	236339	Nurul Shuhada	Binti Abd Karim	Nurul Shuhada Binti Abd Karim	E		11/06/2018			PJ	M1	7011251	20301035	PERMAN	Debug Tech													21/09/2018	F		M			M	I			PJ		N	Y	
+222	8017705	993705	Gerald Reluya	Del Rosario	Gerald Reluya Del Rosario	E		26/06/2018			MS Malaysia	M1	102414	20301014	PERMAN	Debug Tech													20/09/2018	M		O		M	P	C			PG		Y	Y	
+223	8019769	236569	Darwin Gonzales	Racoma	Darwin Gonzales Racoma	E	darwin.gonzalesracoma@iqor.com	22/07/2018			DELL	M6	164968	20301012	PERMAN	ENGINEER													12/09/1989	M		O	P3183248A	S	P	C			PG		N	Y	
+224	8027245	083843			Mohamad Baihaki Bin Idris	E		08/10/2018			MICROSOFT	M4	102555	20301014	PERMAN	Technical Specialist													11/10/2018										PG		N	Y	
+225	8027246	8027246	Wan Abdul Halim	Bin Wan Rosli	Wan Abdul Halim Bin Wan Rosli	E	wan.abdulhalim@iqor.com	08/10/2018			2030ABC	M1	07011251	20401035	PERMAN	Tech Debug													02/10/1988	M	880220-11-5183	M		S	M	I			PJ		Y	Y	
+226	80360	993711	Lim	Wei Zhiang	Lim Wei Zhiang	E	weizhiang.lim@iqor.com	31/03/2008			BU3	M8	102328	20301003	PERMAN	OPERATION INNOVATION MANAGER													14/06/2018	M		C		M	M	B			PG		N	Y	
+227	888104	987784			Siti Nor Artini Binti Idris	E		27/10/2014			DELL	M0	102289	20301012		PROD OPRT																								KJ14	Y		
+228	891008	987646	Ooi	Hooi Pheng	Ooi Hooi Pheng	E	hooipheng.ooi@iqor.com	30/10/2014			FINANCE	M6	176879	20301422	PERMAN	SNR FINANCE ANALYST													20/09/2018	M		C		S	M	B			PG		N	Y	
+229	89188	586537			Julia Binti Arasat @ Arshad	E		20/10/2008			DELL	M0	183036	20301011		PROD OPRT																									Y		
+230	894355	236478			Jennifer A/P Nathan	E		03/11/2014		30/06/2018	CISCO	M0	7010878	20301003		PROD OPRT																								KJ08	Y		
+231	913151	277174	Satta	Chonlabut	Satta Chonlabut	E		05/01/2015			CISCO	M6	7010605	20301003	PERMAN	SNR TEST ENGINEER													20/09/2018	M		O		M	O	B			PG		N	Y	
+232	918273	583038			Syahril Fahmy Bin Mohd Rafiaee	E		23/02/2015		31/07/2018	CISCO	M1	7010878	20301003		TECH DEBUG																									Y		
+233	978435	236495	Arnon	Kaewchuay	Arnon Kaewchuay	E		11/05/2015			CISCO	M6	7010605	20301003	PERMAN	SNR TEST ENGINEER													20/09/2018	M		O		M	O	B			PG		N	Y	
+234	CN0049	083735			Wam Abd Malik Bin Wan Romli	E		03/03/2014			FACILITY	M0	102278	20301281		FACILITY TECHNICIAN																									Y		
+235	CN0066	236392			Choong Poh Siew	E		03/03/2010			FACILITY	M0	102278	20301281		CLEANER																									Y		
+236	CN0095	810295			Md Tandu	E		02/06/2014			FACILITY	M0	102278	20301281		CLEANER																									Y		
+237	CN0107	236593	Mohammad	Anech	Mohammad Anech	E		16/05/2018			FACILITY	M0	102278	20301281	FORG	CLEANER													12/06/2018	M		O		S	O	O			PG		Y	Y	
+238	CN0110	236483			Md Moina Mia	E		19/05/2016		31/07/2018	FACILITY	M0	102278	20301281		CLEANER																									Y		
+239	CN0118	236508			Cici Dwi	E		14/02/2017			FACILITY	M0	102278	20301281		CLEANER																									Y		
+240	CN0119	236408			Mohammad Babo Miah	E		19/06/2017		31/07/2018	FACILITY	M0	102278	20301281		CLEANER																									Y		
+241	CN0121				Mohammad Monjur Kabir	E		16/10/2017		09/05/2018		M0	102278	20301281		CLEANER																									Y		
+242	CN0123	236560	Mohammad	Delowar Hossen	Mohammad Delowar Hossen	E		25/06/2018		02/08/2018	Facility	M0	102278	20301281	FORG	Cleaner													20/07/2018	M									PG		Y	Y	
+243	CN0124	236534	Hossain	Md Raju	Hossain Md Raju	E		06/08/2018			FACILITY	M0	102278	20301281	FORG	CLEANER													11/02/1995	M		O	BQ0656855	S	O	I			PG		Y	Y	
+244	CN0125	236345	Sheikh	Nazmul	Sheikh Nazmul	E		06/08/2018			FACILITY	M0	102278	20301281	FORG	CLEANER													06/05/1995	M		O	BC0656851	S	O	I			PG		Y	Y	
+245	CW10163	83718			Lee Jia Fang	E		05/02/2018		25/07/2018	PURCHASING	M6	29241	20301260		BUYER CUM PLANNER																											
+246	CW10456	083736	Jamir	Carreon Comendador	Jamir  Carreon Comendador	E		26/03/2018			BU1	M0	102289	20301012	FORG	TECHNICAL SPECIALIST													20/09/2018	M		O			P	O			PG		Y	N	
+247	CW11473	083718			Nur Safitri	E		17/07/2018			Dell Mbd	M0	183036	20301012	FORG	Prod Oprt													23/07/2018	F									PG		Y	Y	
+248	CW11474	083823			Nike Haryanti	E		17/07/2018			Quality Assurance	M0	28975	20301270	FORG	Prod Oprt													23/07/2018	F									PG		Y	Y	
+249	CW11475	083741			Yuna Mastika Damanik	E		17/07/2018			Dell LCD	M0	183036	20301011	FORG	Prod Oprt													23/07/2018	F									PG		Y	Y	
+250	CW11476	083822			Maria Mahdalena Situmorang	E		17/07/2018			Quality Assurance	M0	28975	20301270	FORG	Prod Oprt													23/07/2018	F									PG		Y	Y	
+251	CW11477	083742			Rosita Nahampun	E		17/07/2018			Dell LCD	M0	183036	20301011	FORG	Prod Oprt													23/07/2018	F									PG		Y	Y	
+252	CW11478	083833			Julia Fitri Yanti Pangaribuan	E		17/07/2018			Dell LCD	M0	102317	20301011	FORG	Prod Oprt													23/07/2018	F		O		S		C			PG		Y	Y	
+253	CW11479	083818			Rina Sitorus	E		17/07/2018			Dell Mbd	M0	102317	20301012	FORG	Prod Oprt													23/07/2018	F									PG		Y	Y	
+254	CW11480	083751			Elprida Simbolon	E		17/07/2018			Dell LCD	M0	183036	20301011	FORG	Prod Oprt													23/07/2018	F									PG		Y	Y	
+255	CW11481	083775			Marintan Sianipar	E		17/07/2018			Dell LCD	M0	102289	20301011	FORG	Prod Oprt													23/07/2018	F									PG		Y	Y	
+256	CW11482	083819			Desy Rahayu	E		17/07/2018			Dell Mbd	M0	183036	20301012	FORG	Prod Oprt													23/07/2018	F									PG		Y	Y	
+257	CW11483	083796			Lusi Mariance Simanjuntak	E		17/07/2018			Dell LCD	M0	183036	20301011	FORG	Prod Oprt													23/07/2018	F									PG		Y	Y	
+258	CW11484	083820			Erika Simanjuntak	E		17/07/2018			Dell Mbd	M0	183036	20301012	FORG	Prod Oprt													23/07/2018	F									PG		Y	Y	
+259	CW11485	083821			Ade Rafika Suri	E		17/07/2018			Dell Mbd	M0	183036	20301012	FORG	Prod Oprt													23/07/2018	F									PG		Y	Y	
+260	CW11486	083813			Santa Maria Nababan	E		17/07/2018			Dell LCD	M0	183036	20301011	FORG	Prod Oprt													23/07/2018	F									PG		Y	Y	
+261	CW11487	083824			Romasiana Tamba	E		17/07/2018			Quality Assurance	M0	28975	20301270	FORG	Prod Oprt													23/07/2018	F									PG		Y	Y	
+262	CW11526	236559	Neizer Saratan	Marcelo	Neizer Saratan Marcelo	E		23/07/2018			DELL	M0	183036	20301012	FORG	TECHNICAL SPECIALIST													13/04/1986	M		O	EC8060571	M	P	C			PG		Y	Y	
+263	CW11728	236359	Traiska Silalahi		Traiska Silalahi	E		20/08/2018			DELL	M0	183036	20301012	FORG	PROD OPRT													20/08/2018	F		O	AU342459	S	I	C			PG		Y	Y	
+264	CW11729	083826	Veronika Lesiari Simanjuntak		Veronika Lesiari Simanjuntak	E		20/08/2018			DELL	M0	183036	20301012	FORG	PROD OPRT													24/07/1993	F		O	AU342443	S	I	C			PG		Y	Y	
+265	CW11730	083830	Juita Tarihoran		Juita Tarihoran	E		20/08/2018			DELL	M0	183036	20301012	FORG	PROD OPRT													08/08/1995	F		O	AU342399	S	I	C			PG		Y	Y	
+266	CW11731	083831	Rosdelima Marbun		Rosdelima Marbun	E		20/08/2018			DELL	M0	183036	20301011	FORG	PROD OPRT													30/10/1999	F		O	AU342400	S		C			PG		Y	Y	
+267	CW11732	083832	Nani Agustini Manullang		Nani Agustini Manullang	E		20/08/2018			DELL	M0	183036	20301011	FORG	PROD OPRT													20/08/2018	F		O	AU342407	S	I	I			PG		Y	Y	
+268	CW11750	083287	Siti Zahara		Siti Zahara	E		22/08/2018			2030ABC	M0	7011251	20301035	FORG	PROD OPRT													23/02/1980	F		O	AR514905	M	I	I			PJ		N	Y	
+269	CW11765	236583	Salmiati		Salmiati	E		05/07/2010			2030ABC	M0	7011251	20301035	FORG	PROD OPRT													03/10/1980	F		O	AT608719	S	I	I			PJ		N	N	
+270	CW11816	083731	Marinawati Panjaitan		Marinawati Panjaitan	E		05/09/2018			DELL	M0	183036	20301011	FORG	PROD OPRT													09/12/1999	F		O	AU343132	S	I	O			PG		Y	Y	
+271	CW11817	083723	Cristina Tampubolon		Cristina Tampubolon	E		05/09/2018			DELL	M0	183036	20301012	FORG	PROD OPRT													06/09/1995	F		O	AU342367	S	I	C			PG		Y	Y	
+272	CW11818	083727	Renni Tampubolon		Renni Tampubolon	E		05/09/2018			DELL	M0	183036	20301011	FORG	PROD OPRT													27/06/1999	F		O	AU343053	S	I	C			PG		Y	Y	
+273	CW11819	083724	Afzahanim Binti	Azhar	Afzahanim Binti Azhar	E		05/09/2018			MICROSOFT	M0	102414	20301014	TEMP	TECH													11/09/1995	F	950911075134	M		S	M	I			PG		Y	Y	
+274	CW11850	083835	Siti Suarni		Siti Suarni	E		12/09/2018			DELL	M0	183036	20301012	FORG	PROD OPRT													05/01/1998	F		O	AU389787	S	I	C			PG		Y	Y	
+275	CW11851	083836	Delima Nainggolan		Delima Nainggolan	E		12/09/2018			DELL	M0	183036	20301012	FORG	PROD OPRT													01/07/1996	F		O	AU343047	S	I	C			PG		Y	Y	
+276	CW11852	083837	Lenni Mariati Simbolon		Lenni Mariati Simbolon	E		12/09/2018			DELL	M0	183036	20301012	FORG	PROD OPRT													12/09/2018	F		O	AU389751		I	C			PG		Y	Y	
+277	CW11853	083838	Anita		Anita	E		12/09/2018			DELL	M0	183036	20301011	FORG	PROD OPRT													19/01/1990	F		O	AU389892	S	I	I			PG		Y	Y	
+278	CW11854	083842	Notalia		Notalia	E		12/09/2018			DELL	M0	183036	20301011	FORG	PROD OPRT													05/11/1992	F		O	AU389752	S	I	C			PG		Y	Y	
+279	CW11857	083841	Sri Devi Tamarani Sinaga		Sri Devi Tamarani Sinaga	E		12/09/2018			DELL	M0	183036	20301011	FORG	PROD OPRT													01/05/1996	F		O	AU389894	S	I	C			PG		Y	Y	
+280	CW11858	083840	Dhias Yeptiana Manullang		Dhias Yeptiana Manullang	E		12/09/2018			DELL	M0	183036	20301012	FORG	PROD OPRT													12/07/1998	F		O	AU389703	S	I	C			PG		Y	Y	
+281	CW11900	083733	Joe Ang Xia Wei		Joe Ang Xia Wei	E		24/09/2018			SITE IT	M0	102265	20301430	SHIFT	IT ENGINEER													08/05/1990	M	900805-07-5549	C		S	M	C			PG		Y	Y	
+282	CW11929	CW11929	Rahmayuni		Rahmayuni	E	rahmayuni.rahmayuni@iqor.com	08/10/2018			2030ABC	M0	7011251	20301035	FORG	PROD OPRT													26/06/1990	F		O	AT791940	S	I	I			PJ		Y	Y	
+283	CW11992	582525	Ang Tzu Te		Ang Tzu Te	E	tzute.ang@iqor.com	02/10/2018			IT	M0	102265	20301430	CE	IT HELPDESK													22/10/2018										PG		N	Y	
+284	DNY1				Mohamed Adam Bin Shaik Mohamed	E		05/01/2009		30/04/2018		M4	102278	20301281		FACILITY TECHNICIAN																									Y		
+285	FC0043	582514			ISMAIL BIN AHMAD	E		01/06/2015			FACILITY	M0	102278	20301281		FACILITY TECHNICIAN																									Y		
+286	FC0051	236519			Muhammad Husaini Bin Zolkifli	E		08/05/2017			FACILITY	M0	102278	20301281		FACILITY TECHNICIAN																									Y		
+287	FC0052	987761			Mohd Khalifah Bin Mohamad Kamal	E		12/12/2017			FACILITY	M0	102278	20301281		FACILITY TECHNICIAN																									Y		
+288	IT0061	236544			Lim Kai Woon	E		04/04/2016			IT	M0	102265	20301430		IT HELPDESK																									Y		
+289	IT0066	236462			Ng Kai Sheng	E		05/09/2016		12/05/2018	IT	M0	102265	20301430		IT HELPDESK																									Y		
+290	IT0070	236443			Desmond Cheang Lih Wen	E		18/07/2017		07/04/2018	IT	M0	102265	20301430		IT HELPDESK																									Y		
+291	IT0071	987766			Loo Ching Yin	E		05/09/2017			IT	M0	102265	20301430		IT ENGINEER																									Y		
+292	IT0072	83720			Lim Yi Xian	E		26/02/2018		02/08/2018	IT	M0	102265	20301430		IT ENGINEER																									Y		
+293	IT0073	IT0073	Herrick Goh	Yin Ta	Herrick Goh Yin Ta	E		09/04/2018		22/09/2018	Site IT	M0	102265	20301430	TEMP	IT Helpdesk													30/08/2018	M		C		S	M	B			PG		Y	Y	
+294	IT0074	236541	Lee	Yuan Loong	Lee Yuan Loong	E		23/04/2018		23/05/2018	Site IT	M0	102265	20301430	SHIFT	IT Helpdesk													21/09/2018	M		C			M	B			PG		Y	Y	
+295	LEW	123456				V		28/06/2018			HP	M4	102272	20301003	EXTEE	ACCOUNTING MANAGER													28/06/2018										P3 FAC		N	Y	
+296	NM0027	141741	Salmiati		Salmiati	E		05/07/2010		21/08/2018	BU6	M0	183036	20301035	FORG	PROD OPRT													20/09/2018	F		M			I	I			PJ	OS01	Y	N	
+297	NM0044	277571	Suriati		Suriati	E		29/07/2010			PJ	M0	7011251	20301035	FORG	PROD OPRT													21/09/2018	F		M			I	I			PJ	OS01	N	Y	
+298	NM0154	810373			Ali Dizon Villanueva	E		13/06/2011			CISCO	M0	7010605	20301003		TECHNICAL SPECIALIST																								OS01	Y		
+299	NM0256	236389			Dante Reyes Elefante	E		27/06/2016			DELL	M0	183036	20301012		TECHNICAL SPECIALIST																								OS01	Y		
+300	NM0279	582522			Steven San Luis Cebrian	E		04/11/2015		30/06/2018	CISCO	M0	7010605	20301003		TECHNICAL SPECIALIST																								OS01	Y		
+301	NM0334	586482	Maulina Lingga		Maulina Lingga	E		22/10/2012		15/08/2018	PJ	M0	7011251	20301035	FORG	PROD OPRT													21/09/2018	F		M			I	I			PJ	OS01	Y	Y	
+302	NM0348	987674	Mardiana		Mardiana	E		24/10/2012		03/09/2018	PJ	M0	7011251	20301035	FORG	PROD OPRT													21/09/2018	F		M		M	I	I			PJ	OS01	Y	Y	
+303	NM0353	236445	Jayson	Esteban Atangan	Jayson Esteban Atangan	E		12/07/2017			BU1	M0	102289	20301012	FORG	TECHNICAL SPECIALIST													20/09/2018	M		O			O	O			PG	OS01	Y	N	
+304	NM0383	236318			Melta Taringan	E		05/11/2012		06/10/2018	DELL	M0	183036	20301012	FORG	PROD OPRT													08/10/2018										PG	OS01	Y	Y	
+305	NM0420	582665			Ethel Rivero Querubin	E		16/02/2016		10/08/2018	CISCO	M0	7010878	20301003		TECHNICAL SPECIALIST																								OS01	Y		
+306	NM0433	236378			Michael Ian Tagulao Jimenez	E		30/05/2016		23/05/2018	DELL	M0	102289	20301012		TECHNICAL SPECIALIST																								OS01	Y		
+307	NM0438	586536			Siti Zahara	E		14/01/2013		31/07/2018	BU3	M0	7010878	20301003		PROD OPRT																								OS01	Y		
+308	NM0465	993705			Gerald R. Del Rosario	V		01/04/2013		25/06/2018	HUMAN RESOURCE	M0	102449	20301410	PERMAN	HR ASSISTANT													24/05/2018										HQ	OS01	Y		
+309	NM0483	582670	Christopher	Caputolan Bataluna	Christopher Caputolan Bataluna	E		18/11/2015			PURCHASING	M0	102301	20301260	FORG	TECHNICAL SPECIALIST													20/09/2018	M		O			P	O			PG	OS01	Y	N	
+310	NM0484	583125			Rudy Manrique Cabritit	E		28/09/2015		10/08/2018	CISCO	M0	7010878	20301003		TECH DEBUG																								OS01	Y		
+311	NM0490	236471			June Gazal Apostol	E		26/09/2016		31/07/2018	CISCO	M0	7010605	20301003		TECHNICAL SPECIALIST																								OS01	Y		
+312	NM0543	236587	Suyanti Siahaan		Suyanti Siahaan	E		07/01/2015			PJ	M0	7011251	20301035	FORG	PROD OPRT													21/09/2018	F		M		S	I	I			PJ	OS01	N	Y	
+313	NM0551	236391	Nestorio Driden	Balute Comenda	Nestorio Driden Balute Comenda	E		16/02/2015			BU 5	M0	102414	20301014	FORG	TECHNICAL SPECIALIST													20/09/2018	M		O			O	O			PG	OS01	Y	N	
+314	NM0552	583054			Diosdado Ombao Casimiro Jr.	E		16/03/2015		31/05/2018	CISCO	M0	7010605	20301003		TECHNICAL SPECIALIST																								OS01	Y		
+315	NM0554	583056			Antonio Balaba Palingcod Jr.	E		16/03/2015		31/07/2018	CISCO	M0	7010878	20301003		PROD OPRT																								OS01	Y		
+316	NM0556	583058			Darren Louise Comendador Camiro	E		16/03/2015		31/07/2018	CISCO	M0	7010878	20301003		PROD OPRT																								OS01	Y		
+317	NM0557	583059			Nicasio Tajao Timog	E		16/03/2015		31/07/2018	CISCO	M0	7010878	20301003		PROD OPRT																								OS01	Y		
+318	NM0560	236585	Allan	Barte Bagui	Allan Barte Bagui	V		18/03/2015			HUMAN RESOURCE	M0	102449	20301410	FORG	HR ASSISTANT													24/05/2018	M		O		S	P	C			PG	OS01	Y	Y	
+319	NM0562	236393	Emer Lionel	Cultura Dimalibot	Emer Lionel Cultura Dimalibot	E		18/03/2015			BU1	M0	102303	20301005	FORG	TECHNICAL SPECIALIST													20/09/2018	M		O			P	O			PG	OS01	Y	N	
+320	NM0563	583074			Jose Baluyot Seviano	E		18/03/2015		23/06/2018	DELL	M0	183036	20301012		TECHNICAL SPECIALIST																								OS01	Y		
+321	NM0566	583077			Erwin Perez Mansilungan	E		18/03/2015		30/06/2018	CISCO	M0	7010605	20301003		TECHNICAL SPECIALIST																								OS01	Y		
+322	NM0571	583098			Alfredo Cubilla Nanale Jr.	E		30/03/2015		31/07/2018	CISCO	M0	7010878	20301003		TECHNICAL SPECIALIST																								OS01	Y		
+323	NM0572	583097	Glindro	Balancio Manao	Glindro Balancio Manao	E		30/03/2015			RIM	M0	102289	20301012	FORG	TECHNICAL SPECIALIST													20/09/2018	M		O			P	C			PG	OS01	Y	N	
+324	NM0573	583096			Elmer Agumbay Quimno	E		30/03/2015		31/07/2018	CISCO	M0	7010878	20301003		PROD OPRT																								OS01	Y		
+325	NM0576	236573			John Marvin Villamater Ignacio	E		30/03/2015			DELL	M0	183036	20301012		PROD OPRT																								OS01	Y		
+326	NM0577	582667			Christian Villalobos Magnaye	E		30/03/2015			DELL	M0	183036	20301011		PROD OPRT																								OS01	Y		
+327	NM0582	583105	Gerardo Bautista	Aguinaldo Jr.	Gerardo Bautista Aguinaldo Jr.	E		27/04/2015			BU1	M0	102289	20301011	FORG	TECHNICAL SPECIALIST													20/09/2018	M		O			P	O			PG	OS01	Y	N	
+328	NM0587	583111			Joel Olitoquit Domanais	E		27/04/2015		31/07/2018	CISCO	M0	7010878	20301003		PROD OPRT																								OS01	Y		
+329	NM0588	583112			Jerone Mendez Aliazon	E		27/04/2015			CISCO	M0	7010605	20301003		TECHNICAL SPECIALIST																								OS01	Y		
+330	NM0591	583115	Harold Ace	Aquino Servito	Harold Ace Aquino Servito	E		27/04/2015		13/09/2018	CISCO	M0	7010878	20301003	FORG	PROD OPRT													21/09/2018	M		O			P	C			PG	OS01	Y	N	
+331	NM0593	583127			Mark Anthony Yanto Briones	E		25/05/2015		21/05/2018	DELL LCD	M0	183036	20301011		PROD OPRT																								OS01	Y		
+332	NM0597	582532			Jeffry Marigsa Villareal	E		06/07/2015			DELL	M0	183036	20301012		PROD OPRT																								OS01	Y		
+333	NM0599	582534			Jayson Navoa Rodriguez	E		06/07/2015		28/06/2018	DELL	M0	183036	20301012		TECH DEBUG																								OS01	Y		
+334	NM0600	582535			Richie Dela Rosa Solis	E		06/07/2015		30/06/2018	CISCO	M0	7010878	20301003		PROD OPRT																								OS01	Y		
+335	NM0603	236561			Archie Dhan Louis Serra Calixtro	E		06/07/2015		31/05/2018	CISCO	M0	7010878	20301003		PROD OPRT																								OS01	Y		
+336	NM0611	582546			Darwin Gonzales Racoma	E		06/07/2015		21/07/2018	DELL	M0	183036	20301012	FORG	TECHNICAL SPECIALIST													26/07/2018										PG	OS01	Y		
+337	NM0615	582528	Erwin	Manansala Yabut	Erwin Manansala Yabut	E		03/08/2015			CISCO	M0	41461	20301010	FORG	TECHNICAL SPECIALIST													21/09/2018	M		O			P	C			PG	OS01	Y	N	
+338	NM0619	582668			Nolly Villareal Baldesimo	E		27/07/2015		25/07/2018	DELL	M0	183036	20301012		TECHNICAL SPECIALIST																								OS01	Y		
+339	NM0620	582557			Erick Deticio Estoque	E		03/08/2015			DELL	M0	183036	20301012		TECHNICAL SPECIALIST																								OS01	Y		
+340	NM0621	582521			Dalmacio Montallana Biron Jr.	E		17/08/2015		31/07/2018	BU3	M0	7010878	20301003		TECH DEBUG																								OS01	Y		
+341	NM0622	582564			Khevin Cornejo Maligalig	E		17/08/2015		31/07/2018	BU3	M0	7010878	20301003		PROD OPRT																								OS01	Y		
+342	NM0624	582567			Tran Thi Thu Thuong	E		24/08/2015		23/05/2018	CISCO	M0	7010878	20301003		PROD OPRT																								OS01	Y		
+343	NM0627	582571			Jojo Colobong Pajatin	E		21/09/2015		30/06/2018	CISCO	M0	7010605	20301003		TECHNICAL SPECIALIST																								OS01	Y		
+344	NM0629	582652			Garry Ulbaken Jose	E		05/10/2015			CISCO	M0	7010878	20301003		TECHNICAL SPECIALIST																								OS01	Y		
+345	NM0721	987753			Santosh Kumar Karki	E		28/06/2017			DELL	M0	102317	20301011		PROD OPRT																								OS01	Y		
+346	NM0723	987755			Dependra Mahara	E		28/06/2017		03/08/2018	DELL	M0	7008183	20301033		PROD OPRT																								OS01	Y		
+347	NM0724	987756			Umesh Kumar Singtan	E		28/06/2017		04/07/2018	DELL	M0	183036	20301012		PROD OPRT																								OS01	Y		
+348	NM0725	83738			Roshan Kumar Sah	E		28/06/2017		03/08/2018	DELL	M0	183036	20301012		PROD OPRT																								OS01	Y		
+349	NM0726	987758	Santosh	Kumar Yadav	Santosh Kumar Yadav	E		28/06/2017			BU1	M0	102289	20301012	FORG	PROD OPRT													20/09/2018	M		O			N	O			PG	OS01	Y	N	
+350	NM0727	987759			Ram Kumar Shrestha	E		28/06/2017		31/05/2018	CISCO	M0	7010878	20301003		PROD OPRT																								OS01	Y		
+351	NM0728	987760			Anup Rai	E		28/06/2017		14/06/2018	CISCO	M0	7010878	20301003		PROD OPRT																								OS01	Y		
+352	NM0729	987763	Nabin	Khadka	Nabin Khadka	E		28/06/2017			BU1	M0	102289	20301012	FORG	PROD OPRT													20/09/2018	M		O			N	O			PG	OS01	Y	N	
+353	NM0730	987764	Krishna	Mahato	Krishna Mahato	E		28/06/2017			BU1	M0	183036	20301011	FORG	PROD OPRT													20/09/2018	M		O			N	O			PG	OS01	Y	N	
+354	NM0731	987610			Mark Anthony Pascual Gatus	E		03/07/2017			DELL	M0	102289	20301012		TECHNICAL SPECIALIST																								OS01	Y		
+355	NM0734	236446			Keshab Thapa	E		07/07/2017			DELL	M0	183036	20301011	CE	PROD OPRT													12/10/2018										PG	OS01	Y	N	
+356	NM0735	236414			Sunil Baniya	E		07/07/2017		30/06/2018	DELL	M0	7008183	20301033		PROD OPRT																								OS01	Y		
+357	NM0736	236415			Anil Tamang	E		07/07/2017		31/05/2018	CISCO	M0	7010878	20301003		PROD OPRT																								OS01	Y		
+358	NM0737	236416			Padam Bahadur Dhami	E		07/07/2017		31/05/2018	CISCO	M0	7010878	20301003		PROD OPRT																								OS01	Y		
+359	NM0738	083719	Marlon	Nunez Malingin	Marlon Nunez Malingin	E		12/07/2017			BU1	M0	102289	20301012	FORG	TECHNICAL SPECIALIST													20/09/2018	M		O			M	O			PG	OS01	Y	N	
+360	NM0739	236431			Dwi Mega Jerniawan Simanjuntak	E		14/08/2017		31/07/2018	CISCO	M0	7010878	20301003		PROD OPRT																								OS01	Y		
+361	NM0740	236432			Primita Karolina Lingga	E		14/08/2017		30/06/2018	CISCO	M0	7010878	20301003		PROD OPRT																								OS01	Y		
+362	NM0742	236316			Jesika Mariana Arma Manurung	E		14/08/2017		30/06/2018	CISCO	M0	7010878	20301003		PROD OPRT																								OS01	Y		
+363	NM0743	236517			Lilis Andriyani	E		14/08/2017		30/06/2018	CISCO	M0	7010878	20301003		PROD OPRT																								OS01	Y		
+364	NM0744	236436			Riyanti Sianturi	E		14/08/2017			DELL	M0	183036	20301011		PROD OPRT																								OS01	Y		
+365	NM0745	236403			Tri Nopa Sirait	E		14/08/2017			DELL	M0	183036	20301011		PROD OPRT																								OS01	Y		
+366	NM0746	236438			Fridan Elvita Bangun	E		14/08/2017			DELL	M0	183036	20301012		PROD OPRT																								OS01	Y		
+367	NM0747	236592			Puji Yani Sembiring	E		14/08/2017			DELL	M0	183036	20301012	FORG	PROD OPRT													17/07/2018										PG	OS01	Y	Y	
+368	NM0749	236442			Manuel Tendencia Colinares	E		15/08/2017			DELL	M0	102317	20301011		TECHNICAL SPECIALIST																								OS01	Y		
+369	NM0750	236441			Levi Guinocor Capuno	E		15/08/2017		10/08/2018	DELL	M0	102289	20301012		TECHNICAL SPECIALIST																								OS01	Y		
+370	NM0751	987772			Henny Sihole	E		04/09/2017			DELL	M0	102289	20301011		PROD OPRT																								OS01	Y		
+371	NM0753	987770	Yulianti		Yulianti	E		04/09/2017			HP	M0	102303	20301005	FORG	PROD OPRT													20/09/2018	F		M			I	I			PG	OS01	Y	N	
+372	NM0754	987769			Dwi Friska Pasaribu	E		04/09/2017		31/07/2018	CISCO	M0	7010878	20301003		PROD OPRT																								OS01	Y		
+373	NM0755	987768			Indrayati Natalia Tampubolon	E		04/09/2017		31/07/2018	CISCO	M0	7010878	20301003		PROD OPRT																								OS01	Y		
+374	NM0756	987767			Novita Marbun	E		04/09/2017		31/07/2018	CISCO	M0	7010878	20301003		PROD OPRT																								OS01	Y		
+375	NM0757	083690			Indah Sari Nainggolan	E		03/10/2017			DELL	M0	183036	20301011		PROD OPRT																								OS01	Y		
+376	NM0758	083691			Maharani	E		03/10/2017			DELL	M0	183036	20301011		PROD OPRT																								OS01	Y		
+377	NM0759	083692			Masganti Hasibuan	E		03/10/2017			DELL LCD	M0	102317	20301011		PROD OPRT																								OS01	Y		
+378	NM0761	083694			Sri Eka Damaiyanti	E		03/10/2017			DELL	M0	183036	20301011		PROD OPRT																								OS01	Y		
+379	NM0762	236369			Siti Fatimah Harahap	E		03/10/2017			DELL	M0	102317	20301011	FORG	PROD OPRT													28/06/2018										PG	OS01	Y	Y	
+380	NM0763	083696	Sriance	Siregar	Sriance Siregar	E		03/10/2017			DELL	M0	183036	20301012	FORG	PROD OPRT													14/09/2018	F		O		S	I	O			PG	OS01	Y	N	
+381	NM0764	083834			Fitri Juliana	E		03/10/2017			DELL	M0	183036	20301012	FORG	PROD OPRT													17/08/2018										PG	OS01	Y	Y	
+382	NM0765	083698			Rovy Yunita Simanjuntak	E		03/10/2017			DELL	M0	183036	20301012		PROD OPRT																								OS01	Y		
+383	NM0766	083699			Sartika Purba	E		03/10/2017			DELL	M0	183036	20301012		PROD OPRT																								OS01	Y		
+384	NM0767	083700			Fitri Lindayani	E		03/10/2017			DELL	M0	183036	20301012		PROD OPRT																								OS01	Y		
+385	NM0768	083701			Linda Susanti Zai	E		03/10/2017			DELL	M0	183036	20301012		PROD OPRT																								OS01	Y		
+386	NM0769	083702			Devi Hari Yanti Pulungan	E		03/10/2017			DELL MBD	M0	102289	20301012		PROD OPRT																								OS01	Y		
+387	NM0770	083703			Intanida Barus	E		03/10/2017			HP	M0	102303	20301005		PROD OPRT																								OS01	Y		
+388	NM0771	083704	Naomi	Ramsi Yanita	Naomi Ramsi Yanita	E		03/10/2017			CISCO	M0	41461	20301010	FORG	PROD OPRT													21/09/2018	F		M			I	I			PG	OS01	Y	N	
+389	NM0772	083705	Tika	Pratiwi	Tika Pratiwi	E		03/10/2017			CISCO	M0	41461	20301010	FORG	PROD OPRT													21/09/2018	F		M			I	I			PG	OS01	Y	N	
+390	NM0773	83706			Widya Ramadhani Sitompul	E		03/10/2017		31/07/2018	CISCO	M0	7010878	20301003		PROD OPRT																								OS01	Y		
+391	NR0007	236465	ASP Medical Clinic		ASP Medical Clinic	E		15/08/2009		30/08/2018	HUMAN RESOURCE	M0	102450	20301410	SHIFT	NURSE													11/06/2018	F					M				PG		Y	Y	
+392	RP0221	583067			Risdiyanti	E		16/03/2015			DELL	M0	102289	20301012		PROD OPRT																								OS01	Y		
+393	RP0228	582511			Rayu Ning Villa	E		01/06/2015		23/05/2018	CISCO	M0	7010878	20301003		PROD OPRT																								OS01	Y		
+394	SC0091	236554	Ulaganathan	A/L Singaram	Ulaganathan A/L Singaram	S	ulaganathan.singaram@iqor.com	01/12/2009			HUMAN RESOURCE	M4	102449	9200730	SHIFT	SENIOR SECURITY OFFICER													24/05/2018	M		I		M	M	H			PG	KJ04	Y	Y	
+395	SC0136	276932	JAMES	A/L ARULAPAN	JAMES A/L ARULAPAN	E		14/07/2011			HUMAN RESOURCE	M4	SC0091	9200730	SHIFT	SECURITY GUARD													21/09/2018	M		I			M	H			PG		Y	Y	
+396	SC0140	276941	Kumaran	A/L Raman Kutti	Kumaran A/L Raman Kutti	E		22/08/2011			HUMAN RESOURCE	M4	SC0091	9200730	SHIFT	SECURITY GUARD													21/09/2018	M		I			M	H			PG		Y	Y	
+397	SC0146	993644	Hassan	Bin Mohamad	Hassan Bin Mohamad	E		23/12/2011			HUMAN RESOURCE	M4	SC0091	9200730	SHIFT	SENIOR SECURITY GUARD													21/09/2018	M		M			M	I			PG		Y	Y	
+398	SC0148	030214	Yeop	Chee Buan	Yeop Chee Buan	E		13/04/2012			HUMAN RESOURCE	M4	SC0091	9200730	SHIFT	SENIOR SECURITY GUARD													21/09/2018	M		C			M	B			PG		Y	Y	
+399	ZN0035	236572	Mohd Firdaus	Bin Bahuddin	Mohd Firdaus Bin Bahuddin	E		23/09/2013			STORAGE	M0	102347	20301203	EXTEE	STORE ASST													20/09/2018	M		M		S	M	I			PG		Y	Y	
+400	ZN0046	582559	Hasmah	Bt Mat	Hasmah Bt Mat	E		16/03/2015			FACILITY	M4	SC0091	9200730	SHIFT	SECURITY GUARD													21/09/2018	F		M			M	I			PG		Y	Y	
+401	ZN0055	236382	Che Din	Bin Che Lee	Che Din Bin Che Lee	E		03/08/2016			FACILITY	M4	SC0091	9200730	SHIFT	SECURITY GUARD													21/09/2018	M		M			M	I			PG		Y	Y	
+402	ZN0056	236455	Zulkhairi	Bin Junoh	Zulkhairi Bin Junoh	E		08/08/2016			FACILITY	M4	SC0091	9200730	SHIFT	SECURITY GUARD													21/09/2018	M		M			M	I			PG		Y	Y	
+403	ZN0061	083708	Norhaddalisa	Bin Ibrahim	Norhaddalisa Bin Ibrahim	E		03/10/2017			FACILITY	M4	SC0091	9200730	SHIFT	SECURITY GUARD													21/09/2018	M		M			M	I			PG		Y	Y	
+404	ZN0062	083713	Lies	Anak Jundam	Lies Anak Jundam	E		09/10/2017			FACILITY	M4	SC0091	9200730	SHIFT	SECURITY GUARD													21/09/2018	M		M			M	I			PG		Y	Y	
+405	ZN0063	236571	Rosman	Bin Omar	Rosman Bin Omar	E		12/10/2017			FACILITY	M4	SC0091	9200730	SHIFT	SECURITY GUARD													21/09/2018	M		M			M	I			PG		Y	Y	
+406	ZN0064	236565			Chiew Hooi Cheng	E		02/01/2018			FINANCE	M4	102533	20301420		FINANCE OFFICER																									Y		

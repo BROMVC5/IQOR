@@ -1,0 +1,51 @@
+.OPTION EXPLICIT
+.Set Cabinet=off
+.Set Compress=off
+.Set MaxDiskSize=CDROM
+.Set ReservePerCabinetSize=6144
+.Set DiskDirectoryTemplate=".."
+.Set CompressionType=MSZIP
+.Set CompressionLevel=7
+.Set CompressionMemory=21
+.Set CabinetNameTemplate="GetFrSAPIQOR.CAB"
+"Setup.Lst"
+"setup.exe"
+.Set Cabinet=on
+.Set Compress=on
+"GetFrSAPIQOR.exe"
+"msvbvm60.dll"
+"OLEAUT32.DLL"
+"OLEPRO32.DLL"
+"ASYCFILT.DLL"
+"STDOLE2.TLB"
+"COMCAT.DLL"
+"DAO350.DLL"
+"MSJET35.DLL"
+"MSJTER35.DLL"
+"MSJINT35.DLL"
+"vbajet32.dll"
+"expsrv.dll"
+"MSRD2X35.DLL"
+"MSREPL35.DLL"
+"MSVCRT40.DLL"
+"VB5DB.DLL"
+"MSBIND.DLL"
+"MSSTDFMT.DLL"
+"msado26.tlb"
+"cdosys.dll"
+"wshom.ocx"
+"COMCT232.OCX"
+"COMCTL32.OCX"
+"COMDLG32.OCX"
+"MSWINSCK.OCX"
+"DBGRID32.OCX"
+"DBLIST32.OCX"
+"MSCHRT20.OCX"
+"MSCOMM32.OCX"
+"MSADODC.OCX"
+"MSDATGRD.OCX"
+"MSDATLST.OCX"
+"MSCOMCTL.OCX"
+"SETUP1.EXE"
+"VB6STKIT.DLL"
+"ST6UNST.EXE"

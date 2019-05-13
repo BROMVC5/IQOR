@@ -1,0 +1,17 @@
+Day	Shift Date	Emp Code	Name	Contract	Cost Center	Shift	In	Out	Total	Total OT	Approved OT	Time Off	Status
+Wed	06/03/2019	30123	Siti Zubaidah Binti Ahmad	PERMAN	Dell Mbd	DW07 19:00-07:00	06:08	19:04	12.93		0.00		Normal 
+Thu	07/03/2019	30123	Siti Zubaidah Binti Ahmad	PERMAN	Dell Mbd	DW07 19:00-07:00	06:04	19:04	13.00		0.00		Normal 
+Fri	08/03/2019	30123	Siti Zubaidah Binti Ahmad	PERMAN	Dell Mbd	DW07 19:00-07:00	06:09	19:03	12.90		0.00		Normal 
+Sat	09/03/2019	30123	Siti Zubaidah Binti Ahmad	PERMAN	Dell Mbd	DW07 19:00-07:00	06:22	19:03	12.68		0.00		Normal 
+Sun	10/03/2019	30123	Siti Zubaidah Binti Ahmad	PERMAN	Dell Mbd	REST							REST  No info 
+Mon	11/03/2019	30123	Siti Zubaidah Binti Ahmad	PERMAN	Dell Mbd	OFF							OFF  No info 
+Tue	12/03/2019	30123	Siti Zubaidah Binti Ahmad	PERMAN	Dell Mbd	OFF							OFF  No info 
+Wed	13/03/2019	30123	Siti Zubaidah Binti Ahmad	PERMAN	Dell Mbd	DW07 07:00-19:00	06:06	19:02	12.93		0.00		Normal 
+Thu	14/03/2019	30123	Siti Zubaidah Binti Ahmad	PERMAN	Dell Mbd	DW07 07:00-19:00	06:07	19:03	12.93		0.00		Normal 
+Fri	15/03/2019	30123	Siti Zubaidah Binti Ahmad	PERMAN	Dell Mbd	DW07 07:00-19:00	06:04	19:07	13.05		0.00		Normal 
+Sat	16/03/2019	30123	Siti Zubaidah Binti Ahmad	PERMAN	Dell Mbd	DW07 07:00-19:00	06:20	19:05	12.75		0.00		Normal 
+Sun	17/03/2019	30123	Siti Zubaidah Binti Ahmad	PERMAN	Dell Mbd	REST							REST  No info 
+Mon	18/03/2019	30123	Siti Zubaidah Binti Ahmad	PERMAN	Dell Mbd	OFF	06:04	19:06	13.03	13.03	12.00		OFF  OT 
+Tue	19/03/2019	30123	Siti Zubaidah Binti Ahmad	PERMAN	Dell Mbd	OFF	06:02	19:06	13.07	13.07	12.00		OFF  OT 
+Wed	20/03/2019	30123	Siti Zubaidah Binti Ahmad	PERMAN	Dell Mbd	DW07 19:00-07:00	06:18	19:06	12.80		0.00		Normal 
+Thu	21/03/2019	30123	Siti Zubaidah Binti Ahmad	PERMAN	Dell Mbd	DW07 19:00-07:00	06:11	19:03	12.87		0.00		Normal 

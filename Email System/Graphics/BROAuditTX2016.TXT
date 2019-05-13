@@ -1,0 +1,25 @@
+Generate Monthly GST***01/2017     20160127 15:16:18     BRO
+Generate Monthly GST***01/2017     20160127 16:24:58     BRO
+Generate Monthly GST***04/2016     20160401 14:54:12     BRO
+Generate Monthly GST***04/2016     20160401 15:03:28     BRO
+Delete Posted Record***Tax Adjustment  16042015 (Unpost)     20160401 15:03:59     BRO
+Generate Monthly GST***04/2016     20160401 15:04:49     BRO
+Delete Posted Record***Tax Adjustment  16042015 (Unpost)     20160401 15:05:11     BRO
+Generate Monthly GST***04/2016     20160401 15:05:59     BRO
+Delete Posted Record***Tax Adjustment  16042015 (Unpost)     20160401 15:06:17     BRO
+Generate Monthly GST***04/2016     20160401 15:06:59     BRO
+Generate Monthly GST***04/2016     20160609 14:13:28     BRO
+Delete Posted Record***Tax Adjustment  Z16060901 (Unpost)     20160609 14:16:22     BRO
+Generate Monthly GST***04/2016     20160609 14:16:52     BRO
+Generate Monthly GST***07/2016     20160721 13:37:39     BRO
+Delete Posted Record***Tax Adjustment  Z16082401 (Unpost)     20160824 11:11:36     BRO
+Delete Posted Record***Tax Adjustment  Z16082401 (Unpost)     20160824 11:13:01     BRO
+Delete Posted Record***Tax Adjustment  Z16082401 (Unpost)     20160824 11:17:30     BRO
+Generate Monthly GST***12/2016     20161215 11:15:59     BRO
+Generate Monthly GST***12/2016     20161215 11:19:56     BRO
+Delete Posted Record***Tax Adjustment  Z (Unpost)     20161215 11:20:17     BRO
+Generate Monthly GST***12/2016     20161219 09:47:52     BRO
+Generate Monthly GST***12/2016     20161219 09:49:12     BRO
+Delete Posted Record***Tax Adjustment  Z (Unpost)     20161219 09:51:51     BRO
+Generate Monthly GST***12/2016     20161219 09:52:17     BRO
+Generate Monthly GST***12/2016     20161219 09:52:34     BRO

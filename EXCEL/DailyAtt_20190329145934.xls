@@ -1,0 +1,9 @@
+Day	Shift Date	Emp Code	Name	Contract	Cost Center	Shift	In	Out	Total	Total OT	Approved OT	Time Off	Status
+Thu	21/03/2019	102606	Suzila Binti Mat	PERMAN	Dell LCD	DW07 07:00-19:00	06:20	19:01	12.68		0.00		Normal 
+Fri	22/03/2019	102606	Suzila Binti Mat	PERMAN	Dell LCD	OFF	06:18	19:01	12.72	12.72	12.50		OFF  OT 
+Sat	23/03/2019	102606	Suzila Binti Mat	PERMAN	Dell LCD	OFF	06:22	19:01	12.65	12.65	12.50		OFF  OT 
+Sun	24/03/2019	102606	Suzila Binti Mat	PERMAN	Dell LCD	REST							REST  No info 
+Mon	25/03/2019	102606	Suzila Binti Mat	PERMAN	Dell LCD	DW07 07:00-19:00	06:15	19:01	12.77		0.00		Normal 
+Tue	26/03/2019	102606	Suzila Binti Mat	PERMAN	Dell LCD	DW07 07:00-19:00	06:25	19:01	12.60		0.00		Normal 
+Wed	27/03/2019	102606	Suzila Binti Mat	PERMAN	Dell LCD	DW07 07:00-19:00	06:18	19:02	12.73		0.00		Normal 
+Thu	28/03/2019	102606	Suzila Binti Mat	PERMAN	Dell LCD	DW07 07:00-19:00	06:27		0.00		0.00		Normal  Incomplete 

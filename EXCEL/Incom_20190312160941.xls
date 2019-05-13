@@ -1,0 +1,3 @@
+Day	Shift Date	Emp Code	Name	Contract	Cost Center	Original Shift	Original Time In	Original Time Out	Adjusted Shift	Adjusted Time In	Adjusted Time Out
+Fri	25/01/2019	FC0043	Ismail Bin Ahmad	SHIFT	20301281	NORM 08:00 - 16:30	18:36	08:27	DW07 07:00	19:00	18:36	08:27
+Sat	26/01/2019	FC0043	Ismail Bin Ahmad	SHIFT	20301281	OFF 08:00 - 16:30	18:14		OFF 08:00	16:30	18:14	07:00

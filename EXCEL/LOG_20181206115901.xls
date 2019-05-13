@@ -1,0 +1,27 @@
+No	Date and Time	Type	Status	Remark	Date Work	Emp Code	Name	User ID
+1	04/12/2018 10:30:26	2ABAPV		TIME IN change from 19:00 to 18:24  TIME OUT change from 09:32 to 07:59  COMMENT change from EMPTY to	28/05/2018	ZN0063	Rosman Bin Omar	102449
+2	04/12/2018 10:30:27	2ABAPV		TIME IN change from 19:00 to 18:24  TIME OUT change from 09:32 to 07:59  COMMENT change from EMPTY to   COMMENT change from EMPTY to	27/05/2018	ZN0056	Zulkhairi Bin Junoh	102449
+3	04/12/2018 10:30:27	2ABAPV		SHIFT CODE change from DW08 to DW07  TIME IN change from 18:24 to 06:56  TIME OUT change from 07:59 to 19:03  COMMENT change from EMPTY to	28/05/2018	ZN0056	Zulkhairi Bin Junoh	102449
+4	04/12/2018 10:45:33	2ABAPV		COMMENT change from EMPTY to	28/05/2018	SC0146	Hassan Bin Mohamad	102449
+5	04/12/2018 10:45:33	2ABAPV		COMMENT change from EMPTY to   TIME IN change from 06:02 to 07:00  TIME OUT change from 19:00 to 19:01  COMMENT change from EMPTY to	29/05/2018	SC0140	Kumaran A/L Raman Kutti	102449
+6	04/12/2018 10:47:20	2ABAPV		COMMENT change from EMPTY to	29/05/2018	NM0764	Fitri Juliana	102449
+7	04/12/2018 10:19:25	2ABAPV		TIME IN change from 07:00 to 06:17  TIME OUT change from 19:01 to 00:00  COMMENT change from EMPTY to	28/05/2018	NM0726	Santosh Kumar Yadav	102449
+8	04/12/2018 10:47:21	2ABAPV		COMMENT change from EMPTY to   COMMENT change from EMPTY to	28/05/2018	NM0599	Jayson Navoa Rodriguez	102449
+9	04/12/2018 10:46:14	2ABAPV		SHIFT CODE change from DW07 to DW08  TIME IN change from 06:27 to 18:39  TIME OUT change from 18:47 to 07:04  COMMENT change from EMPTY to	30/05/2018	NM0577	Christian Villalobos Magnaye	102449
+10	04/12/2018 10:18:52	2ABAPV		TIME IN change from 06:17 to 06:16  TIME OUT change from 18:49 to   COMMENT change from EMPTY to   TIME IN change from 06:14 to 06:17  TIME OUT change from 18:48 to   COMMENT change from EMPTY to	30/05/2018	NM0563	Jose Baluyot Seviano	102449
+11	04/12/2018 10:18:52	2ABAPV		TIME IN change from 06:17 to 06:16  TIME OUT change from 18:49 to   COMMENT change from EMPTY to	30/05/2018	NM0483	Christopher Caputolan Bataluna	102449
+12	03/12/2018 11:51:07	TIMECLK_DET		TIN change from 1 to 01:00 TOUT change from  to 06:00 TOTAL change from  to 05:00 LATE change from Y to N EARLY change from  to N ALLCODE change from OFF to  OT change from  to Y TOTALOT change from  to 05:00 3ATOTALOT change from  to 05:30 	06/10/2018	448268	Ku Azuwan Bin Ku Adenan	BRO
+13	03/12/2018 12:31:34	TIMECLK_DET		TOUT change from 06:00 to 07:00 TOTAL change from 05:00 to 06:00 TOTALOT change from 05:00 to 06:00 3ATOTALOT change from  to 06:00 	06/10/2018	448268	Ku Azuwan Bin Ku Adenan	102449
+14	03/12/2018 14:22:25	TIMECLK_DET		TOUT change from 21:19 to 16:00 TOTAL change from  to 09:09 LATE change from  to N ALLCODE change from NORM to  OT change from  to Y TOTALOT change from  to 01:09 3ATOTALOT change from  to 01:00 HALFDAY change from  to N 	03/10/2018	448268	Ku Azuwan Bin Ku Adenan	102449
+15	03/12/2018 14:23:16	TIMECLK_DET		TOUT change from 18:30 to 20:00 TOTAL change from  to 11:50 LATE change from  to Y EARLY change from  to N ALLCODE change from NORM to  OT change from  to Y TOTALOT change from  to 03:30 3ATOTALOT change from  to 03:00 HALFDAY change from  to N 	05/10/2018	448268	Ku Azuwan Bin Ku Adenan	102449
+16	03/12/2018 14:24:00	TIMECLK_DET		TIN change from 08:10 to 08:00 TOTAL change from 11:50 to 12:00 LATE change from Y to N 	05/10/2018	448268	Ku Azuwan Bin Ku Adenan	102449
+17	03/12/2018 14:42:59	TIMECLK_DET		TOUT change from  to 16:55 TOTAL change from  to 05:00 LATE change from  to Y EARLY change from  to N ALLCODE change from NORM to  OT change from  to N TOTALOT change from  to 00:00 3ATOTALOT change from  to 00:00 HALFDAY change from  to Y 	04/10/2018	448268	Ku Azuwan Bin Ku Adenan	102449
+18	03/12/2018 15:08:17	TIMECLK_DET		TIN change from 06:51 to 08:00 TOTAL change from 09:09 to 08:00 EARLY change from  to Y OT change from Y to N TOTALOT change from 01:09 to 00:00 3ATOTALOT change from 01:00 to 00:00 IRREG change from Y to  	03/10/2018	448268	Ku Azuwan Bin Ku Adenan	102449
+19	04/12/2018 14:40:35	TIMECLK_DET		3ATOTALOT change from 03:00 to 15:30 IRREG change from N to  	05/10/2018	448268	Ku Azuwan Bin Ku Adenan	102449
+20	04/12/2018 10:20:44	2ABAPV		TIME OUT change from 18:47 to 00:00  COMMENT change from EMPTY to	28/05/2018	102753	Norrihan Binti Piee	102449
+21	04/12/2018 10:22:21	2ABAPV		SHIFT CODE change from DW08 to NORM  TIME IN change from 18:24 to 07:51  TIME OUT change from 07:59 to 00:00  COMMENT change from EMPTY to	30/05/2018	102361	Soridan Bin Hussein	102449
+22	04/12/2018 10:20:53	2ABAPV		SHIFT CODE change from DW08 to DW07  TIME IN change from 18:24 to 06:04  TIME OUT change from 07:59 to 00:00  COMMENT change from EMPTY to	30/05/2018	102327	Angalene A/P Subramaniam	102449
+23	04/12/2018 10:46:13	2ABAPV		COMMENT change from EMPTY to	29/05/2018	102327	Angalene A/P Subramaniam	102449
+24	04/12/2018 10:09:31	2ABAPV		SHIFT CODE change from DW08 to NORM  TIME IN change from 19:00 to 05:50  TIME OUT change from 09:32 to 00:00  COMMENT change from EMPTY to	12/06/2018	102306	Low Tai Seng	102449
+25	04/12/2018 12:59:08	 3APVOT		 APPROVED OT change from 00:00 to 12:00 	07/09/2018	102280	Siti Hajar Binti Awang	102449
+26	03/12/2018 18:08:00	TMEMPLY		NATION change from M to  RELIG change from I to		102267	Ja'Ayah Binti Hassan	102449

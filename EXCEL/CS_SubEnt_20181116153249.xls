@@ -1,0 +1,408 @@
+No	Employee Code	Employee Name	Date	Amount (RM)
+1	102265	Lim Cheng Chye	15/11/2018	2.00
+2	102266	Tan Cheng Leng	15/11/2018	2.00
+3	102267	Ja'Ayah Binti Hassan	15/11/2018	2.00
+4	102271	Sarinah Binti Samsuddin	15/11/2018	2.00
+5	102272	Lim Kok Beng	15/11/2018	2.00
+6	102275	Cheah Bee Loon	15/11/2018	2.00
+7	102278	Nordin Bin Osman	15/11/2018	2.00
+8	102279	Chor Phaik Seok	15/11/2018	2.00
+9	102280	Siti Hajar Binti Awang	15/11/2018	2.00
+10	102281	Norhasimah Binti Kassim	15/11/2018	2.00
+11	102285	Hafizah Binti Mat Yusoff	15/11/2018	2.00
+12	102286	Norbashiroh Binti Md Amin	15/11/2018	2.00
+13	102287	Faridah Binti Hassan	15/11/2018	2.00
+14	102288	Hajar Binti Tahir	15/11/2018	2.00
+15	102289	Leong Wai Hin	15/11/2018	2.00
+16	102291	Rusnah Binti Dolah	15/11/2018	2.00
+17	102293	Azhar Bin Baharum	15/11/2018	2.00
+18	102295	Lee Cheng Guat	15/11/2018	2.00
+19	102298	Azizi Bin Othman	15/11/2018	2.00
+20	102301	Chong Poh Lee	15/11/2018	2.00
+21	102303	Chia Lay Kuen	15/11/2018	2.00
+22	102304	Chong Yih Cherng	15/11/2018	2.00
+23	102305	Aneis Ahmad Bin Rahaman Saar	15/11/2018	2.00
+24	102306	Low Tai Seng	15/11/2018	2.00
+25	102308	Chan Su-Lin	15/11/2018	2.00
+26	102312	Fadzlina Binti Md Shariff	15/11/2018	2.00
+27	102313	Tuani Ibrahim Bin Meerasa	15/11/2018	2.00
+28	102315	Whong Gaik Kooi	15/11/2018	2.00
+29	102317	Tan Saw Lan	15/11/2018	2.00
+30	102326	Siti Aisah Binti Hussain	15/11/2018	2.00
+31	102327	Angalene A/P Subramaniam	15/11/2018	2.00
+32	102328	Yeoh Yeow Khiang	15/11/2018	2.00
+33	102329	Lee Mean Ong	15/11/2018	2.00
+34	102330	Lina Marni Binti Md Noor	15/11/2018	2.00
+35	102332	Rafidah Binti Harun	15/11/2018	2.00
+36	102333	Salehan Binti Jamhari	15/11/2018	2.00
+37	102338	Zuraida Binti Zenun	15/11/2018	2.00
+38	102340	Suriani Binti Sabli	15/11/2018	2.00
+39	102345	Tan Soo Ling	15/11/2018	2.00
+40	102347	Zaleha Binti Ahmad	15/11/2018	2.00
+41	102350	Noraini Binti Kadir	15/11/2018	2.00
+42	102361	Soridan Bin Hussein	15/11/2018	2.00
+43	102365	Zuraini Binti Yahaya	15/11/2018	2.00
+44	102367	Rosli Bin Abdullah	15/11/2018	2.00
+45	102370	Zaharizan Bin Zakaria	15/11/2018	2.00
+46	102371	Dhevaghi A/P Sugamaran	15/11/2018	2.00
+47	102375	Siti Fatimah Binti Abd.Rahim	15/11/2018	2.00
+48	102378	Tan Siew Nee	15/11/2018	2.00
+49	102380	Zalriah Binti Talib	15/11/2018	2.00
+50	102384	Rohiza Binti Mat Isa	15/11/2018	2.00
+51	102385	Norhashira Binti Halim	15/11/2018	2.00
+52	102408	Rusliza Binti Ishak	15/11/2018	2.00
+53	102414	Tan Han Nam	15/11/2018	2.00
+54	102418	Soffiah Binti Othaman	15/11/2018	2.00
+55	102429	Muhamad Sulaiman Bin Mohamed Noor	15/11/2018	2.00
+56	102433	Wan Yusanisah Binti Wan Yusoff	15/11/2018	2.00
+57	102435	Sagayamary A/P Maniam	15/11/2018	2.00
+58	102449	Wong Gim Hock	15/11/2018	2.00
+59	102450	Lim Bee Hwa	15/11/2018	2.00
+60	102452	Zaniyah Binti Said	15/11/2018	2.00
+61	102459	Parvathi A/P Kuppusamy	15/11/2018	2.00
+62	102468	Norehan Binti Ismail	15/11/2018	2.00
+63	102469	Zaleha Binti Jaafar	15/11/2018	2.00
+64	102476	Chuah Teik Ping	15/11/2018	2.00
+65	102483	Siti Aishah Binti Biduan	15/11/2018	2.00
+66	102501	Siti Salbiah Binti Saad	15/11/2018	2.00
+67	102505	Mohamad Sukri Bin Zainol Abidin	15/11/2018	2.00
+68	102506	Leng Siew Peng	15/11/2018	2.00
+69	102508	Rozimah Binti Hj Sidek	15/11/2018	2.00
+70	102516	Sabirah Binti Md Saleh	15/11/2018	2.00
+71	102522	Azean Binti Ghazali	15/11/2018	2.00
+72	102533	Tan Lye Hong	15/11/2018	2.00
+73	102536	Noorsakila Binti Mohd Isa	15/11/2018	2.00
+74	102549	Roshaiza Bt Ismail @ Abd Ghani	15/11/2018	2.00
+75	102555	Yeoh Peng Joo	15/11/2018	2.00
+76	102570	Noor Hedayahtun Bt. Mat Nayan @ Ayub	15/11/2018	2.00
+77	102572	Hamidah Bt Che Mei	15/11/2018	2.00
+78	102576	Rozana Binti Mohd Khalid	15/11/2018	2.00
+79	102587	Noraini Binti Salleh	15/11/2018	2.00
+80	102592	Azlina Binti Alias	15/11/2018	2.00
+81	102606	Suzila Binti Mat	15/11/2018	2.00
+82	102609	Norliah Binti Rahman	15/11/2018	2.00
+83	102617	Nurazniza Binti Rosli	15/11/2018	2.00
+84	102635	Narita Binti Abdul Latif	15/11/2018	2.00
+85	102636	Maizura Binti Md Nor	15/11/2018	2.00
+86	102649	Rohani Binti Kadir	15/11/2018	2.00
+87	102652	Siti Asmah Binti Biduan	15/11/2018	2.00
+88	102664	Norhabibah Binti Man	15/11/2018	2.00
+89	102674	Sannura Bt Sulaiman	15/11/2018	2.00
+90	102677	Norhayati Binti Razali	15/11/2018	2.00
+91	102686	Mohd Fares Bin Jamil	15/11/2018	2.00
+92	102718	Haslinda Binti Ismail	15/11/2018	2.00
+93	102721	Siti Zainab Binti Nordin	15/11/2018	2.00
+94	102727	Mas Ayuza Binti Mohd Yusof	15/11/2018	2.00
+95	102748	Asmawati Binti Asalludin	15/11/2018	2.00
+96	102753	Norrihan Binti Piee	15/11/2018	2.00
+97	102765	Normariani Binti Abdul Rahim	15/11/2018	2.00
+98	102785	Nurul Husna Bt Ramli	15/11/2018	2.00
+99	102787	Norhafiza Binti Mat Zin	15/11/2018	2.00
+100	102790	Ching Chin Hui	15/11/2018	2.00
+101	102799	Roslizawatie Binti Md Zain	15/11/2018	2.00
+102	107284	Lee Kong Leng	15/11/2018	2.00
+103	111032	Nurul Ezzati Atiqah Binti Isma	15/11/2018	2.00
+104	114278	Santhimathy A/P Gopalan	15/11/2018	2.00
+105	122737	Tan  Saw Eam	15/11/2018	2.00
+106	123917	Vincent Fong Siew Chung	15/11/2018	2.00
+107	130711	Yushaida Binti Yusof	15/11/2018	2.00
+108	131783	Malar A/P Segaran	15/11/2018	2.00
+109	135543	Chong Heng Luong	15/11/2018	2.00
+110	137169	Kamilia Binti Mohd Yussof	15/11/2018	2.00
+111	152187	Thanaletchmee A/P Gopalan	15/11/2018	2.00
+112	156003	Hiew Yoon Fook	15/11/2018	2.00
+113	157237	Haslina Binti Hussin	15/11/2018	2.00
+114	157249	Norhaizal Bin Johari	15/11/2018	2.00
+115	160072	Norida Binti Abdullah	15/11/2018	2.00
+116	160683	Khoo Theng Ling	15/11/2018	2.00
+117	161193	Yeap Bee Chew	15/11/2018	2.00
+118	162923	Helmi Bin Hashim	15/11/2018	2.00
+119	164968	Looi Kok Leong	15/11/2018	2.00
+120	165117	Siti Fatimah Binti Mat Hussain	15/11/2018	2.00
+121	166638	Lim Chek Yien	15/11/2018	2.00
+122	168334	Faisal Bin Zailani	15/11/2018	2.00
+123	174996	Ahmad Nazri Bin Mat Isa	15/11/2018	2.00
+124	174998	Mohd Azuwan Bin Jamjam	15/11/2018	2.00
+125	175041	Lam Siang Choong	15/11/2018	2.00
+126	176879	Teh Shaw Ning	15/11/2018	2.00
+127	177079	Ho Shyh Kee	15/11/2018	2.00
+128	178173	Kam Soo Ling	15/11/2018	2.00
+129	178994	Muhammad Fazmi Bin Abd Latif	15/11/2018	2.00
+130	178996	Mohd Fadil Bin Saat	15/11/2018	2.00
+131	182429	Khor Wei Jie	15/11/2018	2.00
+132	183036	Adelyn Lim Ean Ping	15/11/2018	2.00
+133	183167	Nur Nazwa Binti Aziz	15/11/2018	2.00
+134	187173	Zaleha Binti Hamzah	15/11/2018	2.00
+135	187827	Khairul Azlan Hisham Bin Man	15/11/2018	2.00
+136	187830	Marziah Binti Md Nangan	15/11/2018	2.00
+137	188673	Ho Ming Kong	15/11/2018	2.00
+138	189258	Mohamad Ariff Bin A.Rahman	15/11/2018	2.00
+139	194585	Nadia Binti Azahar	15/11/2018	2.00
+140	195028	Noorul Huda Binti Mohd Arif	15/11/2018	2.00
+141	195745	Saiful Bin Abd Shukor	15/11/2018	2.00
+142	206103	Siti Atikah Binti Che Soh	15/11/2018	2.00
+143	207082	Mohd Faizal Bin Nanyan	15/11/2018	2.00
+144	28975	Siti Rohani Binti Mehad	15/11/2018	2.00
+145	29241	Tan Siew Hong	15/11/2018	2.00
+146	29684	Hor Ai Chean	15/11/2018	2.00
+147	30113	Noorazah Binti Abdul Wahab	15/11/2018	2.00
+148	30123	Siti Zubaidah Binti Ahmad	15/11/2018	2.00
+149	30576	Nor Intan Binti Che Ali	15/11/2018	2.00
+150	306986	Siti Khadijah Binti Abu Bakar	15/11/2018	2.00
+151	31881	Faridah Hana Binti Mohamad	15/11/2018	2.00
+152	32224	Yeap Kim Peng	15/11/2018	2.00
+153	32783	Yeap Cheng Gaik	15/11/2018	2.00
+154	32964	Yusliana Binti Md Yusof	15/11/2018	2.00
+155	331135	Tan Hooi Chieh	15/11/2018	2.00
+156	375069	Leong Kok Wai	15/11/2018	2.00
+157	38540	Fatimah Binti Mat Tajuddin	15/11/2018	2.00
+158	38550	Roslina Binti Saidin	15/11/2018	2.00
+159	389512	Lai Hooi See	15/11/2018	2.00
+160	41461	Chu Wee Liang	15/11/2018	2.00
+161	419046	Lian Seng Hoe	15/11/2018	2.00
+162	448268	Ku Azuwan Bin Ku Adenan	15/11/2018	2.00
+163	455338	Tan Chee Hoon	15/11/2018	2.00
+164	45891	Khor Chin Ming	15/11/2018	2.00
+165	459569	Goh Chin Hon	15/11/2018	2.00
+166	6999999	Lee Wei Zhong	15/11/2018	2.00
+167	7000460	Mohd Zahidi Bin Othman	15/11/2018	2.00
+168	7000997	Rolando Calaparan Lagua	15/11/2018	2.00
+169	7002027	Tan Siew Chin	15/11/2018	2.00
+170	7003679	Siti Amnah Binti Ahmad	15/11/2018	2.00
+171	7004353	Noor Azfarid Bin Abd Samad	15/11/2018	2.00
+172	7005629	Mohd Faizal Ahmed	15/11/2018	2.00
+173	7006482	Chew Eng Khoon	15/11/2018	2.00
+174	7006738	Nurul Wahida Binti Kamarulzaman	15/11/2018	2.00
+175	7007170	Hasbullah Bin Zakaria	15/11/2018	2.00
+176	7007342	Mohamad Fakhrul Akmal Bin Mohd Yusof	15/11/2018	2.00
+177	7007556	Goo Feng Guan	15/11/2018	2.00
+178	7007597	Nur Farzana Hanim Binti Mohd Fadzli	15/11/2018	2.00
+179	7007598	Marzu Bin Mat Isa	15/11/2018	2.00
+180	7008055	Joel Cortez Martin	15/11/2018	2.00
+181	7008183	Goh Bee Sien	15/11/2018	2.00
+182	7008559	Simon A/L Mariadas	15/11/2018	2.00
+183	7008561	Norfadhilah Binti Shahruddin	15/11/2018	2.00
+184	7008565	Muhammad Rafiq Bin Abd Latif	15/11/2018	2.00
+185	7008566	Alias Bin Abdullah	15/11/2018	2.00
+186	7008567	Abdul Rashid Bin Zulkefli	15/11/2018	2.00
+187	7008768	Mohd Fairuz Bin Othman	15/11/2018	2.00
+188	7008772	Razita Binti Sidek	15/11/2018	2.00
+189	7009012	Ganesan A/L Gunasagaran	15/11/2018	2.00
+190	7009013	Nur Amira Syafiqah Binti Abdul	15/11/2018	2.00
+191	7009020	Normurni Binti Mohd Rosdy	15/11/2018	2.00
+192	7009021	Wan Nor Adabiah Binti Wan Mazlan	15/11/2018	2.00
+193	7009022	Siti Maisarah Binti Quaj Mamandh	15/11/2018	2.00
+194	7009055	Mohd Afandi Bin Pauzi	15/11/2018	2.00
+195	7009270	Tng Jen Cheng	15/11/2018	2.00
+196	7009271	Tng Jen Siang	15/11/2018	2.00
+197	7009299	Nurida Binti Abdul Halim	15/11/2018	2.00
+198	7009354	Frederick Fabon	15/11/2018	2.00
+199	7009677	Fong Hui Sheng	15/11/2018	2.00
+200	7009750	Kristoffer Garcia	15/11/2018	2.00
+201	7009791	Lee Siew Hooi	15/11/2018	2.00
+202	7010152	Siti Nurhidayah Binti Mydin Pi	15/11/2018	2.00
+203	7010160	Siti Nor Azmani Binti Idris	15/11/2018	2.00
+204	7010444	Wiratad Manotam	15/11/2018	2.00
+205	7010445	Nining SetiaWaty	15/11/2018	2.00
+206	7010605	Ooi Seng Wei	15/11/2018	2.00
+207	7010653	Thinagaran A/L Mathurai Veeran	15/11/2018	2.00
+208	7010878	Ng Kok Aun	15/11/2018	2.00
+209	7011095	Lim Shee Fhang	15/11/2018	2.00
+210	7011251	Tham Wai Kin	15/11/2018	2.00
+211	7011686	Chen Bee Woon	15/11/2018	2.00
+212	753200	Premala A/P Alagesan	15/11/2018	2.00
+213	765257	Norhuda Binti Mustaffa	15/11/2018	2.00
+214	766527	Norhanida Binti Hanafi	15/11/2018	2.00
+215	778304	Noorliah Binti Matin @ Arshad	15/11/2018	2.00
+216	8002925	Muhammad Hafizhat Bin Mohd Rosli	15/11/2018	2.00
+217	8005156	Selvarany A/P Kuttiappan	15/11/2018	2.00
+218	8005158	Lim Keng Seng	15/11/2018	2.00
+219	8005819	S.Murugayah A/L M.Sagadevan	15/11/2018	2.00
+220	8015727	Md Yusri Bin Md Yusoff	15/11/2018	2.00
+221	8015728	Nurul Shuhada Binti Abd Karim	15/11/2018	2.00
+222	8017705	Gerald Reluya Del Rosario	15/11/2018	2.00
+223	8019769	Darwin Gonzales Racoma	15/11/2018	2.00
+224	8027245	Mohamad Baihaki Bin Idris	15/11/2018	2.00
+225	8027246	Wan Abdul Halim Bin Wan Rosli	15/11/2018	2.00
+226	8032228	Badrul Hisyam Bin Kasim	15/11/2018	2.00
+227	80360	Lim Wei Zhiang	15/11/2018	2.00
+228	888104	Siti Nor Artini Binti Idris	15/11/2018	2.00
+229	891008	Ooi Hooi Pheng	15/11/2018	2.00
+230	89188	Julia Binti Arasat @ Arshad	15/11/2018	2.00
+231	894355	Jennifer A/P Nathan	15/11/2018	2.00
+232	913151	Satta Chonlabut	15/11/2018	2.00
+233	918273	Syahril Fahmy Bin Mohd Rafiaee	15/11/2018	2.00
+234	978435	Arnon Kaewchuay	15/11/2018	2.00
+235	CN0049	Wam Abd Malik Bin Wan Romli	15/11/2018	2.00
+236	CN0066	Choong Poh Siew	15/11/2018	2.00
+237	CN0095	Md Tandu	15/11/2018	2.00
+238	CN0107	Mohammad Anech	15/11/2018	2.00
+239	CN0110	Md Moina Mia	15/11/2018	2.00
+240	CN0118	Cici Dwi	15/11/2018	2.00
+241	CN0119	Mohammad Babo Miah	15/11/2018	2.00
+242	CN0121	Mohammad Monjur Kabir	15/11/2018	2.00
+243	CN0123	Mohammad Delowar Hossen	15/11/2018	2.00
+244	CN0124	Hossain Md Raju	15/11/2018	2.00
+245	CN0125	Sheikh Nazmul	15/11/2018	2.00
+246	CW10163	Lee Jia Fang	15/11/2018	2.00
+247	CW10456	Jamir  Carreon Comendador	15/11/2018	2.00
+248	CW11473	Nur Safitri	15/11/2018	2.00
+249	CW11474	Nike Haryanti	15/11/2018	2.00
+250	CW11475	Yuna Mastika Damanik	15/11/2018	2.00
+251	CW11476	Maria Mahdalena Situmorang	15/11/2018	2.00
+252	CW11477	Rosita Nahampun	15/11/2018	2.00
+253	CW11478	Julia Fitri Yanti Pangaribuan	15/11/2018	2.00
+254	CW11479	Rina Sitorus	15/11/2018	2.00
+255	CW11480	Elprida Simbolon	15/11/2018	2.00
+256	CW11481	Marintan Sianipar	15/11/2018	2.00
+257	CW11482	Desy Rahayu	15/11/2018	2.00
+258	CW11483	Lusi Mariance Simanjuntak	15/11/2018	2.00
+259	CW11484	Erika Simanjuntak	15/11/2018	2.00
+260	CW11485	Ade Rafika Suri	15/11/2018	2.00
+261	CW11486	Santa Maria Nababan	15/11/2018	2.00
+262	CW11487	Romasiana Tamba	15/11/2018	2.00
+263	CW11526	Neizer Saratan Marcelo	15/11/2018	2.00
+264	CW11728	Traiska Silalahi	15/11/2018	2.00
+265	CW11729	Veronika Lesiari Simanjuntak	15/11/2018	2.00
+266	CW11730	Juita Tarihoran	15/11/2018	2.00
+267	CW11731	Rosdelima Marbun	15/11/2018	2.00
+268	CW11732	Nani Agustini Manullang	15/11/2018	2.00
+269	CW11750	Siti Zahara	15/11/2018	2.00
+270	CW11765	Salmiati	15/11/2018	2.00
+271	CW11816	Marinawati Panjaitan	15/11/2018	2.00
+272	CW11817	Cristina Tampubolon	15/11/2018	2.00
+273	CW11818	Renni Tampubolon	15/11/2018	2.00
+274	CW11819	Afzahanim Binti Azhar	15/11/2018	2.00
+275	CW11850	Siti Suarni	15/11/2018	2.00
+276	CW11851	Delima Nainggolan	15/11/2018	2.00
+277	CW11852	Lenni Mariati Simbolon	15/11/2018	2.00
+278	CW11853	Anita	15/11/2018	2.00
+279	CW11854	Notalia	15/11/2018	2.00
+280	CW11857	Sri Devi Tamarani Sinaga	15/11/2018	2.00
+281	CW11858	Dhias Yeptiana Manullang	15/11/2018	2.00
+282	CW11900	Joe Ang Xia Wei	15/11/2018	2.00
+283	CW11929	Rahmayuni	15/11/2018	2.00
+284	CW11992	Ang Tzu Te	15/11/2018	2.00
+285	DNY1	Mohamed Adam Bin Shaik Mohamed	15/11/2018	2.00
+286	FC0043	ISMAIL BIN AHMAD	15/11/2018	2.00
+287	FC0051	Muhammad Husaini Bin Zolkifli	15/11/2018	2.00
+288	FC0052	Mohd Khalifah Bin Mohamad Kamal	15/11/2018	2.00
+289	IT0061	Lim Kai Woon	15/11/2018	2.00
+290	IT0066	Ng Kai Sheng	15/11/2018	2.00
+291	IT0070	Desmond Cheang Lih Wen	15/11/2018	2.00
+292	IT0071	Loo Ching Yin	15/11/2018	2.00
+293	IT0072	Lim Yi Xian	15/11/2018	2.00
+294	IT0073	Herrick Goh Yin Ta	15/11/2018	2.00
+295	IT0074	Lee Yuan Loong	15/11/2018	2.00
+296	LEW		15/11/2018	2.00
+297	NM0027	Salmiati	15/11/2018	2.00
+298	NM0044	Suriati	15/11/2018	2.00
+299	NM0154	Ali Dizon Villanueva	15/11/2018	2.00
+300	NM0256	Dante Reyes Elefante	15/11/2018	2.00
+301	NM0279	Steven San Luis Cebrian	15/11/2018	2.00
+302	NM0334	Maulina Lingga	15/11/2018	2.00
+303	NM0348	Mardiana	15/11/2018	2.00
+304	NM0353	Jayson Esteban Atangan	15/11/2018	2.00
+305	NM0383	Melta Taringan	15/11/2018	2.00
+306	NM0420	Ethel Rivero Querubin	15/11/2018	2.00
+307	NM0433	Michael Ian Tagulao Jimenez	15/11/2018	2.00
+308	NM0438	Siti Zahara	15/11/2018	2.00
+309	NM0465	Gerald R. Del Rosario	15/11/2018	2.00
+310	NM0483	Christopher Caputolan Bataluna	15/11/2018	2.00
+311	NM0484	Rudy Manrique Cabritit	15/11/2018	2.00
+312	NM0490	June Gazal Apostol	15/11/2018	2.00
+313	NM0543	Suyanti Siahaan	15/11/2018	2.00
+314	NM0551	Nestorio Driden Balute Comenda	15/11/2018	2.00
+315	NM0552	Diosdado Ombao Casimiro Jr.	15/11/2018	2.00
+316	NM0554	Antonio Balaba Palingcod Jr.	15/11/2018	2.00
+317	NM0556	Darren Louise Comendador Camiro	15/11/2018	2.00
+318	NM0557	Nicasio Tajao Timog	15/11/2018	2.00
+319	NM0560	Allan Barte Bagui	15/11/2018	2.00
+320	NM0562	Emer Lionel Cultura Dimalibot	15/11/2018	2.00
+321	NM0563	Jose Baluyot Seviano	15/11/2018	2.00
+322	NM0566	Erwin Perez Mansilungan	15/11/2018	2.00
+323	NM0571	Alfredo Cubilla Nanale Jr.	15/11/2018	2.00
+324	NM0572	Glindro Balancio Manao	15/11/2018	2.00
+325	NM0573	Elmer Agumbay Quimno	15/11/2018	2.00
+326	NM0576	John Marvin Villamater Ignacio	15/11/2018	2.00
+327	NM0577	Christian Villalobos Magnaye	15/11/2018	2.00
+328	NM0582	Gerardo Bautista Aguinaldo Jr.	15/11/2018	2.00
+329	NM0587	Joel Olitoquit Domanais	15/11/2018	2.00
+330	NM0588	Jerone Mendez Aliazon	15/11/2018	2.00
+331	NM0591	Harold Ace Aquino Servito	15/11/2018	2.00
+332	NM0593	Mark Anthony Yanto Briones	15/11/2018	2.00
+333	NM0597	Jeffry Marigsa Villareal	15/11/2018	2.00
+334	NM0599	Jayson Navoa Rodriguez	15/11/2018	2.00
+335	NM0600	Richie Dela Rosa Solis	15/11/2018	2.00
+336	NM0603	Archie Dhan Louis Serra Calixtro	15/11/2018	2.00
+337	NM0611	Darwin Gonzales Racoma	15/11/2018	2.00
+338	NM0615	Erwin Manansala Yabut	15/11/2018	2.00
+339	NM0619	Nolly Villareal Baldesimo	15/11/2018	2.00
+340	NM0620	Erick Deticio Estoque	15/11/2018	2.00
+341	NM0621	Dalmacio Montallana Biron Jr.	15/11/2018	2.00
+342	NM0622	Khevin Cornejo Maligalig	15/11/2018	2.00
+343	NM0624	Tran Thi Thu Thuong	15/11/2018	2.00
+344	NM0627	Jojo Colobong Pajatin	15/11/2018	2.00
+345	NM0629	Garry Ulbaken Jose	15/11/2018	2.00
+346	NM0721	Santosh Kumar Karki	15/11/2018	2.00
+347	NM0723	Dependra Mahara	15/11/2018	2.00
+348	NM0724	Umesh Kumar Singtan	15/11/2018	2.00
+349	NM0725	Roshan Kumar Sah	15/11/2018	2.00
+350	NM0726	Santosh Kumar Yadav	15/11/2018	2.00
+351	NM0727	Ram Kumar Shrestha	15/11/2018	2.00
+352	NM0728	Anup Rai	15/11/2018	2.00
+353	NM0729	Nabin Khadka	15/11/2018	2.00
+354	NM0730	Krishna Mahato	15/11/2018	2.00
+355	NM0731	Mark Anthony Pascual Gatus	15/11/2018	2.00
+356	NM0734	Keshab Thapa	15/11/2018	2.00
+357	NM0735	Sunil Baniya	15/11/2018	2.00
+358	NM0736	Anil Tamang	15/11/2018	2.00
+359	NM0737	Padam Bahadur Dhami	15/11/2018	2.00
+360	NM0738	Marlon Nunez Malingin	15/11/2018	2.00
+361	NM0739	Dwi Mega Jerniawan Simanjuntak	15/11/2018	2.00
+362	NM0740	Primita Karolina Lingga	15/11/2018	2.00
+363	NM0742	Jesika Mariana Arma Manurung	15/11/2018	2.00
+364	NM0743	Lilis Andriyani	15/11/2018	2.00
+365	NM0744	Riyanti Sianturi	15/11/2018	2.00
+366	NM0745	Tri Nopa Sirait	15/11/2018	2.00
+367	NM0746	Fridan Elvita Bangun	15/11/2018	2.00
+368	NM0747	Puji Yani Sembiring	15/11/2018	2.00
+369	NM0749	Manuel Tendencia Colinares	15/11/2018	2.00
+370	NM0750	Levi Guinocor Capuno	15/11/2018	2.00
+371	NM0751	Henny Sihole	15/11/2018	2.00
+372	NM0753	Yulianti	15/11/2018	2.00
+373	NM0754	Dwi Friska Pasaribu	15/11/2018	2.00
+374	NM0755	Indrayati Natalia Tampubolon	15/11/2018	2.00
+375	NM0756	Novita Marbun	15/11/2018	2.00
+376	NM0757	Indah Sari Nainggolan	15/11/2018	2.00
+377	NM0758	Maharani	15/11/2018	2.00
+378	NM0759	Masganti Hasibuan	15/11/2018	2.00
+379	NM0761	Sri Eka Damaiyanti	15/11/2018	2.00
+380	NM0762	Siti Fatimah Harahap	15/11/2018	2.00
+381	NM0763	Sriance Siregar	15/11/2018	2.00
+382	NM0764	Fitri Juliana	15/11/2018	2.00
+383	NM0765	Rovy Yunita Simanjuntak	15/11/2018	2.00
+384	NM0766	Sartika Purba	15/11/2018	2.00
+385	NM0767	Fitri Lindayani	15/11/2018	2.00
+386	NM0768	Linda Susanti Zai	15/11/2018	2.00
+387	NM0769	Devi Hari Yanti Pulungan	15/11/2018	2.00
+388	NM0770	Intanida Barus	15/11/2018	2.00
+389	NM0771	Naomi Ramsi Yanita	15/11/2018	2.00
+390	NM0772	Tika Pratiwi	15/11/2018	2.00
+391	NM0773	Widya Ramadhani Sitompul	15/11/2018	2.00
+392	NR0007	ASP Medical Clinic	15/11/2018	2.00
+393	RP0221	Risdiyanti	15/11/2018	2.00
+394	RP0228	Rayu Ning Villa	15/11/2018	2.00
+395	SC0091	Ulaganathan A/L Singaram	15/11/2018	2.00
+396	SC0136	JAMES A/L ARULAPAN	15/11/2018	2.00
+397	SC0140	Kumaran A/L Raman Kutti	15/11/2018	2.00
+398	SC0146	Hassan Bin Mohamad	15/11/2018	2.00
+399	SC0148	Yeop Chee Buan	15/11/2018	2.00
+400	ZN0035	Mohd Firdaus Bin Bahuddin	15/11/2018	2.00
+401	ZN0046	Hasmah Bt Mat	15/11/2018	2.00
+402	ZN0055	Che Din Bin Che Lee	15/11/2018	2.00
+403	ZN0056	Zulkhairi Bin Junoh	15/11/2018	2.00
+404	ZN0061	Norhaddalisa Bin Ibrahim	15/11/2018	2.00
+405	ZN0062	Lies Anak Jundam	15/11/2018	2.00
+406	ZN0063	Rosman Bin Omar	15/11/2018	2.00
+407	ZN0064	Chiew Hooi Cheng	15/11/2018	2.00

@@ -1,0 +1,27 @@
+No	Entitlement Type	Grade Code	Designation	Max Claim	Remark	Status
+1	Dependent Visitation	M8		750		Active
+2	Dependent Visitation	M6		525		Active
+3	Dependent Visitation	M4		525		Active
+4	Dependent Visitation	M2		525		Active
+5	Dependent Visitation	M1		525		Active
+6	Dependent Visitation	M0		250		Active
+7	Health Screening	M8	M	500		Active
+8	Health Screening	M8	FM	1000		Active
+9	Optical/Dental Coverage	M8		300		Active
+10	Optical/Dental Coverage	M6		300		Active
+11	Optical/Dental Coverage	M4		300		Active
+12	Optical/Dental Coverage	M2		300		Active
+13	Optical/Dental Coverage	M1		300		Active
+14	Optical/Dental Coverage	M0		300		Active
+15	Panel Clinic Visitation	M8		0		Active
+16	Panel Clinic Visitation	M6		0		Active
+17	Panel Clinic Visitation	M4		0		Active
+18	Panel Clinic Visitation	M2		0		Active
+19	Panel Clinic Visitation	M0		0		Active
+20	Panel Clinic Visitation	M1		0		Active
+21	Specialist Visitation	M6		400		Active
+22	Specialist Visitation	M8		500		Active
+23	Specialist Visitation	M4		400		Active
+24	Specialist Visitation	M2		300		Active
+25	Specialist Visitation	M0		300		Active
+26	Specialist Visitation	M1		300		Active

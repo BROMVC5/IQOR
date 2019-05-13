@@ -1,0 +1,8 @@
+21/04/2019,06:39:20,Ca,Valid Card Entry,CN0049,Wan Abd Malik Bin Wan Romli,0000083735,TMS1_IN,
+21/04/2019,06:39:28,Ca,Valid Card Entry,SC0136,James A/L Arulapan,0000276932,TMS1_IN,
+21/04/2019,07:15:38,Ca,Valid Card Entry,ZN0056,Zulkhairi Bin Junoh,0000236455,TMS1_IN,
+21/04/2019,18:25:23,Ca,Valid Card Entry,SC0146,Hassan Bin Mohamad,0000993644,TMS1_IN,
+21/04/2019,18:42:26,Ca,Valid Card Entry,FC0051,Muhammad Husaini Zolkifli,0000236519,TMS1_IN,
+21/04/2019,19:46:54,SI,Platform1 Server Start Up,,,,,
+21/04/2019,19:46:54,SU,Last System Proper Time,,2019/04/21 19:41,,,
+21/04/2019,19:47:04,SL,Controller Up,,,,TMS1_IN,

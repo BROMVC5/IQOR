@@ -1,0 +1,29 @@
+Day	Shift Date	Emp Code	Name	Contract	Cost Center	Shift	In	Out	Total	Total OT	Approved OT	Time Off	Status
+Fri	18/01/2019	102287	Faridah Binti Hassan	PERMAN	Quality Assurance	OFF							OFF  No info 
+Sat	19/01/2019	102287	Faridah Binti Hassan	PERMAN	Quality Assurance	OFF							OFF  No info 
+Sun	20/01/2019	102287	Faridah Binti Hassan	PERMAN	Quality Assurance	REST							REST  No info 
+Mon	21/01/2019	102287	Faridah Binti Hassan	PERMAN	Quality Assurance	DW07 07:00-19:00						Thaipusam Day	Holiday No info 
+Tue	22/01/2019	102287	Faridah Binti Hassan	PERMAN	Quality Assurance	DW07 07:00-19:00						Absent	No Schedule  No info 
+Wed	23/01/2019	102287	Faridah Binti Hassan	PERMAN	Quality Assurance	DW07 07:00-19:00						Absent	No Schedule  No info 
+Thu	24/01/2019	102287	Faridah Binti Hassan	PERMAN	Quality Assurance	DW07 07:00-19:00						Absent	No Schedule  No info 
+Fri	25/01/2019	102287	Faridah Binti Hassan	PERMAN	Quality Assurance	OFF	12:00	17:00	5.00	5.00	5.00		OFF  OT 
+Sat	26/01/2019	102287	Faridah Binti Hassan	PERMAN	Quality Assurance	OFF							OFF  No info 
+Sun	27/01/2019	102287	Faridah Binti Hassan	PERMAN	Quality Assurance	REST							REST  No info 
+Mon	28/01/2019	102287	Faridah Binti Hassan	PERMAN	Quality Assurance	DW07 07:00-19:00						Absent	No Schedule  No info 
+Tue	29/01/2019	102287	Faridah Binti Hassan	PERMAN	Quality Assurance	DW07 07:00-19:00						Absent	No Schedule  No info 
+Wed	30/01/2019	102287	Faridah Binti Hassan	PERMAN	Quality Assurance	DW07 07:00-19:00						Absent	No Schedule  No info 
+Thu	31/01/2019	102287	Faridah Binti Hassan	PERMAN	Quality Assurance	DW07 07:00-19:00						Absent	No Schedule  No info 
+Fri	01/02/2019	102287	Faridah Binti Hassan	PERMAN	Quality Assurance	OFF	19:00	07:00	12.00	12.00	12.00		OFF  OT 
+Sat	02/02/2019	102287	Faridah Binti Hassan	PERMAN	Quality Assurance	OFF	19:00	07:00	12.00	12.00	12.00		OFF  OT 
+Sun	03/02/2019	102287	Faridah Binti Hassan	PERMAN	Quality Assurance	REST							REST  No info 
+Mon	04/02/2019	102287	Faridah Binti Hassan	PERMAN	Quality Assurance	DW07 07:00-19:00						Chinese New Year	Holiday No info 
+Tue	05/02/2019	102287	Faridah Binti Hassan	PERMAN	Quality Assurance	DW07 07:00-19:00						Chinese New Year	Holiday No info 
+Wed	06/02/2019	102287	Faridah Binti Hassan	PERMAN	Quality Assurance	DW08 19:00-07:00	19:00	07:00	12.00		0.00		Normal 
+Thu	07/02/2019	102287	Faridah Binti Hassan	PERMAN	Quality Assurance	DW08 19:00-07:00	19:00	07:00	12.00		0.00		Normal 
+Fri	08/02/2019	102287	Faridah Binti Hassan	PERMAN	Quality Assurance	OFF							OFF  No info 
+Sat	09/02/2019	102287	Faridah Binti Hassan	PERMAN	Quality Assurance	OFF							OFF  No info 
+Sun	10/02/2019	102287	Faridah Binti Hassan	PERMAN	Quality Assurance	REST							REST  No info 
+Mon	11/02/2019	102287	Faridah Binti Hassan	PERMAN	Quality Assurance	DW07 07:00-19:00						3001 - Medical leave	No Schedule  No info 
+Tue	12/02/2019	102287	Faridah Binti Hassan	PERMAN	Quality Assurance	DW07 07:00-19:00						Absent	No Schedule  No info 
+Wed	13/02/2019	102287	Faridah Binti Hassan	PERMAN	Quality Assurance	DW07 07:00-19:00						Absent	No Schedule  No info 
+Thu	14/02/2019	102287	Faridah Binti Hassan	PERMAN	Quality Assurance	DW07 07:00-19:00						Absent	No Schedule  No info 

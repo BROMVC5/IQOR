@@ -1,0 +1,3 @@
+Purge Log File (GL) ***01/01/1980-31/12/1980     20170106 17:56:29     BRO
+Purge Log File (GL) ***01/01/1980-31/12/2017     20170106 17:56:49     BRO
+Close General Ledger***12 / 0.00     20170106 18:03:29     BRO

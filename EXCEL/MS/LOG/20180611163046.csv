@@ -1,0 +1,625 @@
+EmpNo,EmpName,ClaimDate,AttendDate,PayType,Name,Sex,Relationship,PanelClinicName,ClaimAmount,Sickness,Others,Entitlement,InvoiceNo,Remarks
+00183036,Adelyn Lim Ean Ping,15-01-2016,04-01-2016,Petty Cash,,,,,100,,,Optical/Dental Coverage,DPC0216008,GOOD VISION
+00093328,Yew Shu Qi,15-01-2016,01-01-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0216009,MOG OPTICAL
+00122737,Tan Saw Eam,15-01-2016,07-01-2016,Petty Cash,,,,,120,,,Optical/Dental Coverage,DPC0216010,FOCUS POINT
+00102789,Tan Tat Heong,15-01-2016,02-01-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0216011,MOG OPTICAL
+00102862,Balakrishnan Vijayaragavan,15-01-2016,10-01-2016,Petty Cash,,,,,215,,,Optical/Dental Coverage,DPC0216012,FOCUS POINT
+00102408,Rusliza Binti Ishak,18-01-2016,15-01-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0216013,PUSAT OPTIK BAYAN
+00102644,Fazilawati Binti Mat Saad,18-01-2016,16-01-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0216014,AJO OPTICS
+00102507,Noorhayati Binti Mohd Noor,19-01-2016,08-01-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0216015,PUSAT OPTIK BAYAN
+00102753,Norrihan Binti Piee,19-01-2016,19-01-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0216016,PUSAT OPTIK BAYAN
+00102384,Rohiza Binti Mat Isa,19-01-2016,11-01-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0216017,PUSAT OPTIK BAYAN
+00102549,Roshaiza Bt Ismail @ Abd Ghani,19-01-2016,17-01-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0216018,PUSAT OPTIK BAYAN
+00102452,Zaniyah Binti Said,20-01-2016,18-01-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0216019,PUSAT OPTIK BAYAN
+00102320,Lee Lay Bee,21-01-2016,21-01-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0216020,PUSAT OPTIK BAYAN
+00176879,Teh Shaw Ning,22-01-2016,09-01-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0216021,EYEZ OPTIC
+00102677,Norhayati Binti Razali,22-01-2016,22-01-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0216022,PUSAT OPTIK BAYAN
+00166638,Lim Chek Yien,26-01-2016,04-01-2016,Petty Cash,,,,,140,,,Optical/Dental Coverage,DPC0216023,SEONG OPTOMETRIST
+00159193,Mohd Arif Bin Manap,26-01-2016,23-01-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0216024,PUSAT OPTIK BAYAN
+00169381,Beh Tih Hon,27-01-2016,25-01-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0216025,CHONG OPTOMETRIST
+00086315,Cheah Kok Kheong,28-01-2016,27-01-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0216026,SMILEBAY DENTAL
+00102378,Tan Siew Nee,28-01-2016,21-01-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0216027,CHAN MAY MAY OPTICAL
+00102321,Osman Bin Mohamed,02-02-2016,25-01-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0316001,BOON DENTAL
+00102288,Hajar Binti Tahir,04-02-2016,25-01-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0316002,PUSAT OPTIK BAYAN
+00102681,Wong Cheng Koon,05-02-2016,29-01-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0316003,CHUA DENTAL SURGERY
+00102609,Norliah Binti Rahman,10-02-2016,20-01-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0316004,PUSAT OPTIK BAYAN
+00102434,Sulhailmi Bin Saidin,10-02-2016,21-01-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0316005,PUSAT OPTIK BAYAN
+00190710,Chan See Yan,16-02-2016,31-01-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0316006,CK OPTOMETERY
+00045891,Khor Chin Ming,16-02-2016,16-02-2016,Petty Cash,,,,,70,,,Optical/Dental Coverage,DPC0316007,K. PERGIGIAN E. L. LIM
+00030123,Siti Zubaidah Binti Ahmad,17-02-2016,12-02-2016,Petty Cash,,,,,178,,,Optical/Dental Coverage,DPC0316008,MONSTER OPTICAL
+00165117,Siti Fatimah Binti Mat Hussain,18-02-2016,23-01-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0316009,PUSAT OPTIK BAYAN
+00164968,Looi Kok Leong,19-02-2016,12-02-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0316010,ADVANCE OPTOMETRIST
+00102312,Fadzlina Binti Md Shariff,22-02-2016,20-02-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0316011,PUSAT OPTIK INTAN
+00102429,Muhamad Sulaiman Bin Mohamed Noor,22-02-2016,20-02-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0316012,PUSAT OPTIK INTAN
+00102361,Soridan Bin Hussein,23-02-2016,23-01-2016,Petty Cash,,,,,200,,,Optical/Dental Coverage,DPC0316013,OPTIK MATAKU
+00187031,Annammal A/P Nalammuthu,24-02-2016,21-02-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0316014,NEW EYE OPTICS SDN BHD
+00166638,Lim Chek Yien,24-02-2016,23-02-2016,Petty Cash,,,,,110,,,Optical/Dental Coverage,DPC0316015,COSMO LENS
+00787956,Alvin Lim Wei Aik,25-02-2016,22-02-2016,Petty Cash,,,,,80,,,Optical/Dental Coverage,DPC0316016,K.PERGIGIAN E.L. LIM
+00787956,Alvin Lim Wei Aik,25-02-2016,22-02-2016,Petty Cash,,,,,170,,,Optical/Dental Coverage,DPC0316017,MOG
+00301743,Badrul Hisyam Bin Kasim,29-02-2016,25-02-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0316018,PUSAT OPTIK BAYAN
+00187827,Khairul Azlan Hisham Bin Man,29-02-2016,27-02-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0316019,PUSAT OPTIK BAYAN
+00160683,Khoo Theng Ling,04-03-2016,03-03-2016,Petty Cash,,,,,80,,,Optical/Dental Coverage,DPC0416001,RELAU DENTAL SURGERY
+00102370,Zaharizan Bin Zakaria,07-03-2016,04-03-2016,Petty Cash,,,,,50,,,Optical/Dental Coverage,DPC0416002,ISLAND DENTAL SURGERY SDN.BHD
+00089188,Julia Binti Arasat @ Arshad,08-03-2016,13-02-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0416003,PUSAT OPTIK BAYAN
+00102570,Noor Hedayahtun Bt. Mat Nayan @ Ayub,08-03-2016,05-03-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0416004,PUSAT OPTIK BAYAN
+00102516,Sabirah Binti Md Saleh,09-03-2016,23-02-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0416005,PUSAT OPTIK BAYAN
+00102592,Azlina Binti Alias,09-03-2016,18-02-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0416006,PUSAT OPTIK BAYAN
+00177079,Ho Shyh Kee,09-03-2016,08-03-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0416007,PB VISION POINT
+00922257,Romana Kovtanova,10-03-2016,05-03-2016,Petty Cash,,,,,215,,,Optical/Dental Coverage,DPC0416008,PUSAT OPTIK SOPP
+00032964,Yusliana Binti Md Yusof,10-03-2016,01-03-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0416009,PUSAT OPTIK BAYAN
+00162984,Oh Beng Fatt,14-03-2016,11-03-2016,Petty Cash,,,,,80,,,Optical/Dental Coverage,DPC0416010,RELAU DENTAL
+00184215,Khaw Hui Khim,15-03-2016,13-03-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0416011,AJO OPTICS
+00459569,Goh Chin Hon,17-03-2016,14-03-2016,Petty Cash,,,,,75,,,Optical/Dental Coverage,DPC0416012,SMILE DENTAL
+00102293,Azhar Bin Baharum,22-03-2016,17-03-2016,Petty Cash,,,,,220,,,Optical/Dental Coverage,DPC0416013,KLINIK PERGIGIAN KHOR
+00102380,Zalriah Binti Talib,22-03-2016,20-03-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0416014,SIGHTMASTER OPTICAL SDN.BHD
+00455338,Tan Chee Hoon,22-03-2016,17-03-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0416015,KLINIK PERGIGIAN E.L. LIM
+00187830,Marziah Binti Md Nangan,22-03-2016,24-02-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0416016,PUSAT OPTIK BAYAN
+07001661,Chen Shing Sew,22-03-2016,14-03-2016,Petty Cash,,,,,248,,,Optical/Dental Coverage,DPC0416017,I-VISON EYE CARE SDN.BHD
+00183167,Nur Nazwa Binti Aziz,24-03-2016,27-02-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0416018,PUSAT OPTIK BAYAN
+00331135,Tan Hooi Chieh,24-03-2016,19-03-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0416019,TRINITY DENTAL
+00102301,Chong Poh Lee,25-03-2016,23-03-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0416020,K. MAXCARE DENTAL
+00102664,Norhabibah Binti Man,29-03-2016,27-03-2016,Petty Cash,,,,,130,,,Optical/Dental Coverage,DPC0416021,SURGERI PERGIGIAN R.K. RAAJ
+00102309,Suriyati Binti Jaafar,31-03-2016,16-03-2016,Petty Cash,,,,,50,,,Optical/Dental Coverage,DPC0416022,ONG & LIM DENTAL
+00102433,Wan Yusanisah Binti Wan Yusoff,06-04-2016,29-03-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0516001,PUSAT OPTIK BAYAN
+00102785,Nurul Husna Bt Ramli,06-04-2016,31-03-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0516002,PUSAT OPTIK BAYAN
+00102501,Siti Salbiah Binti Saad,06-04-2016,05-04-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0516003,MILLENNIUM CARE DENTAL
+00176879,Teh Shaw Ning,06-04-2016,05-04-2016,Petty Cash,,,,,110,,,Health Screening,HPC0516001,ASP MEDICAL CLINIC
+00102340,Suriani Binti Sabli,06-04-2016,27-03-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0516004,DE HUMAN EYES
+00178173,Kam Soo Ling,06-04-2016,05-04-2016,Petty Cash,,,,,100,,,Optical/Dental Coverage,DPC0516005,K. PERGIGIAN DANIEL CHEONG
+00032224,Yeap Kim Peng,06-04-2016,05-04-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0516006,K. PERGIGIAN KKONG
+00161193,Yeap Bee Chew,08-04-2016,20-02-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0516007,FOCUS OPTOMETRY
+00102474,Nor Ani Binti Md Salleh,11-04-2016,18-03-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0516008,PUSAT OPTIK BAYAN
+00102332,Rafidah Binti Harun,11-04-2016,02-04-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0516009,PUSAT OPTIK BAYAN
+00125168,Tan Soo Ling,11-04-2016,07-03-2016,Petty Cash,,,,,35,,,Optical/Dental Coverage,DPC0516010,KLINIK PERGIGIAN MAXCARE
+00419046,Lian Seng Hoe,11-04-2016,10-04-2016,Petty Cash,,,,,110,,,Optical/Dental Coverage,DPC0516011,KLINIK PERGIGIAN EOW SDN.BHD
+00102522,Azean Binti Ghazali,12-04-2016,15-03-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0516012,PUSAT OPTIK BAYAN
+00137169,Kamilia Binti Mohd Yussof,12-04-2016,10-04-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0516013,BOON OPTICAL CENTRE
+00102652,Siti Asmah Binti Biduan,12-04-2016,25-03-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0516014,PUSAT OPTIK BAYAN
+00102664,Norhabibah Binti Man,19-04-2016,10-04-2016,Petty Cash,,,,,120,,,Optical/Dental Coverage,DPC0516015,SURGERI PERGIGIAN R.K. RAAJ
+00102265,Lim Cheng Chye,21-04-2016,08-04-2016,Petty Cash,,,,,200,,,Optical/Dental Coverage,DPC0516016,SEAH OPTOMETRY
+00102633,Pun Chiun Phin,22-04-2016,21-04-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0516017,ONGWASEDA OPTICAL
+00102365,Zuraini Binti Yahaya,22-04-2016,02-03-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0516018,PUSAT CERMIN MATA MUTIARA
+00030113,Noorazah Binti Abdul Wahab,27-04-2016,23-04-2016,Petty Cash,,,,,40,,,Optical/Dental Coverage,DPC0516019,K.PERGIGIAN LEH
+00125168,Tan Soo Ling,29-04-2016,13-04-2016,Petty Cash,,,,,50,,,Optical/Dental Coverage,DPC0516020,AVANT DENTAL
+00107284,Lee Kong Leng,05-05-2016,30-04-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0616001,MIDO OPTICAL
+00102309,Suriyati Binti Jaafar,05-05-2016,22-04-2016,Petty Cash,,,,,100,,,Optical/Dental Coverage,DPC0616002,ONG & LIM DENTAL
+00036890,Phang Yee Hin,06-05-2016,28-04-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0616003,K. PERGIGIAN KK ONG
+00102338,Zuraida Binti Zenun,12-05-2016,07-05-2016,Petty Cash,,,,,100,,,Optical/Dental Coverage,DPC0616004,K. PERGIGIAN DESA MURNI
+00176306,Lew Lai Yin,16-05-2016,06-05-2016,Petty Cash,,,,,50,,,Optical/Dental Coverage,DPC0616005,SMILEBAY DENTAL SURGERY
+00176306,Lew Lai Yin,16-05-2016,16-04-2016,Petty Cash,,,,,199,,,Optical/Dental Coverage,DPC0616006,CLARITY LENSES SERVICES
+00102617,Nurazniza Binti Rosli,17-05-2016,16-05-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0616007,PUSAT OPTIK BAYAN
+00102799,Roslizawatie Binti Md Zain,18-05-2016,16-05-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0616008,PUSAT OPTIK BAYAN
+00102635,Narita Binti Abdul Latif,20-05-2016,17-05-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0616009,PUSAT OPTIK BAYAN
+00111032,Nurul Ezzati Atiqah Binti Ismail,20-05-2016,17-05-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0616010,PUSAT OPTIK BAYAN
+00029684,Hor Ai Chean,20-05-2016,25-01-2016,Petty Cash,,,,,199,,,Optical/Dental Coverage,DPC0616011,OWL EYEWEAR
+00029241,Tan Siew Hong,24-05-2016,20-05-2016,Petty Cash,,,,,220,,,Optical/Dental Coverage,DPC0616012,DE HUMAN EYES
+00102674,Sannura Bt Sulaiman,24-05-2016,20-05-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0616013,PUSAT OPTIK BAYAN
+00102453,Rofiah Binti Mat,26-05-2016,24-05-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0616014,PUSAT OPTIK BAYAN
+00102286,Norbashiroh Binti Md Amin,27-05-2016,20-05-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0616015,PUSAT OPTIK BAYAN
+00102330,Lina Marni Binti Md Noor,27-05-2016,24-05-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0616016,PUSAT OPTIK BAYAN
+00102418,Soffiah Binti Othaman,27-05-2016,24-05-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0616017,PUSAT OPTIK BAYAN
+00102317,Tan Saw Lan,27-05-2016,25-04-2016,Petty Cash,,,,,168,,,Optical/Dental Coverage,DPC0616018,LK OPTICAL
+00175041,Lam Siang Choong,27-05-2016,01-05-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0616019,CHAN MAY MAY OPTOMETRIST
+00102338,Zuraida Binti Zenun,31-05-2016,28-05-2016,Petty Cash,,,,,150,,,Optical/Dental Coverage,DPC0616020,KLINIK PERGIGIAN DESA MURNI
+00102555,Yeoh Peng Joo,31-05-2016,28-05-2016,Petty Cash,,,,,150,,,Optical/Dental Coverage,DPC0616021,WONG&SIM DENTAL SURGERY
+00102765,Normariani Binti Abdul Rahim,31-05-2016,27-05-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0616022,PUSAT OPTIK BAYAN
+00030576,Nor Intan Binti Che Ali,31-05-2016,26-05-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0616023,PUSAT OPTIK BAYAN
+00888104,Siti Nor Artini Binti Idris,31-05-2016,26-05-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0616024,PUSAT OPTIK BAYAN
+00102468,Norehan Binti Ismail,31-05-2016,21-05-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0616025,LOOK EYEWEAR CENTRE
+00102606,Suzila Binti Mat,31-05-2016,25-05-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0616026,PUSAT OPIK BAYAN
+00102271,Sarinah Binti Samsuddin,31-05-2016,21-05-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0616027,PUSAT OPTIK BAYAN
+00102727,Mas Ayuza Binti Mohd Yusof,31-05-2016,23-05-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0616028,PUSAT BAYAN OPTIK
+00157249,Norhaizal Bin Johari,31-05-2016,19-05-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC1616029,PUSAT BAYAN OPTIK
+00187173,Zaleha Binti Hamzah,31-05-2016,26-06-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0616030,PUSAT OPTIK BAYAN
+00451127,Hamizatul Akmalia Binti Kamal,03-06-2016,31-05-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0716001,CT OPTICAL
+00306931,Nur Syafiqah Binti Aziz,03-06-2016,25-05-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0716002,PUSAT OPTIK BAYAN
+00102372,Jayabarathy A/P Muniandy,03-06-2016,23-05-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0716003,PUSAT OPTIK BAYAN
+00030123,Siti Zubaidah Binti Ahmad,07-06-2016,02-06-2016,Petty Cash,,,,,72,,,Optical/Dental Coverage,DPC0716004,PUSAT OPTIK BAYAN
+00168334,Faisal Bin Zailani,08-06-2016,28-05-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0716005,DEN OPTICS AND CONTACT LENS CENTRE
+00178173,Kam Soo Ling,08-06-2016,07-06-2016,Petty Cash,,,,,150,,,Optical/Dental Coverage,DPC0716006,NEW EYE OPTICS SDN.BHD
+00102508,Rozimah Binti Hj Sidek,13-06-2016,28-05-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0716007,PUSTA OPTIK BAYAN
+00102349,Kasturi A/P Salatorai,14-06-2016,13-06-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0716008,SENSASI DINAMIK SDN BHD
+00102266,Tan Cheng Leng,14-06-2016,16-04-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0716009,kang min dental
+00123917,Vincent Fong Siew Chung,21-06-2016,16-06-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,dpc0716010,Goh dental
+00102309,Suriyati Binti Jaafar,21-06-2016,30-05-2016,Petty Cash,,,,,100,,,Optical/Dental Coverage,DPC0716011,ONG & LIM DENTAL
+00183036,Adelyn Lim Ean Ping,21-06-2016,09-06-2016,Petty Cash,,,,,100,,,Optical/Dental Coverage,DPC0716012,SMILEBAY DENTAL
+00102450,Lim Bee Hwa,27-06-2016,26-06-2016,Petty Cash,,,,,80,,,Optical/Dental Coverage,DPC0716013,KLINIK PERGIGIAN MAXCARE
+00125168,Tan Soo Ling,27-06-2016,21-06-2016,Petty Cash,,,,,97,,,Optical/Dental Coverage,DPC0716014,KLINIK PERGIGIAN MAX CARE
+00160072,Norida Binti Abdullah,27-06-2016,18-06-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0716015,PUSAT OPTIK BAYAN
+00174996,Ahmad Nazri Bin Mat Isa,27-06-2016,24-06-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0716016,PUSAT OPTIK BAYAN
+00178996,Mohd Fadil Bin Saat,27-06-2016,21-06-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0716017,PUSAT OPTIK BAYAN
+00179607,Wong Lee Yong,28-06-2016,25-06-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0716018,KLINIK PERGIGIAN E.L LIM
+00102370,Zaharizan Bin Zakaria,30-06-2016,29-06-2016,Petty Cash,,,,,50,,,Optical/Dental Coverage,DPC0716019,ISLAND DENTAL
+00891008,Ooi Hooi Pheng,04-07-2016,25-06-2016,Petty Cash,,,,,45,,,Optical/Dental Coverage,DPC0816001,EP TEOH DENTAL
+00891008,Ooi Hooi Pheng,04-07-2016,30-06-2016,Petty Cash,,,,,140,,,Optical/Dental Coverage,DPC0816002,EP TEOH DENTAL
+00419046,Lian Seng Hoe,15-07-2016,06-07-2016,Petty Cash,,,,,140,,,Optical/Dental Coverage,DPC0816003,V2 OPTICAL
+00166413,Yeop Cheng Hoe,15-07-2016,05-07-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0816004,seah optometry
+00160681,Moh Shi Ling,19-07-2016,16-07-2016,Petty Cash,,,,,201,,,Optical/Dental Coverage,DPC0816005,FOCUS POINT
+00041461,Chu Wee Liang,27-07-2016,23-07-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0816006,K.PERGIGIAN SENTOSA
+00102506,Leng Siew Peng,27-07-2016,23-07-2016,Petty Cash,,,,,123,,,Optical/Dental Coverage,DPC0816007,COSMO LENS SDN BHD
+00102277,Ariffin Bin Md Noor,27-07-2016,30-06-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0816008,EYE MATE OPTICAL
+00186095,Tan Vi Chean,29-07-2016,19-04-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0816009,ONGWASEDA OPTICAL
+00174999,Khor Eng Keng,02-08-2016,30-07-2016,Petty Cash,,,,,150,,,Optical/Dental Coverage,DPC0916001,EWL DENTAL
+00102347,Zaleha Binti Ahmad,02-08-2016,01-08-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0916002,FOCUS POINT
+07000516,John Paul Linao,15-08-2016,10-08-2016,Petty Cash,,,,,130,,,Optical/Dental Coverage,DPC0916003,smile dental
+00163523,Kwong Yin Meng,15-08-2016,13-08-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0916004,GOOD VISION
+00102275,Cheah Bee Loon,22-08-2016,15-07-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0916005,NNG OPTICS
+00102265,Lim Cheng Chye,24-08-2016,23-08-2016,Petty Cash,,,,,600,,,Health Screening,HPC0916001,ISLAND HOSP
+00102450,Lim Bee Hwa,30-08-2016,29-08-2016,Petty Cash,,,,,170,,,Optical/Dental Coverage,DPC0916006,KLINIK PERGIGIAN UNION
+00038550,Roslina Binti Saidin,08-09-2016,24-08-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC1016001,PUSAT OPTIK BAYAN
+00102576,Rozana Binti Mohd Khalid,08-09-2016,03-09-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC1016002,PUSAT OPTIK BAYAN
+00102371,Dhevaghi A/P Sugamaran,08-09-2016,06-09-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC1016003,PUSAT OPTIK BAYAN
+00102721,Siti Zainab Binti Nordin,08-09-2016,08-09-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC1016004,PUSAT OPTIK BAYAN
+00038540,Fatimah Binti Mat Tajuddin,09-09-2016,08-09-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC1016005,PUSAT OPTIK BAYAN
+00765257,Norhuda Binti Mustaffa,09-09-2016,20-08-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC1016006,PUSAT OPTIK BAYAN
+00102536,Noorsakila Binti Mohd Isa,09-09-2016,22-08-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC1016007,PUSAT OPTIK BAYAN
+07003679,Siti Amnah Binti Ahmad,09-09-2016,27-08-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC1016007,PUSAT OPTIK BAYAN
+00102649,Rohani Binti Kadir,19-09-2016,09-09-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC1016008,Pusat Optik bayan
+00102435,Sagayamary A/P Maniam,19-09-2016,16-09-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC1016009,Century View Vision Care
+00195028,Noorul Huda Binti Mohd Arif,19-09-2016,17-09-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC1016010,Boon Optical Centre
+00080360,Lim Wei Zhiang,20-09-2016,17-09-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC1016011,WONG& SIM DENTAL SURGERY
+00221168,Ooi Jau Wey,22-09-2016,12-09-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC1016012,BEST PRICE OPTICAL
+00102587,Noraini Binti Salleh,22-09-2016,06-09-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC1016013,PUSAT OPTIK BAYAN
+00102329,Lee Mean Ong,22-09-2016,13-09-2016,Petty Cash,,,,,150,,,Optical/Dental Coverage,DPC1016014,TANJUNG DENTAL SURGERY
+00135543,Chong Heng Luong,10-10-2016,04-10-2016,Petty Cash,,,,,246,,,Optical/Dental Coverage,DPC1116001,A-LOOK EYEWEAR
+00188673,Ho Ming Kong,13-10-2016,05-10-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC1116002,GENE & RON STUDIO
+00176879,Teh Shaw Ning,13-10-2016,12-10-2016,Petty Cash,,,,,295,,,Health Screening,HPC1116001,ASP MEDICAL CLINIC
+00448268,Ku Azuwan Bin Ku Adenan,14-10-2016,12-10-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC1116003,PUSAT OPTIK BAYAN
+07000997,Rolando Calaparan Lagua,19-10-2016,15-10-2016,Petty Cash,,,,,85,,,Optical/Dental Coverage,DPC1116004,SMILE DENTAL
+00102345,Tan Soo Ling,28-10-2016,24-10-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC1116005,CH'NG DENTAL
+00029241,Tan Siew Hong,01-11-2016,14-10-2016,Petty Cash,,,,,585,,,Health Screening,HPC1216001,LWEH
+00891008,Ooi Hooi Pheng,02-11-2016,31-10-2016,Petty Cash,,,,,65,,,Optical/Dental Coverage,DPC1216001,EP TEOH DENTAL
+07005939,Ong Mong Kee,07-11-2016,05-11-2016,Petty Cash,,,,,125,,,Optical/Dental Coverage,DPC1216002,BHAR DENTAL
+00102353,Haliza Binti Tahir,07-11-2016,31-10-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC1216003,PUSAT OPTIK BAYAN
+00102298,Azizi Bin Othman,07-11-2016,05-11-2016,Petty Cash,,,,,80,,,Optical/Dental Coverage,DPC1216004,KLINIK PERGIGIAN LIM
+00102483,Siti Aishah Binti Biduan,09-11-2016,05-11-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC1216005,PUSAT OPTIK BAYAN
+00459569,Goh Chin Hon,11-11-2016,08-11-2016,Petty Cash,,,,,175,,,Optical/Dental Coverage,DPC1216006,PUSAT OPTIK BAYAN
+00162984,Oh Beng Fatt,14-11-2016,13-11-2016,Petty Cash,,,,,170,,,Optical/Dental Coverage,DPC1216007,RELAU DENTAL SURGERY
+00157237,Haslina Binti Hussin,14-11-2016,14-11-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC1216008,PUSAT OPTIK BAYAN
+00102327,Angalene A/P Subramaniam,15-11-2016,09-11-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC1216010,PUSAT OPTIK BAYAN
+00102385,Norhashira Binti Halim,15-11-2016,12-11-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC1216011,PUSAT OPTIK BAYAN
+00102718,Haslinda Binti Ismail,15-11-2016,10-11-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC1216012,PUSAT OPTIK BAYAN
+00174998,Mohd Azuwan Bin Jamjam,15-11-2016,10-11-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC1216013,PUSAT OPTIK BAYAN
+00102580,Norhafizah Binti Daud,15-11-2016,14-11-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC1216014,PUSAT OPTIK BAYAN
+07000513,Jarmel Paunil Manaog,18-11-2016,14-11-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC1216009,PUSAT OPTIK BAYAN
+00102333,Salehan Binti Jamhari,24-11-2016,20-11-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC1216015,MOG EYEWEAR
+00194585,Nadia Binti Azahar,24-11-2016,21-11-2016,Petty Cash,,,,,200,,,Optical/Dental Coverage,DPC1216016,KLINIK PERGIGIAN EOW
+00102287,Faridah Binti Hassan,29-11-2016,24-11-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC1216017,PUSAT OPTIK BAYAN
+00102469,Zaleha Binti Jaafar,29-11-2016,25-11-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC1216018,PUSAT OPTIK BAYAN
+00102459,Parvathi A/P Kuppusamy,29-11-2016,25-11-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC1216019,PUSAT OPTIK BAYAN
+00102748,Asmawati Binti Asalludin,29-11-2016,28-11-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC1216020,PUSAT OPTIK BAYAN
+00102350,Noraini Binti Kadir,29-11-2016,23-11-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC1216021,PUSAT OPTIK BAYAN
+00778304,Noorliah Binti Matin @ Arshad,29-11-2016,21-11-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC1216022,PUSAT OPTIK BAYAN
+00102326,Siti Aisah Binti Hussain,29-11-2016,26-11-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC1216023,PUSAT BAYAN OPTIK
+00102267,Ja'Ayah Binti Hassan,29-11-2016,28-11-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC1216024,MONSTER OPTICAL
+00766527,Norhanida Binti Hanafi,30-11-2016,28-11-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC1216025,ESAVER OPTICAL
+00030113,Noorazah Binti Abdul Wahab,30-11-2016,24-11-2016,Petty Cash,,,,,210,,,Optical/Dental Coverage,DPC1216026,PUSAT OPTIK BAYAN
+00102279,Chor Phaik Seok,30-11-2016,29-11-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC1216027,FOCUS POINT VISION
+00102280,Siti Hajar Binti Awang,05-12-2016,17-11-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0117001,PUSAT OPTIK BAYAN
+00102281,Norhasimah Binti Kassim,05-12-2016,15-11-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0117002,PUSAT OPTIK BAYAN
+00102787,Norhafiza Binti Mat Zin,06-12-2016,01-12-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0117003,PUSAT OPTIK BAYAN
+00102375,Siti Fatimah Binti Abd.Rahim,07-12-2016,29-11-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0117004,PUSAT OPTIK BAYAN
+00102272,Lim Kok Beng,13-12-2016,12-12-2016,Petty Cash,,,,,230,,,Optical/Dental Coverage,DPC0117005,RELAU DENTAL SURGERY
+00029776,Zabidi Bin Nanyan,13-12-2016,12-12-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0117006,YES OPTICAL SDN BHD
+00102533,Tan Lye Hong,14-12-2016,27-11-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0117007,METTA VISION
+00102291,Rusnah Binti Dolah,14-12-2016,11-12-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0117008,BRIGHT VIEW OPTICAL
+00102295,Lee Cheng Guat,16-12-2016,12-12-2016,Petty Cash,,,,,180,,,Optical/Dental Coverage,DPC0117009,CHAN KONG CHAN OPTICAL
+00102686,Mohd Fares Bin Jamil,16-12-2016,10-12-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0117010,JAMILAH OPTOMETRIS
+00031881,Faridah Hana Binti Mohamad,16-12-2016,14-12-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0117011,PUSAT OPTIK BAYAN
+00102285,Hafizah Binti Mat Yusoff,16-12-2016,10-12-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0117012,PUSAT OPTIK BAYAN
+07005629,Mohd Faizal Ahmed,16-12-2016,10-12-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0117013,PUSAT OPTIK BAYAN
+07006738,Nurul Wahida Binti Kamarulzaman,19-12-2016,13-12-2016,Petty Cash,,,,,125,,,Optical/Dental Coverage,DPC0117014,PUSAT OPTIK BAYAN
+07007170,Hasbullah Bin Zakaria,19-12-2016,12-12-2016,Petty Cash,,,,,125,,,Optical/Dental Coverage,DPC0117015,PUSAT OPTIK BAYAN
+00102572,Hamidah Bt Che Mei,19-12-2016,17-12-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0117016,A-LOOK EYEWEAR
+00102298,Azizi Bin Othman,20-12-2016,13-12-2016,Petty Cash,,,,,170,,,Optical/Dental Coverage,DPC0117017,ECO EYE CONCEPT OPTIC
+07005106,Woo Soo Ying,20-12-2016,16-12-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0117018,BLISS DENTAL
+00102541,Krishnavanei A/P Yalomallai,20-12-2016,13-12-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0117019,PUSAT OPTIK BAYAN
+00114278,Santhimathy a/p Gopalan,20-12-2016,13-12-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0117020,PUSAT OPTIK BAYAN
+00102790,Ching Chin Hui,20-12-2016,18-12-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0117021,EYE MATE VISION CARE
+00175041,Lam Siang Choong,23-12-2016,21-12-2016,Petty Cash,,,,,598,,,Health Screening,HPC0117001,BP DIAGNOSTIC CENTRE
+00162985,Ng Chooi Heng,27-12-2016,23-12-2016,Invoice,,,,,180,"Dental ,toothache",,Optical/Dental Coverage,DPC0117022,TAY DENTAL SURGERY
+00309748,Tan Guat Peng,27-12-2016,26-12-2016,Invoice,,,,,250,,,Optical/Dental Coverage,DPC0117023,MAXCARE DENTAL SURGERY
+00160683,Khoo Theng Ling,27-12-2016,26-12-2016,Invoice,,,,,170,,,Optical/Dental Coverage,DPC0117024,LK OPTICAL
+00207082,Mohd Faizal Bin Nanyan,28-12-2016,22-12-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0117025,CH'NG DENTAL
+00162984,Oh Beng Fatt,28-12-2016,23-12-2016,Petty Cash,,,,,600,,,Health Screening,HPC0117002,LWEH
+00869661,Yeap Yin Yin,28-12-2016,27-12-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0117026,UNI EYE CARE
+00306986,Siti Khadijah Binti Abu Bakar,29-12-2016,28-12-2016,Petty Cash,,,,,220,,,Optical/Dental Coverage,DPC0117027,MOG
+00206103,Siti Atikah Binti Che Soh,29-12-2016,24-12-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0117028,PUSAT OPTIK BAYAN
+00102488,Ravindran A/L Chandra Segaran,30-12-2016,29-12-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0117029,GIRAFFE OPTIC CENTRE
+00032783,Yeap Cheng Gaik,31-12-2016,31-12-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0217001,AVANT DENTAL SURGERY
+07007556,Goo Feng Guan,31-12-2016,29-12-2016,Petty Cash,,,,,125,,,Optical/Dental Coverage,DPC0217002,E.L.LIM DENTAL
+00102505,Mohamad Sukri Bin Zainol Abidin,31-12-2016,30-12-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0217003,OPTIK MATAKU
+00156003,Hiew Yoon Fook,31-12-2016,24-12-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0217004,KHOR DENTAL
+00045891,Khor Chin Ming,31-12-2016,16-01-2016,Petty Cash,,,,,180,,,Optical/Dental Coverage,DPC0217005,ONG & LIM DENTAL
+07008183,Goh Bee Sien,31-12-2016,24-12-2016,Petty Cash,,,,,125,,,Optical/Dental Coverage,DPC0217006,NNG OPTICS
+00389512,Lai Hooi See,31-12-2016,31-12-2016,Invoice,,,,OTHERS,250,Other,OPTICAL,Optical/Dental Coverage,DPC0217007,TAK LOONG KEDAI JAM & CERMIN MATA
+00193348,Cheah Poh Guan,31-12-2016,30-12-2016,Petty Cash,,,,,249,,,Optical/Dental Coverage,DPC0217008,FARLIM OPTICAL
+06999999,Lee Wei Zhong,31-12-2016,29-12-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0217009,ONE EYES OPTIC
+00102449,Wong Gim Hock,31-12-2016,31-12-2016,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0217010,SMILEBAY DENTAL
+07001661,Chen Shing Sew,06-01-2017,02-01-2017,Petty Cash,,,,,250,,,Optical/Dental Coverage,,LOH DENTAL
+00102370,Zaharizan Bin Zakaria,16-01-2017,03-01-2017,Petty Cash,,,,,100,,,Optical/Dental Coverage,DPC0217013,ISLAND DENTAL
+00102338,Zuraida Binti Zenun,16-01-2017,06-01-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0217014,MOG EYE WEAR
+00389512,Lai Hooi See,16-01-2017,07-01-2017,Petty Cash,,,,,270,,,Optical/Dental Coverage,DPC0217015,TAK LOONG KEDIA JAM & CERMIN MATA
+00162985,Ng Chooi Heng,16-01-2017,09-01-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0217016,KLINIK PERGIGIAN TAY
+00130711,Yushaida Binti Yusof,16-01-2017,12-01-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0217017,CHUAN HOOI OPTIK
+00160683,Khoo Theng Ling,16-01-2017,12-01-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0217018,ZION EYES
+00102301,Chong Poh Lee,16-01-2017,14-01-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0217019,LENSPECS OPTICAL CENTRE
+00166638,Lim Chek Yien,16-01-2017,08-01-2017,Petty Cash,,,,,197,,,Optical/Dental Coverage,DPC0217020,FOCUS POINT OPTICAL
+00306931,Nur Syafiqah Binti Aziz,16-01-2017,09-01-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,,RELAU DENTAL
+00102321,Osman Bin Mohamed,25-01-2017,12-01-2017,Petty Cash,,,,,175,,,Optical/Dental Coverage,DPC0217022,MOG OPTICAL
+00102450,Lim Bee Hwa,25-01-2017,18-01-2017,Petty Cash,,,,,210,,,Optical/Dental Coverage,DPC0217023,MAXCARE DENTAL
+00166638,Lim Chek Yien,26-01-2017,25-01-2017,Petty Cash,,,,,103,,,Optical/Dental Coverage,DPC0217024,MOG OPTICAL
+00102295,Lee Cheng Guat,26-01-2017,24-01-2017,Petty Cash,,,,,70,,,Optical/Dental Coverage,DPC0217025,ONG & LIM DENTAL
+00177079,Ho Shyh Kee,01-02-2017,24-01-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0317002,NG CONTACT OPTICAL CENTRE
+00194585,Nadia Binti Azahar,02-02-2017,18-01-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0317003,DE VISION OPTICAL SDN BHD
+00102347,Zaleha Binti Ahmad,01-02-2017,24-01-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0317001,PUSAT OPTIK INTAN
+00102293,Azhar Bin Baharum,03-02-2017,02-02-2017,Petty Cash,,,,,200,,,Optical/Dental Coverage,DPC0317004,KLINIK PERGIGIAN MESRA
+00176306,Lew Lai Yin,03-02-2017,02-02-2017,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0317005,SMILEBAY DENTAL
+00102361,Soridan Bin Hussein,07-02-2017,04-02-2017,Petty Cash,,,,,276,,,Optical/Dental Coverage,DPC0317006,CAKKHUJAYA OPTICAL SDN BHD
+00102267,Ja'Ayah Binti Hassan,07-02-2017,06-02-2017,Petty Cash,,,,,180,,,Optical/Dental Coverage,DPC0317007,RELAU DENTAL SURGERY SDN BHD
+00102298,Azizi Bin Othman,14-02-2017,12-02-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0317008,AG OPTICS CENTRE
+00160072,Norida Binti Abdullah,20-02-2017,18-02-2017,Petty Cash,,,,,240,,,Optical/Dental Coverage,DPC0317009,RELAU DENTAL SURGERY SDN BHD
+00102380,Zalriah Binti Talib,20-02-2017,19-02-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0317010,SIGHTMASTER OPTICAL SDN BHD
+00176306,Lew Lai Yin,20-02-2017,18-02-2017,Petty Cash,,,,,50,,,Optical/Dental Coverage,DPC0317011,SMILEBAY DENTAL SURGERI
+00102450,Lim Bee Hwa,27-02-2017,17-02-2017,Petty Cash,,,,,80,,,Optical/Dental Coverage,DPC0317012,KKLINIK PERGIGIAN MAXCARE
+07008054,Teo Chee Huat,27-02-2017,25-02-2017,Petty Cash,,,,,280,,,Optical/Dental Coverage,DPC0317013,ESAVER OPTICAL
+00163523,Kwong Yin Meng,27-02-2017,25-02-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0317014,GOOD VISION
+00102474,Nor Ani Binti Md Salleh,28-02-2017,20-02-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0317015,CTO EYECARE PLT
+00176879,Teh Shaw Ning,28-02-2017,28-02-2017,Petty Cash,,,,,105,,,Health Screening,HPC0317001,ASP MEDICAL CLINIC
+00102289,Leong Wai Hin,28-02-2017,26-02-2017,Petty Cash,,,,,120,,,Optical/Dental Coverage,DPC0317016,EYE TO EYE OPTOMETRY
+00102644,Fazilawati Binti Mat Saad,02-03-2017,28-02-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0417001,OPTICS EYEWEAR
+00032224,Yeap Kim Peng,15-03-2017,14-03-2017,Petty Cash,,,,,40,,,Optical/Dental Coverage,DPC0417002,GOH DENTAL
+00114278,Santhimathy a/p Gopalan,15-03-2017,13-03-2017,Petty Cash,,,,,100,,,Optical/Dental Coverage,DPC0417003,KLINIK PERGIGIAN LIM BERSAUDARA
+00102312,Fadzlina Binti Md Shariff,17-03-2017,05-03-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0417004,PRO SIGHT OPTICAL
+00102429,Muhamad Sulaiman Bin Mohamed Noor,17-03-2017,05-03-2017,Petty Cash,,,,,200,,,Optical/Dental Coverage,DPC0417005,PRO SIGHT OPTICAL
+07008192,Tan Seng Chong,22-03-2017,09-03-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0417006,SEALITE OPTICAL
+07009016,Raja Majdi Bin Raja Kamaruzaman,24-03-2017,06-02-2017,Petty Cash,,,,,100,,,Optical/Dental Coverage,DPC0417007,DSR SMILE SDN BHD
+00102785,Nurul Husna Bt Ramli,24-03-2017,18-03-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0417008,CHAN BRIGHT
+00459569,Goh Chin Hon,29-03-2017,27-03-2017,Petty Cash,,,,,280,,,Optical/Dental Coverage,DPC0417009,E.L.LIM DENTAL
+00102533,Tan Lye Hong,29-03-2017,28-03-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0417010,EP TEOH DENTAL
+00029241,Tan Siew Hong,30-03-2017,08-03-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0417011,DE HUMAN EYES
+00301743,Badrul Hisyam Bin Kasim,30-03-2017,28-03-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0417012,PUSAT OPTIK BAYAN
+00187827,Khairul Azlan Hisham Bin Man,31-03-2017,22-03-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0417013,PUSATOPTIK BAYAN
+00102313,Tuani Ibrahim Bin Meerasa,31-03-2017,30-03-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC04170140,PUSAT OPTIK BAYAN
+00041461,Chu Wee Liang,03-04-2017,01-04-2017,Petty Cash,,,,,298,,,Optical/Dental Coverage,DPC0517001,OWL EYEWEAR SDN BHD
+00158907,Shufinash Binti Abdul Malik,03-04-2017,24-03-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0517002,PUSAT OPTIK SOPP PULAU PINANG SDN BHD
+00102293,Azhar Bin Baharum,05-04-2017,04-04-2017,Petty Cash,,,,,100,,,Optical/Dental Coverage,DPC0517003,KLINIK PERGIGIAN KHOR
+00131783,Malar A/P Segaran,05-04-2017,31-03-2017,Petty Cash,,,,,40,,,Optical/Dental Coverage,DPC0517004,KLINIK PERGIGIAN DESA MURNI
+00131783,Malar A/P Segaran,05-04-2017,04-04-2017,Petty Cash,,,,,80,,,Optical/Dental Coverage,DPC0517005,KLINIK PERGIGIAN DESA MURNI
+00459569,Goh Chin Hon,06-04-2017,03-04-2017,Petty Cash,,,,,20,,,Optical/Dental Coverage,DPC0517006,KLINIK PERGIGIAN E.L.LIM
+07005629,Mohd Faizal Ahmed,13-04-2017,27-03-2017,Petty Cash,,,,,160,,,Optical/Dental Coverage,DPC0517007,klinik pergigian kepala batas
+00032224,Yeap Kim Peng,13-04-2017,11-04-2017,Petty Cash,,,,,140,,,Optical/Dental Coverage,DPC0517008,GOH DENTAL SURGERY
+00102555,Yeoh Peng Joo,14-04-2017,07-04-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0517009,DE HUMAN EYES
+00102308,Chan Su-Lin,19-04-2017,17-04-2017,Petty Cash,,,,,25,,,Optical/Dental Coverage,DPC0517010,SMILEBAY DENTAL
+00102677,Norhayati Binti Razali,21-04-2017,20-04-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0517011,PUSAT OPTIK BAYAN
+00102384,Rohiza Binti Mat Isa,21-04-2017,20-04-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0517012,PUSAT OPTIK BAYAN
+00102309,Suriyati Binti Jaafar,21-04-2017,16-04-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0517013,GIRAFFE OPTIC CENTRE
+00178994,Muhammad Fazmi Bin Abd Latif,21-04-2017,04-04-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0517014,PUSAT OPTIK BAYAN
+00102476,Chuah Teik Ping,21-04-2017,19-04-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0517015,EYECARE
+00102753,Norrihan Binti Piee,21-04-2017,17-04-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0517016,PUSAT OPTIK BAYAN
+00102452,Zaniyah Binti Said,21-04-2017,15-04-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0517017,PUSAT OPTIK BAYAN
+00102330,Lina Marni Binti Md Noor,25-04-2017,08-04-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0517018,max vision optical
+00102418,Soffiah Binti Othaman,25-04-2017,08-04-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0517019,MAX VISION OPTICAL
+00102609,Norliah Binti Rahman,25-04-2017,22-04-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0517020,PUSAT OPTIK BAYAN
+07006482,Chew Eng Khoon,25-04-2017,22-04-2017,Petty Cash,,,,,190,,,Optical/Dental Coverage,DPC0517021,PENANG DENTAL SURGERY
+00102303,Chia Lay Kuen,26-04-2017,19-02-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0517022,NEW EYE OPTICS SDN BHD
+00089188,Julia Binti Arasat @ Arshad,26-04-2017,22-04-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0517023,PUSAT OPTIK BAYAN
+00102317,Tan Saw Lan,28-04-2017,02-04-2017,Petty Cash,,,,,219,,,Optical/Dental Coverage,DPC0517024,FOCUS POINT
+00102570,Noor Hedayahtun Bt. Mat Nayan @ Ayub,28-04-2017,27-04-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0517025,PUSAT OPTIK BAYAN
+07003679,Siti Amnah Binti Ahmad,28-04-2017,25-04-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0517026,PUSAT OPTIK BAYAN
+00451127,Hamizatul Akmalia Binti Kamal,28-04-2017,28-04-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0517027,PUSAT OPTIK BAYAN
+07000997,Rolando Calaparan Lagua,02-05-2017,29-04-2017,Petty Cash,,,,,85,,,Optical/Dental Coverage,DPC0617001,SMILE DENTAL SURGERY
+00102434,Sulhailmi Bin Saidin,02-05-2017,25-04-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0617002,PUSAT OPTIK BAYAN
+00102288,Hajar Binti Tahir,02-05-2017,29-04-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0617003,PUSAT OPTIK BAYAN
+00102686,Mohd Fares Bin Jamil,02-05-2017,25-04-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0617004,PUSAT OPTIK BAYAN
+00102287,Faridah Binti Hassan,03-05-2017,27-04-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0617007,PUSAT OPTIK BAYAN
+00102508,Rozimah Binti Hj Sidek,03-05-2017,27-04-2017,Petty Cash,,,,,270,,,Optical/Dental Coverage,DPC0617008,PUSAT OPTIK BAYAN
+07005629,Mohd Faizal Ahmed,04-05-2017,28-04-2017,Petty Cash,,,,,140,,,Optical/Dental Coverage,DPC0617009,PUSAT OPTIK BAYAN
+00102285,Hafizah Binti Mat Yusoff,04-05-2017,28-04-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0617010,PUSAT OPTIK BAYAN
+00162984,Oh Beng Fatt,08-05-2017,08-04-2017,Petty Cash,,,,,80,,,Optical/Dental Coverage,DPC0617011,RELAU DENTAL SURGERY
+00030123,Siti Zubaidah Binti Ahmad,08-05-2017,21-04-2017,Petty Cash,,,,,280,,,Optical/Dental Coverage,DPC0617012,PUSAT OPTIK BAYAN
+00032224,Yeap Kim Peng,08-05-2017,04-05-2017,Petty Cash,,,,,40,,,Optical/Dental Coverage,DPC0617013,MOG EYEWEAR SDN BHD
+00028975,Siti Rohani Binti Mehad,09-05-2017,08-05-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0617014,PICASSO EYEWEAR PLT
+00102315,Whong Gaik Kooi,11-05-2017,30-04-2017,Petty Cash,,,,,260,,,Optical/Dental Coverage,DPC0617005,FOCUS POINT
+00174998,Mohd Azuwan Bin Jamjam,15-05-2017,09-05-2017,Petty Cash,,,,,150,,,Optical/Dental Coverage,DPC0617015,KLINIK PERGIGIAN YUSMIN AZNIDA
+07007917,Lai Mee Shan,16-05-2017,06-05-2017,Petty Cash,,,,,50,,,Optical/Dental Coverage,DPC0617016,KLINIK PERGIGIAN DR.AMEEN
+00102483,Siti Aishah Binti Biduan,16-05-2017,07-05-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0617017,M OPTICAL SDN BHD
+00102295,Lee Cheng Guat,18-05-2017,17-05-2017,Petty Cash,,,,,155,,,Optical/Dental Coverage,DPC0617006,ONG & LIM DENTAL
+00102789,Tan Tat Heong,19-05-2017,18-05-2017,Petty Cash,,,,,418,,,Health Screening,HPC0617001,BP DIAGNOSTIC CENTRE
+00102789,Tan Tat Heong,19-05-2017,17-05-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0617018,RELAU DENTAL
+00102308,Chan Su-Lin,22-05-2017,09-05-2017,Petty Cash,,,,,275,,,Optical/Dental Coverage,DPC0617019,YES OPTICAL
+00030576,Nor Intan Binti Che Ali,22-05-2017,19-05-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0617020,PUSAT OPTIK BAYAN
+00102765,Normariani Binti Abdul Rahim,22-05-2017,19-05-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0617021,PUSAT OPTIK BAYAN
+00888104,Siti Nor Artini Binti Idris,22-05-2017,19-05-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0617022,PUSAT OPTIK BAYAN
+00102345,Tan Soo Ling,22-05-2017,20-05-2017,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0617023,CH'NG DENTAL
+00030113,Noorazah Binti Abdul Wahab,24-05-2017,19-05-2017,Petty Cash,,,,,120,,,Optical/Dental Coverage,DPC0617024,KLINIK PERGIGIAN DR NOOR DINA
+00102468,Norehan Binti Ismail,26-05-2017,25-05-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0617025,pusat optik bayan
+00102674,Sannura Bt Sulaiman,26-05-2017,23-05-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0617026,PUSAT OPTIK BAYAN
+00102606,Suzila Binti Mat,29-05-2017,22-05-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0617027,PUSAT OPTIK BAYAN
+00183167,Nur Nazwa Binti Aziz,29-05-2017,23-05-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0617028,PUSAT OPTIK BAYAN
+00102718,Haslinda Binti Ismail,29-05-2017,22-05-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0617029,PUSAT OPTIK BAYAN
+00187830,Marziah Binti Md Nangan,30-05-2017,25-05-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0617030,PUSAT OPTIK BAYAN
+00102592,Azlina Binti Alias,31-05-2017,29-05-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0617031,MORSTER OPTIC
+07008772,Razita Binti Sidek,02-06-2017,15-05-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0717001,FERRINGHI OPTICS
+00038540,Fatimah Binti Mat Tajuddin,02-06-2017,31-05-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0717002,SPECTACLES HOUSE
+00102266,Tan Cheng Leng,07-06-2017,19-01-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0717003,KANG MIN DENTAL
+07007556,Goo Feng Guan,13-06-2017,12-06-2017,Petty Cash,,,,,60,,,Optical/Dental Coverage,DPC0717004,E.L.LIM DENTAL SURGERY
+00135543,Chong Heng Luong,20-06-2017,18-06-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0717005,FOCUS POINT
+00309748,Tan Guat Peng,29-06-2017,24-06-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0717006,KLINIK MAXCARE DENTAL
+00102450,Lim Bee Hwa,03-07-2017,08-05-2017,Petty Cash,,,,,10,,,Optical/Dental Coverage,DPC0817001,MAXCARE DENTAL
+00102333,Salehan Binti Jamhari,05-07-2017,02-07-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0817002,FACTORY OUTLET EYEWEAR
+00102353,Haliza Binti Tahir,06-07-2017,30-06-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0817003,PUSAT OPTIK BAYAN
+00102617,Nurazniza Binti Rosli,06-07-2017,03-07-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DCP0817004,PUSAT OPTIK BAYAN
+00102349,Kasturi A/P Salatorai,06-07-2017,05-07-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0817005,PUSAT OPTIK BAYAN
+00102664,Norhabibah Binti Man,12-07-2017,26-06-2017,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0817006,SURGERI PERGIGIAN R. K. RAAJ
+00102799,Roslizawatie Binti Md Zain,12-07-2017,01-07-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0817007,PUSAT OPTIK BAYAN
+07000460,Mohd Zahidi Bin Othman,18-07-2017,14-07-2017,Petty Cash,,,,,149,,,Optical/Dental Coverage,DPC0817008,CH'NG DENTAL SURGERY
+00102501,Siti Salbiah Binti Saad,18-07-2017,09-07-2017,Petty Cash,,,,,99,,,Optical/Dental Coverage,DPC0817009,M optical sdn bhd( ABM)
+00184215,Khaw Hui Khim,18-07-2017,12-07-2017,Petty Cash,,,,,280,,,Optical/Dental Coverage,DPC0817010,epl optometrist sdn. bhd
+00102506,Leng Siew Peng,18-07-2017,10-07-2017,Petty Cash,,,,,198,,,Optical/Dental Coverage,DPC0817011,Cosmo Lens Sdn. Bhd
+07008565,Muhammad Rafiq Bin Abd Latif,31-07-2017,24-07-2017,Petty Cash,,,,,298,,,Optical/Dental Coverage,DPC0817012,OWL OPTICS THE MINES
+00029684,Hor Ai Chean,31-07-2017,30-07-2017,Petty Cash,,,,,40,,,Optical/Dental Coverage,DPC0817013,KLINIK PERGIGIAN KANG MIN
+00193348,Cheah Poh Guan,31-07-2017,30-07-2017,Petty Cash,,,,,298,,,Optical/Dental Coverage,DPC0817014,ZENVISION
+00102370,Zaharizan Bin Zakaria,02-08-2017,01-08-2017,Petty Cash,,,,,50,,,Optical/Dental Coverage,DPC0917001,ISLAND DENTAL
+00038550,Roslina Binti Saidin,08-08-2017,29-07-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0917002,PUSAT OPTIK BAYAN
+00165117,Siti Fatimah Binti Mat Hussain,08-08-2017,07-08-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0917003,PUSAT OPTIK BAYAN
+00030113,Noorazah Binti Abdul Wahab,16-08-2017,24-07-2017,Petty Cash,,,,,180,,,Optical/Dental Coverage,DPC0917004,OCULOS VISION
+00162923,Helmi Bin Hashim,21-08-2017,10-07-2017,Petty Cash,,,,,70,,,Optical/Dental Coverage,DPC0917005,KLINIK PERGIGIAN BALIK PULAU
+00162923,Helmi Bin Hashim,21-08-2017,02-08-2017,Petty Cash,,,,,90,,,Optical/Dental Coverage,DPC0917006,KLINIK PERGIGIAN BALIK PULAU
+00207082,Mohd Faizal Bin Nanyan,21-08-2017,01-08-2017,Petty Cash,,,,,298,,,Optical/Dental Coverage,DPC0917007,NEW EYE OPTIC SDN BHD
+00206103,Siti Atikah Binti Che Soh,23-08-2017,28-07-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0917008,OCULOS VISION
+00102649,Rohani Binti Kadir,23-08-2017,21-08-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0917009,PUSAT CERMIN MATA BINTANG
+00102435,Sagayamary A/P Maniam,23-08-2017,21-08-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0917010,PUSAT CERMIN MATA BINTANG
+07009018,Mohamad Ridhwan Bin Mat Nor,28-08-2017,23-08-2017,Petty Cash,,,,,150,,,Optical/Dental Coverage,DPC0917011,FOCUS POINT
+07009014,Mohamed Hasrizal Bin Abd Halim,28-08-2017,24-08-2017,Petty Cash,,,,,55,,,Optical/Dental Coverage,DPC0917012,KLINIK PERGIGIAN MALAYSIA SMILE
+00102469,Zaleha Binti Jaafar,29-08-2017,26-08-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0917013,TUKANG GIGI
+00102664,Norhabibah Binti Man,04-09-2017,27-08-2017,Petty Cash,,,,,50,,,Optical/Dental Coverage,DPC1017001,SURGERI PERGIGIAN R.K.RAAJ
+00111032,Nurul Ezzati Atiqah Binti Ismail,05-09-2017,16-07-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC1017002,EC-O EYE CONCEPT OPTICAL
+00102286,Norbashiroh Binti Md Amin,06-09-2017,04-09-2017,Petty Cash,,,,,100,,,Optical/Dental Coverage,DPC1017003,KLINIK PERGIGIAN KEPALA BATAS
+00102326,Siti Aisah Binti Hussain,08-09-2017,08-08-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC1017005,MONSTER OPTIC
+00102727,Mas Ayuza Binti Mohd Yusof,08-09-2017,05-09-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC1017006,PUSAT OPTIK BAYAN
+07009014,Mohamed Hasrizal Bin Abd Halim,14-09-2017,08-09-2017,Petty Cash,,,,,90,,,Optical/Dental Coverage,DPC1017007,KLINIK PERGIGIAN MALAYSIA SMILE
+00102748,Asmawati Binti Asalludin,19-09-2017,07-09-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC1017008,PUSAT OPTIK BAYAN
+00102365,Zuraini Binti Yahaya,19-09-2017,18-09-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC1017009,MUTIARA VISION CENTRE
+00137169,Kamilia Binti Mohd Yussof,19-09-2017,08-09-2017,Petty Cash,,,,,200,,,Optical/Dental Coverage,DPC1017010,MV OPTICS
+00102408,Rusliza Binti Ishak,20-09-2017,04-09-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC1017011,PUSAT OPTIK BAYAN
+00102576,Rozana Binti Mohd Khalid,20-09-2017,25-08-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC1017012,PUSAT OPTIC BAYAN
+00187173,Zaleha Binti Hamzah,20-09-2017,02-09-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC1017013,PUSAT OPTIC BAYAN
+00080360,Lim Wei Zhiang,20-09-2017,11-09-2017,Petty Cash,,,,,285,,,Optical/Dental Coverage,DPC1017014,WONG & SIM DENTAL SURGERY
+00778304,Noorliah Binti Matin @ Arshad,20-09-2017,28-08-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC1017015,PUSAT OPTIC BAYAN
+00102345,Tan Soo Ling,20-09-2017,11-09-2017,Petty Cash,,,,,50,,,Optical/Dental Coverage,DPC1017016,CH'NG DENTAL SURGERY
+00032964,Yusliana Binti Md Yusof,20-09-2017,07-09-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC1017017,PUSAT OPTIC BAYAN
+00102275,Cheah Bee Loon,20-09-2017,01-09-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC1017018,KLINIK PERGIGIAN DANIEL CHONG
+07009299,Nurida Binti Abdul Halim,20-09-2017,06-09-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC1017019,ZEN VISION
+00221168,Ooi Jau Wey,20-09-2017,19-09-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC1017020,EYE TWO OPTICAL HOUSE
+00175041,Lam Siang Choong,20-09-2017,06-09-2017,Petty Cash,,,,,1000,,,Health Screening,HPC1017001,GLENEAGLES PENANG
+00161193,Yeap Bee Chew,21-09-2017,17-07-2017,Petty Cash,,,,,195,,,Optical/Dental Coverage,DPC1017021,CH'NG DENTAL SURGERY
+00102271,Sarinah Binti Samsuddin,25-09-2017,02-09-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC1017022,PUSAT OPTIK BAYAN
+00029684,Hor Ai Chean,25-09-2017,24-09-2017,Petty Cash,,,,,179,,,Optical/Dental Coverage,DPC1017023,OWL EYEWEAR SDN BHD
+07006482,Chew Eng Khoon,25-09-2017,28-08-2017,Petty Cash,,,,,525,,,Health Screening,HPC1017002,INSTITUT JANTUNG NEGARA
+00102378,Tan Siew Nee,26-09-2017,23-09-2017,Petty Cash,,,,,185,,,Optical/Dental Coverage,DPC1017024,KHENG DENTAL
+00102275,Cheah Bee Loon,27-09-2017,27-09-2017,Petty Cash,,,,,145,,,Health Screening,HPC1017003,ASP MEDICAL CLINIC
+00176879,Teh Shaw Ning,27-09-2017,27-09-2017,Petty Cash,,,,,130,,,Health Screening,HPC1017004,ASP MEDICAL CLINIC
+00102295,Lee Cheng Guat,28-09-2017,25-09-2017,Petty Cash,,,,,75,,,Optical/Dental Coverage,DPC1017025,ONG & LIM DENTAL
+00448268,Ku Azuwan Bin Ku Adenan,29-09-2017,18-09-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC1017026,PUSAT OPTIK BAYAN
+00178996,Mohd Fadil Bin Saat,29-09-2017,21-09-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC1017027,PUSAT OPTIK BAYAN
+06999999,Lee Wei Zhong,29-09-2017,28-09-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC1017028,CLASSIC LOOK96
+00162923,Helmi Bin Hashim,04-10-2017,11-09-2017,Petty Cash,,,,,140,,,Optical/Dental Coverage,DPC1117001,KLINIK PERGIGIAN BALIK PULAU
+00157249,Norhaizal Bin Johari,04-10-2017,23-09-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC1117002,PUSAT OPTIK BAYAN
+00183036,Adelyn Lim Ean Ping,04-10-2017,25-09-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC1117003,PUSAT OPTIK SOPP
+00102350,Noraini Binti Kadir,05-10-2017,07-09-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC1117004,PUSAT OPTIK BAYAN
+00753200,Premala A/P Alagesan,10-10-2017,27-09-2017,Petty Cash,,,,,138,,,Optical/Dental Coverage,DPC1117005,FOCUS OPTOMETRY
+00102340,Suriani Binti Sabli,10-10-2017,30-09-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC1117006,NG PUSAT CERMIN MATA
+00162984,Oh Beng Fatt,10-10-2017,07-10-2017,Petty Cash,,,,,605,,,Health Screening,HPC1117001,LWEH
+00102721,Siti Zainab Binti Nordin,11-10-2017,07-10-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC1117007,PUSAT OPTIK BAYAN
+00102587,Noraini Binti Salleh,11-10-2017,10-10-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC1117008,PUSAT OPTIK BAYAN
+00102516,Sabirah Binti Md Saleh,11-10-2017,03-10-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC1117009,PUSAT OPTIK BAYAN
+00102371,Dhevaghi A/P Sugamaran,12-10-2017,11-10-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC1117010,PUSAT OPTIK BAYAN
+00102635,Narita Binti Abdul Latif,12-10-2017,11-10-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC1117011,PUSAT OPTIK BAYAN
+00102790,Ching Chin Hui,13-10-2017,01-10-2017,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC1117012,Eng Dental Surgery
+00080360,Lim Wei Zhiang,19-10-2017,17-10-2017,Petty Cash,,,,,918.95,,,Health Screening,HPC1117002,GMC PG
+00306986,Siti Khadijah Binti Abu Bakar,20-10-2017,20-10-2017,Petty Cash,,,,,299,,,Optical/Dental Coverage,DPC1117013,NEW EYE OPTICS
+00102414,Tan Han Nam,20-10-2017,02-09-2017,Petty Cash,,,,,198,,,Optical/Dental Coverage,DPC1117014,OCULOS VISION
+07006738,Nurul Wahida Binti Kamarulzaman,23-10-2017,30-08-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC1117015,CITY VISION
+07007170,Hasbullah Bin Zakaria,23-10-2017,30-08-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC1117016,CITY VISION
+00891008,Ooi Hooi Pheng,23-10-2017,22-10-2017,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC1117017,SEALITE OPTICAL
+07005106,Woo Soo Ying,23-10-2017,22-10-2017,Petty Cash,,,,,194,,,Optical/Dental Coverage,DPC1117018,BLISS DENTAL
+07005106,Woo Soo Ying,23-10-2017,22-10-2017,Petty Cash,,,,,106,,,Optical/Dental Coverage,DPC1117019,BUNTAR OPTICAL
+00102536,Noorsakila Binti Mohd Isa,23-10-2017,21-10-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC1117020,PUSAT OPTIK BAYAN
+00765257,Norhuda Binti Mustaffa,24-10-2017,21-10-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC1117021,PUSAT OPTIK BAYAN
+00102385,Norhashira Binti Halim,26-10-2017,23-10-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC1117022,PUSAT OPTIK BAYAN
+00174996,Ahmad Nazri Bin Mat Isa,27-10-2017,17-10-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC1117023,PUSAT OPTIK BAYAN
+00161193,Yeap Bee Chew,30-10-2017,18-10-2017,Petty Cash,,,,,105,,,Optical/Dental Coverage,DPC1117024,FOCUS POINT
+00160072,Norida Binti Abdullah,30-10-2017,27-10-2017,Petty Cash,,,,,60,,,Optical/Dental Coverage,DPC1117025,KLINIK PERGIGIAN NG
+00195028,Noorul Huda Binti Mohd Arif,30-10-2017,16-10-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC1117026,PUSAT OPTIK BAYAN
+00102279,Chor Phaik Seok,30-10-2017,18-10-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC1117027,FOCUS POINT
+00123917,Vincent Fong Siew Chung,02-11-2017,30-10-2017,Petty Cash,,,,,280,,,Optical/Dental Coverage,DPC1217001,GOH DENTAL
+07007556,Goo Feng Guan,03-11-2017,01-11-2017,Petty Cash,,,,,240,,,Optical/Dental Coverage,DPC1217002,EL.LIM DENTAL
+00102286,Norbashiroh Binti Md Amin,07-11-2017,03-11-2017,Petty Cash,,,,,200,,,Optical/Dental Coverage,DPC1217003,pusat optik bayan
+07008767,Foo Lee Hooi,08-11-2017,03-11-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC1217004,CL OPTICS SDN BHD
+00102459,Parvathi A/P Kuppusamy,08-11-2017,03-11-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC1217005,PUSAT OPTIK BAYAN
+00197141,Mohd Baihaki Bin Idris,08-11-2017,04-11-2017,Petty Cash,,,,,170,,,Optical/Dental Coverage,DPC1217006,KLINIK PERGIGIAN GOH
+00766527,Norhanida Binti Hanafi,09-11-2017,08-11-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC1217007,EYETALK EYEWEAR
+00102375,Siti Fatimah Binti Abd.Rahim,13-11-2017,11-11-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC1217008,PUSAT OPTIK BAYAN
+00032224,Yeap Kim Peng,15-11-2017,06-11-2017,Petty Cash,,,,,80,,,Optical/Dental Coverage,DPC1217009,FOCUS POINT
+00197141,Mohd Baihaki Bin Idris,17-11-2017,11-11-2017,Petty Cash,,,,,80,,,Optical/Dental Coverage,DPC1217010,KLINIK PERGIGIAN GOH
+00102787,Norhafiza Binti Mat Zin,17-11-2017,11-11-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC1217011,PUSAT OPTIK BAYAN
+00179607,Wong Lee Yong,17-11-2017,14-11-2017,Petty Cash,,,,,43,,,Optical/Dental Coverage,DPC1217012,CH'NG DENTAL
+00102549,Roshaiza Bt Ismail @ Abd Ghani,21-11-2017,14-11-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC1217013,PUSAT OPTIK BAYAN
+00102367,Rosli Bin Abdullah,21-11-2017,19-11-2017,Petty Cash,,,,,240,,,Optical/Dental Coverage,DPC1217014,KLINIK PERGIGIAN DR RIDZAM
+00156003,Hiew Yoon Fook,21-11-2017,28-10-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC1217015,VVIEW OPTICAL
+00102304,Chong Yih Cherng,21-11-2017,15-09-2017,Petty Cash,,,,,1000,,,Health Screening,HPC1217001,LOH GUAN LYE SPECIALIST CENTRE
+00102305,Aneis Ahmad Bin Rahaman Saar,24-11-2017,15-11-2017,Petty Cash,,,,,70,,,Optical/Dental Coverage,DPC1217016,SMILEBAY DENTAL
+00031881,Faridah Hana Binti Mohamad,27-11-2017,24-11-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC1217017,PUSAT OPTIK BAYAN
+00114278,Santhimathy a/p Gopalan,28-11-2017,25-11-2017,Petty Cash,,,,,200,,,Optical/Dental Coverage,DPC1217018,PUSAT OPTIK BAYAN
+00894355,Jennifer A/P Nathan,28-11-2017,28-11-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC1217019,PUSAT OPTIK BAYAN
+00102533,Tan Lye Hong,30-11-2017,27-11-2017,Petty Cash,,,,,400,,,Health Screening,HPC1217002,KLINIK COMFORT CARE
+07009791,Lee Siew Hooi,30-11-2017,29-11-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC1217020,UNI EYECARE
+07010605,Ooi Seng Wei,05-12-2017,01-12-2017,Petty Cash,,,,,150,,,Optical/Dental Coverage,DPC0118001,FOUREYE STUDIO
+07005424,Chen Yuewu,05-12-2017,04-12-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0118002,BOLTON OPTICAL
+00309751,Teng Kok Leong,05-12-2017,29-11-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0118003,SMILEBAY DENTAL
+00188673,Ho Ming Kong,05-12-2017,30-11-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0118004,GENE & RON STUDIO
+07007597,Nur Farzana Hanim Binti Mohd Fadzli,06-12-2017,01-12-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0118005,GIRAFFE OPTIC CENTRE
+07010155,Shagazali Bin Saleh,11-12-2017,03-12-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0118006,EYE FUSION EYEWEAR
+07010878,Ng Kok Aun,14-12-2017,03-12-2017,Petty Cash,,,,,130,,,Optical/Dental Coverage,DPC0118007,KLINIK PERGIGIAN UNION
+00164968,Looi Kok Leong,14-12-2017,21-07-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0118008,ADVANCE OPTOMETRIST
+00102289,Leong Wai Hin,15-12-2017,20-09-2017,Petty Cash,,,,,120,,,Optical/Dental Coverage,DPC0118009,KK TAN DENTAL SURGERY
+07004353,Noor Azfarid Bin Abd Samad,18-12-2017,15-12-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0118010,OPTIK MATAKU
+07010152,Siti Nurhidayah Binti Mydin Pichey,18-12-2017,16-12-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0118011,PUSAT OPTIK BAYAN
+00036890,Phang Yee Hin,18-12-2017,16-12-2017,Petty Cash,,,,,120,,,Optical/Dental Coverage,DPC0118012,KLINIK PERGIGIAN KK ONG
+00179607,Wong Lee Yong,22-12-2017,20-12-2017,Petty Cash,,,,,254.7,,,Optical/Dental Coverage,DPC0118013,FOCUS POINT VISION CARE GROUP
+07008183,Goh Bee Sien,22-12-2017,04-12-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0118014,NNG OPTICS
+07000997,Rolando Calaparan Lagua,26-12-2017,23-12-2017,Petty Cash,,,,,134,,,Optical/Dental Coverage,DPC0118015,SMILE DENTAL SURGERY
+07010156,Azan Bin Ali,26-12-2017,13-12-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC 0118016,PUSAT OPTIK BAYAN
+00157237,Haslina Binti Hussin,26-12-2017,18-12-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0118017,PUSAT OPTIK BAYAN
+07010161,Siti Idawati Binti Idris,27-12-2017,22-12-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0118018,PUSAT OPTIK BAYAN
+07010160,Siti Nor Azmani Binti Idris,27-12-2017,20-12-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0118019,PUSAT OPTIK BAYAN
+07007917,Lai Mee Shan,27-12-2017,23-12-2017,Petty Cash,,,,,129,,,Optical/Dental Coverage,DPC0118020,KLINIK PERGIGIAN GOH
+07006482,Chew Eng Khoon,27-12-2017,20-12-2017,Petty Cash,,,,,110,,,Optical/Dental Coverage,DPC0118021,SEONG OPTOMETRIST
+07007342,Mohamad Fakhrul Akmal Bin Mohd Yusof,28-12-2017,26-12-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0118022,PUSAT OPTIK BAYAN
+00102433,Wan Yusanisah Binti Wan Yusoff,28-12-2017,23-12-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0118023,PUSAT OPTIK BAYAN
+00029776,Zabidi Bin Nanyan,28-12-2017,27-12-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0118024,PUSAT OPTIK BAYAN
+00102265,Lim Cheng Chye,29-12-2017,27-12-2017,Petty Cash,,,,,200,,,Optical/Dental Coverage,DPC0118025,SEAH OPTOMETRY
+00913151,Satta Chonlabut,29-12-2017,27-12-2017,Petty Cash,,,,,299,,,Optical/Dental Coverage,DPC0118026,NEW EYE OPTICS SDN BHD
+00455338,Tan Chee Hoon,29-12-2017,28-12-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0118027,NNG OPTICS
+00102378,Tan Siew Nee,29-12-2017,29-12-2017,Petty Cash,,,,,69,,,Optical/Dental Coverage,DPC0118028,KLINIK PERGIGIAN UNION
+00102315,Whong Gaik Kooi,29-12-2017,29-12-2017,Petty Cash,,,,,23,,,Optical/Dental Coverage,DPC0118029,KLINIK PERGIGIAN UNION
+00102522,Azean Binti Ghazali,29-12-2017,24-12-2017,Petty Cash,,,,,100,,,Optical/Dental Coverage,DPC0118030,SURGERI PERGIGIAN RK RAAJ
+00102272,Lim Kok Beng,31-12-2017,29-12-2017,Petty Cash,,,,,923.48,,,Health Screening,HPC0218001,LOH GUAN LYE SPECIALIST CENTRE
+07007917,Lai Mee Shan,31-12-2017,31-12-2017,Petty Cash,,,,,100,,,Optical/Dental Coverage,DPC0218001,MEGANE LIFESTYLE SDN BHD
+07009012,Ganesan A/L Gunasagaran,31-12-2017,26-12-2017,Petty Cash,,,,,125,,,Optical/Dental Coverage,DPC0218002,KLINIK PERGIGIAN DR.LEEN
+00978435,Arnon Kaewchuay,31-12-2017,29-12-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0218003,FOCUS POINT VISION CARE
+00102522,Azean Binti Ghazali,31-12-2017,27-12-2017,Petty Cash,,,,,200,,,Optical/Dental Coverage,DPC0218004,PUSAT OPTIK BAYAN
+00036890,Phang Yee Hin,31-12-2017,31-12-2017,Petty Cash,,,,,180,,,Optical/Dental Coverage,DPC0218005,DE HUMAN EYES
+00102281,Norhasimah Binti Kassim,31-12-2017,30-12-2017,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0218006,PUSAT OPTIK BAYAN
+00102281,Norhasimah Binti Kassim,31-12-2017,23-12-2017,Petty Cash,,,,,50,,,Optical/Dental Coverage,DPC0218007,OUR NEW GLASSES
+00176879,Teh Shaw Ning,31-12-2017,28-12-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0218008,EYEZ OPTIC
+07006482,Chew Eng Khoon,31-12-2017,28-12-2017,Petty Cash,,,,,474,,,Health Screening,HPC0218002,BP DIAGNOSTIC CENTRE
+00102280,Siti Hajar Binti Awang,31-12-2017,31-12-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0218009,PUSAT OPTIK BAYAN
+00102449,Wong Gim Hock,31-12-2017,23-12-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0218010,FARLIM OPTICAL
+00045891,Khor Chin Ming,31-12-2017,31-12-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0218011,E.L.LIM DENTAL
+00102636,Maizura Binti Md Nor,31-12-2017,29-12-2017,Petty Cash,,,,,120,,,Optical/Dental Coverage,DPC0218012,SURGERI PERGIGIAN RKRAAJ
+00102636,Maizura Binti Md Nor,31-12-2017,25-12-2017,Petty Cash,,,,,148,,,Optical/Dental Coverage,DPC0218013,YES OPTICAL
+00175041,Lam Siang Choong,31-12-2017,31-12-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0218014,CHAN VISUAL CARE
+00102272,Lim Kok Beng,31-12-2017,23-12-2017,Petty Cash,,,,OTHERS,300,,,Optical/Dental Coverage,DPC0218015,ADVANCE OPTOMETRIST
+00122737,Tan Saw Eam,31-12-2017,28-12-2017,Petty Cash,,,,OTHERS,265,,,Optical/Dental Coverage,DPC0218016,FOCUS POINT
+00131783,Malar A/P Segaran,31-12-2017,22-12-2017,Petty Cash,,,,,180,,,Optical/Dental Coverage,DPC0218017,TASEK GELUGOR OPTICAL
+00102329,Lee Mean Ong,31-12-2017,28-12-2017,Petty Cash,,,,,298,,,Optical/Dental Coverage,DPC0218018,[PRO EYES OPTICS
+00107284,Lee Kong Leng,31-12-2017,29-12-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0218019,VK BERCHAM OPTICAL
+00032783,Yeap Cheng Gaik,31-12-2017,15-04-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0218020,I VIEW OPTOMETRIST
+00102307,Tan Boon Kee,31-12-2017,18-12-2017,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0218021,EYE TO EYE OPTOMETRY
+00102459,Parvathi A/P Kuppusamy,16-01-2018,03-01-2018,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0218022,LV LENS VISION
+00164968,Looi Kok Leong,16-01-2018,03-01-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0218023,ADVANCE OPTOMETRIST
+00102338,Zuraida Binti Zenun,16-01-2018,07-01-2018,Petty Cash,,,,,180,,,Optical/Dental Coverage,DPC0218024,KLINIK PERGIGIAN KAMAL
+00080360,Lim Wei Zhiang,16-01-2018,07-01-2018,Petty Cash,,,,,50,,,Optical/Dental Coverage,DPC0218025,WONG & SIM DENTAL SURGERY
+00162984,Oh Beng Fatt,16-01-2018,02-01-2018,Petty Cash,,,,,120,,,Optical/Dental Coverage,DPC0218026,RELAU DENTAL
+00102536,Noorsakila Binti Mohd Isa,16-01-2018,05-01-2018,Petty Cash,,,,,100,,,Optical/Dental Coverage,DPC0218027,LIM DENTAL
+00102635,Narita Binti Abdul Latif,16-01-2018,04-01-2018,Petty Cash,,,,,185,,,Optical/Dental Coverage,DPC0218028,KLINIK PERGIGIAN DESA MURNI
+07009791,Lee Siew Hooi,16-01-2018,13-01-2018,Petty Cash,,,,,200,,,Optical/Dental Coverage,DPC0218029,UNI EYECARE SDN BHD
+00309751,Teng Kok Leong,18-01-2018,17-01-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0218030,DE VINCE OPTIMETRIST
+07009270,Tng Jen Cheng,19-01-2018,03-01-2018,Petty Cash,,,,,299,,,Optical/Dental Coverage,DPC0218031,FOCUS POINT
+07009271,Tng Jen Siang,19-01-2018,03-01-2018,Petty Cash,,,,,295,,,Optical/Dental Coverage,DPC0218032,FOCUS POINT
+00102288,Hajar Binti Tahir,19-01-2018,08-01-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0218033,PUSAT OPTIK BAYAN
+00030576,Nor Intan Binti Che Ali,23-01-2018,21-01-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0218034,OWL EYEWEAR SDN BHD
+00102785,Nurul Husna Bt Ramli,24-01-2018,20-01-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0218035,PUSAT OPTIK BAYAN
+00177079,Ho Shyh Kee,24-01-2018,22-01-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0218036,PB VISION POINT
+00166638,Lim Chek Yien,30-01-2018,13-01-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0218037,COSMO LENS SDN BHD
+00111032,Nurul Ezzati Atiqah Binti Ismail,30-01-2018,17-02-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0218038,EC-O EYE COBCEPT OPTICAL
+00102450,Lim Bee Hwa,01-02-2018,10-01-2018,Petty Cash,,,,,165,,,Optical/Dental Coverage,DPC0218039,MAXCARE DENTAL
+07010445,Nining SetiaWaty,07-02-2018,25-01-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0318001,PUSAT OPTIK BAYAN
+00194585,Nadia Binti Azahar,09-02-2018,07-02-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0318002,FOCUS POINT
+00175041,Lam Siang Choong,09-02-2018,09-01-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0318003,CHAN VISUAL CARE OPTIMETRIST
+00102450,Lim Bee Hwa,09-02-2018,08-02-2018,Petty Cash,,,,,80,,,Optical/Dental Coverage,DPC0318004,MAXCARE DENTAL
+00102609,Norliah Binti Rahman,12-02-2018,08-02-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0318005,PUSAT OPTIK BAYAN
+00102434,Sulhailmi Bin Saidin,12-02-2018,08-02-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0318006,PUSAT OPTIK BAYAN
+00102280,Siti Hajar Binti Awang,12-02-2018,04-02-2018,Petty Cash,,,,,138,,,Optical/Dental Coverage,DPC0318007,MORSTER OPTIC
+00029684,Hor Ai Chean,13-02-2018,31-01-2018,Petty Cash,,,,,208,,,Optical/Dental Coverage,DPC0318008,FOCUS POINT
+00102468,Norehan Binti Ismail,13-02-2018,09-02-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0318009,PUSAT OPTIK BAYAN
+00102686,Mohd Fares Bin Jamil,21-02-2018,30-01-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0318010,PUSAT OPTIK BAYAN
+00102332,Rafidah Binti Harun,21-02-2018,12-02-2018,Petty Cash,,,,,50,,,Optical/Dental Coverage,DPC0318011,KLINIK PERGIGIAN DR JAMAL
+07011095,Lim Shee Fhang,23-02-2018,19-02-2018,Petty Cash,,,,,256,,,Optical/Dental Coverage,DPC0318012,ONG OPTOMETRIC SERVICES PLT
+07008772,Razita Binti Sidek,26-02-2018,11-02-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0318013,OPTICS EYEWEAR
+00389512,Lai Hooi See,26-02-2018,25-02-2018,Petty Cash,,,,,213.5,,,Optical/Dental Coverage,DPC0318014,FOCUS POINT
+00102347,Zaleha Binti Ahmad,27-02-2018,19-02-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0318015,NG PUSAT CERMIN MATA
+00102340,Suriani Binti Sabli,05-03-2018,04-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,dpc0418001,eyetalk eyewear
+00162985,Ng Chooi Heng,06-03-2018,25-02-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0418002,OWL EYEWEAR SDN BHD
+00459569,Goh Chin Hon,06-03-2018,13-01-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0418003,PUSAT OPYIK BAYAN
+00041461,Chu Wee Liang,07-03-2018,15-02-2018,Petty Cash,,,,,50,,,Optical/Dental Coverage,DPC0418004,KLINIK PERGIGIAN SENTOSA
+00102315,Whong Gaik Kooi,08-03-2018,07-03-2018,Petty Cash,,,,,180,,,Optical/Dental Coverage,DPC0418012,SMILEBAY DENTAL SURGERY
+00102349,Kasturi A/P Salatorai,12-03-2018,10-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0418013,MEGANE LIFESTYLE SDN BHD
+00102644,Fazilawati Binti Mat Saad,12-03-2018,08-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0418014,PUSAT OPTIK BAYAN
+00102345,Tan Soo Ling,12-03-2018,10-03-2018,Petty Cash,,,,,170,,,Optical/Dental Coverage,DPC0418015,CH'NG DENTAL SURGERY
+07005629,Mohd Faizal Ahmed,13-03-2018,03-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,dpc0418016,pusat optic bayan
+00102309,Suriyati Binti Jaafar,13-03-2018,10-03-2018,Petty Cash,,,,,270,,,Optical/Dental Coverage,DPC0418017,vision88
+00102570,Noor Hedayahtun Bt. Mat Nayan @ Ayub,14-03-2018,03-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0418018,PUSAT OPTIC\K BAYAN
+00102384,Rohiza Binti Mat Isa,14-03-2018,06-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0418019,PUSAT OPTIK BAYAN
+00102677,Norhayati Binti Razali,14-03-2018,05-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0418020,PUSAT OPTIK BAYAN
+07008192,Tan Seng Chong,14-03-2018,13-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0418021,SEALITE OPTICAL
+00102285,Hafizah Binti Mat Yusoff,14-03-2018,05-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0418022,PUSAT OPTIK BAYAN
+00131783,Malar A/P Segaran,14-03-2018,13-03-2018,Petty Cash,,,,,40,,,Optical/Dental Coverage,DPC0418023,KLINIK PERGIGIAN DESA MURNI
+00102321,Osman Bin Mohamed,15-03-2018,13-03-2018,Petty Cash,,,,,299,,,Optical/Dental Coverage,DPC0418024,MV OPTICS
+00102408,Rusliza Binti Ishak,16-03-2018,07-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0418025,PUSAT OPTIK BAYAN
+07009013,Nur Amira Syafiqah Binti Abdullah,16-03-2018,11-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0418026,KLINIK PERGIGIAN ROHAYA
+00455338,Tan Chee Hoon,19-03-2018,16-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0418027,WHOOSH EYEWEAR
+00102329,Lee Mean Ong,19-03-2018,17-03-2018,Petty Cash,,,,,140,,,Optical/Dental Coverage,DPC0418028,TANJONG DENTAL
+00184215,Khaw Hui Khim,20-03-2018,19-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0418029,EYEPLUS OPTOMETRIST
+00102450,Lim Bee Hwa,20-03-2018,19-03-2018,Petty Cash,,,,,55,,,Optical/Dental Coverage,DPC0418030,MAXCARE DENTAL
+00102277,Ariffin Bin Md Noor,21-03-2018,20-03-2018,Petty Cash,,,,,270,,,Optical/Dental Coverage,DPC0418031,PUSAT OPTIK BAYAN
+00036890,Phang Yee Hin,21-03-2018,20-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0418032,MOG
+07005424,Chen Yuewu,21-03-2018,20-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0418033,MOG
+00102329,Lee Mean Ong,21-03-2018,19-03-2018,Petty Cash,,,,,150,,,Optical/Dental Coverage,DPC0418034,TANJUNG DENTAL
+07007917,Lai Mee Shan,23-03-2018,17-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0418035,MOG
+00179607,Wong Lee Yong,23-03-2018,20-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0418036,FOCUS POINT
+00188673,Ho Ming Kong,26-03-2018,25-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0418037,GENE & RON STUDIO
+00029241,Tan Siew Hong,26-03-2018,17-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0418038,PUSAT OPTIK SOPP
+00131783,Malar A/P Segaran,26-03-2018,19-03-2018,Petty Cash,,,,,95,,,Optical/Dental Coverage,DPC0418039,KLINIK PERGIGIAN DESA MURNI
+00102307,Tan Boon Kee,27-03-2018,20-02-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0418040,EYE TO EYE OPTOMETRY
+00102617,Nurazniza Binti Rosli,27-03-2018,15-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0418041,PUSAT OPTIK BAYAN
+00102664,Norhabibah Binti Man,27-03-2018,12-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0418042,PUSAT OPTIK BAYAN
+00102418,Soffiah Binti Othaman,27-03-2018,09-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0418043,PUSAT OPTIK BAYAN
+00030113,Noorazah Binti Abdul Wahab,27-03-2018,20-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0418044,PUSAT OPTIK BAYAN
+00157249,Norhaizal Bin Johari,27-03-2018,06-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0418045,PUSAT OPTIK BAYAN
+00102333,Salehan Binti Jamhari,28-03-2018,17-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0418046,PUSAT OPTIK BAYAN
+00102353,Haliza Binti Tahir,28-03-2018,12-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0418047,PUSAT OPTIK BAYAN
+00102330,Lina Marni Binti Md Noor,28-03-2018,19-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0418048,PUSAT OPTIK BAYAN
+00102289,Leong Wai Hin,29-03-2018,26-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0418049,SEAH OPTOMETRY
+00102301,Chong Poh Lee,29-03-2018,29-03-2018,Petty Cash,,,,,110,,,Health Screening,HPC0418001,ASP MEDICAL CLINIC
+07004353,Noor Azfarid Bin Abd Samad,29-03-2018,12-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0418050,PUSAT OPTIK BAYAN
+00160072,Norida Binti Abdullah,30-03-2018,27-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0418051,PUSAT OPTIK BAYAN
+00102332,Rafidah Binti Harun,02-04-2018,24-03-2018,Petty Cash,,,,,250,,,Optical/Dental Coverage,DPC0518001,FACTORY OUTLET EYEWEAR
+00102799,Roslizawatie Binti Md Zain,02-04-2018,19-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0518002,PUSAT OPTIK BAYAN
+00894355,Jennifer A/P Nathan,02-04-2018,22-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0518003,PUSAT OPTIK BAYAN
+00114278,Santhimathy a/p Gopalan,02-04-2018,26-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0518004,PUSAT OPTIK BAYAN
+00102576,Rozana Binti Mohd Khalid,02-04-2018,28-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0518005,PUSAT OPTIK BAYAN
+00766527,Norhanida Binti Hanafi,02-04-2018,16-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0518006,PUSAT OPTIK BAYAN
+07003679,Siti Amnah Binti Ahmad,02-04-2018,10-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0518007,PUSAT OPTIK BAYAN
+00031881,Faridah Hana Binti Mohamad,02-04-2018,09-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0518008,PUSAT OPTIK BAYAN
+00038540,Fatimah Binti Mat Tajuddin,02-04-2018,23-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0518009,PUSAT OPTIK BAYAN
+00102474,Nor Ani Binti Md Salleh,02-04-2018,05-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0518010,PUSAT OPTIK BAYAN
+00102652,Siti Asmah Binti Biduan,02-04-2018,28-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0518011,PUSAT OPTIK BAYAN
+00089188,Julia Binti Arasat @ Arshad,02-04-2018,30-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0518012,PUSAT OPTIK BAYAN
+00102508,Rozimah Binti Hj Sidek,02-04-2018,21-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0518013,PUSAT OPTIK BAYAN
+06999999,Lee Wei Zhong,02-04-2018,29-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0518014,PUSAT OPTIK BAYAN
+00137169,Kamilia Binti Mohd Yussof,02-04-2018,24-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0518015,PUSAT OPTIK BAYAN
+00102488,Ravindran A/L Chandra Segaran,03-04-2018,29-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0518016,PUSAT OPTIK BAYAN
+00135543,Chong Heng Luong,03-04-2018,02-04-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0518017,KLINIK PERGIGIAN UNION
+07007342,Mohamad Fakhrul Akmal Bin Mohd Yusof,05-04-2018,13-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0518018,PUSAT OPTIK BAYAB
+00102298,Azizi Bin Othman,05-04-2018,04-04-2018,Petty Cash,,,,,24,,,Optical/Dental Coverage,DPC0518019,
+00102298,Azizi Bin Othman,05-04-2018,04-04-2018,Petty Cash,,,,,13,,,Optical/Dental Coverage,DPC0518020,PENANG INTERNASIONAL DENTAL COLLEGE
+07007170,Hasbullah Bin Zakaria,10-04-2018,06-04-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0518021,PUSAT OPTIK BAYAN
+07006738,Nurul Wahida Binti Kamarulzaman,10-04-2018,02-04-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0518022,PUSAT OPTIK BAYAN
+00102298,Azizi Bin Othman,11-04-2018,10-04-2018,Petty Cash,,,,,176,,,Optical/Dental Coverage,DPC0518023,OXFORD OPTICAL
+00913151,Satta Chonlabut,17-04-2018,07-04-2018,Petty Cash,,,,,298,,,Optical/Dental Coverage,DPC0518024,NEW EYE OPTICS
+00102267,Ja'Ayah Binti Hassan,17-04-2018,17-03-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0518025,PUSAT OPTIK BAYAN
+07010152,Siti Nurhidayah Binti Mydin Pichey,17-04-2018,14-04-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0518026,PUSAT OPTIK BAYAN+
+00102293,Azhar Bin Baharum,17-04-2018,14-04-2018,Petty Cash,,,,,240,,,Optical/Dental Coverage,DPC0518027,KHOR DENTAL
+00157237,Haslina Binti Hussin,19-04-2018,13-04-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0518028,PUSAT OPTIK BAYAN
+07010160,Siti Nor Azmani Binti Idris,20-04-2018,11-04-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0518029,PUSAT OPTIK BAYAN
+00102592,Azlina Binti Alias,23-04-2018,20-04-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0518030,MONSTERB OPTIC
+00032783,Yeap Cheng Gaik,24-04-2018,21-04-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0518031,OWNDAYS MALAYSIA
+00102370,Zaharizan Bin Zakaria,26-04-2018,12-04-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0518032,GIRAFFE OPTIC CENTRE
+00030123,Siti Zubaidah Binti Ahmad,26-04-2018,17-04-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0518033,MORSTER OPTIC
+00178996,Mohd Fadil Bin Saat,27-04-2018,27-04-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0518034,PUSAT OPTIK BAYAN
+07010852,Rosyidi Bin Ibrahim,30-04-2018,28-04-2018,Petty Cash,,,,,280,,,Optical/Dental Coverage,DPC0518036,PUSAT OPTIK BAYAN
+00102469,Zaleha Binti Jaafar,30-04-2018,29-04-2018,Petty Cash,,,,,300,,,Optical/Dental Coverage,DPC0518035,TUKANG GIGI
+1

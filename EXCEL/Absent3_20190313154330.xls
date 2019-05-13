@@ -1,0 +1,163 @@
+Employee Code	Employee Name	Superior	Work Group	Contract	Cost Center	Date From	Date To	Total Days
+CN0118	Cici Dwi	Nordin Bin Osman	14MY1801	FORG	Facility	23/08/2018	20/09/2018	18
+CN0095	Md Tandu	Nordin Bin Osman	F2 SHIFT	FORG	Facility	23/08/2018	20/09/2018	21
+NM0729	Nabin Khadka	Leong Wai Hin	F2 SHIFT	FORG	Dell Mbd	23/08/2018	20/09/2018	21
+NM0751	Henny Sihole	Leong Wai Hin	F2 SHIFT	FORG	Dell LCD	23/08/2018	20/09/2018	21
+CW10456	Jamir  Carreon Comendador	Leong Wai Hin	F3 SHIFT	FORG	Dell Mbd	23/08/2018	20/09/2018	17
+NM0572	Glindro Balancio Manao	Leong Wai Hin	F3 SHIFT	FORG	Dell Mbd	23/08/2018	20/09/2018	17
+NM0582	Gerardo Bautista Aguinaldo Jr.	Leong Wai Hin	F3 SHIFT	FORG	Dell LCD	23/08/2018	20/09/2018	17
+NM0769	Devi Hari Yanti Pulungan	Leong Wai Hin	G1 SHIFT	FORG	Dell Mbd	23/08/2018	20/09/2018	21
+NM0353	Jayson Esteban Atangan	Leong Wai Hin	G2 SHIFT	FORG	Dell Mbd	23/08/2018	20/09/2018	17
+NM0731	Mark Anthony Pascual Gatus	Leong Wai Hin	G2 SHIFT	FORG	Dell Mbd	23/08/2018	20/09/2018	17
+RP0221	Risdiyanti	Leong Wai Hin	H1 SHIFT	FORG	Dell Mbd	23/08/2018	20/09/2018	21
+NM0726	Santosh Kumar Yadav	Leong Wai Hin	H1 SHIFT	FORG	Dell Mbd	23/08/2018	20/09/2018	21
+NM0483	Christopher Caputolan Bataluna	Chong Poh Lee	F3 SHIFT	FORG	Purchasing	23/08/2018	20/09/2018	17
+NM0770	Intanida Barus	Chia Lay Kuen	F2 SHIFT	FORG	HP Form	23/08/2018	20/09/2018	21
+NM0753	Yulianti	Chia Lay Kuen	F2 SHIFT	FORG	HP Form	23/08/2018	20/09/2018	21
+NM0562	Emer Lionel Cultura Dimalibot	Chia Lay Kuen	F3 SHIFT	FORG	HP Form	23/08/2018	20/09/2018	17
+NM0721	Santosh Kumar Karki	Tan Saw Lan	F2 SHIFT	FORG	Dell LCD	23/08/2018	20/09/2018	21
+NM0759	Masganti Hasibuan	Tan Saw Lan	F2 SHIFT	FORG	Dell LCD	23/08/2018	20/09/2018	21
+NM0762	Siti Fatimah Harahap	Tan Saw Lan	F2 SHIFT	FORG	Dell LCD	23/08/2018	20/09/2018	21
+NM0749	Manuel Tendencia Colinares	Tan Saw Lan	F3 SHIFT	FORG	Dell LCD	23/08/2018	20/09/2018	17
+NM0560	Allan Barte Bagui	Wong Gim Hock	F3 SHIFT	FORG	Site Human Resources	23/08/2018	20/09/2018	17
+NM0767	Fitri Lindayani	Adelyn Lim Ean Ping	F2 SHIFT	FORG	Dell Mbd	23/08/2018	20/09/2018	21
+NM0766	Sartika Purba	Adelyn Lim Ean Ping	F2 SHIFT	FORG	Dell Mbd	23/08/2018	20/09/2018	21
+NM0746	Fridan Elvita Bangun	Adelyn Lim Ean Ping	F2 SHIFT	FORG	Dell Mbd	23/08/2018	20/09/2018	21
+NM0768	Linda Susanti Zai	Adelyn Lim Ean Ping	F2 SHIFT	FORG	Dell Mbd	23/08/2018	20/09/2018	21
+NM0747	Puji Yani Sembiring	Adelyn Lim Ean Ping	F2 SHIFT	FORG	Dell Mbd	23/08/2018	20/09/2018	21
+NM0765	Rovy Yunita Simanjuntak	Adelyn Lim Ean Ping	F2 SHIFT	FORG	Dell Mbd	23/08/2018	20/09/2018	21
+NM0745	Tri Nopa Sirait	Adelyn Lim Ean Ping	F2 SHIFT	FORG	Dell LCD	23/08/2018	20/09/2018	21
+NM0757	Indah Sari Nainggolan	Adelyn Lim Ean Ping	F2 SHIFT	FORG	Dell LCD	23/08/2018	20/09/2018	21
+NM0758	Maharani	Adelyn Lim Ean Ping	F2 SHIFT	FORG	Dell LCD	23/08/2018	20/09/2018	21
+NM0734	Keshab Thapa	Adelyn Lim Ean Ping	F2 SHIFT	FORG	Dell LCD	23/08/2018	20/09/2018	21
+NM0764	Fitri Juliana	Adelyn Lim Ean Ping	F2 SHIFT	FORG	Dell Mbd	23/08/2018	20/09/2018	21
+NM0576	John Marvin Villamater Ignacio	Adelyn Lim Ean Ping	F2 SHIFT	FORG	Dell Mbd	23/08/2018	20/09/2018	21
+NM0761	Sri Eka Damaiyanti	Adelyn Lim Ean Ping	F2 SHIFT	FORG	Dell LCD	23/08/2018	20/09/2018	21
+NM0763	Sriance Siregar	Adelyn Lim Ean Ping	F2 SHIFT	FORG	Dell Mbd	23/08/2018	20/09/2018	21
+NM0256	Dante Reyes Elefante	Adelyn Lim Ean Ping	F3 SHIFT	FORG	Dell Mbd	23/08/2018	20/09/2018	17
+NM0620	Erick Deticio Estoque	Adelyn Lim Ean Ping	F3 SHIFT	FORG	Dell Mbd	23/08/2018	20/09/2018	17
+NM0577	Christian Villalobos Magnaye	Adelyn Lim Ean Ping	G1 SHIFT	FORG	Dell LCD	23/08/2018	20/09/2018	21
+NM0744	Riyanti Sianturi	Adelyn Lim Ean Ping	G1 SHIFT	FORG	Dell LCD	23/08/2018	20/09/2018	21
+NM0730	Krishna Mahato	Adelyn Lim Ean Ping	G1 SHIFT	FORG	Dell LCD	23/08/2018	20/09/2018	21
+NM0597	Jeffry Marigsa Villareal	Adelyn Lim Ean Ping	H1 SHIFT	FORG	Dell Mbd	23/08/2018	20/09/2018	21
+NM0615	Erwin Manansala Yabut	Chu Wee Liang	F3 SHIFT	FORG	Cisco STB	23/08/2018	20/09/2018	17
+NM0772	Tika Pratiwi	Chu Wee Liang	G1 SHIFT	FORG	Cisco STB	23/08/2018	20/09/2018	21
+NM0771	Naomi Ramsi Yanita	Chu Wee Liang	H1 SHIFT	FORG	Cisco STB	23/08/2018	20/09/2018	21
+NM0044	Suriati	Tham Wai Kin	G1 SHIFT	FORG	ABC	23/08/2018	20/09/2018	21
+CN0118	Cici Dwi	Nordin Bin Osman	14MY1801	FORG	Facility	15/08/2018	20/08/2018	4
+CN0095	Md Tandu	Nordin Bin Osman	F2 SHIFT	FORG	Facility	15/08/2018	20/08/2018	5
+NM0729	Nabin Khadka	Leong Wai Hin	F2 SHIFT	FORG	Dell Mbd	15/08/2018	20/08/2018	5
+NM0751	Henny Sihole	Leong Wai Hin	F2 SHIFT	FORG	Dell LCD	15/08/2018	20/08/2018	5
+CW10456	Jamir  Carreon Comendador	Leong Wai Hin	F3 SHIFT	FORG	Dell Mbd	15/08/2018	20/08/2018	4
+NM0572	Glindro Balancio Manao	Leong Wai Hin	F3 SHIFT	FORG	Dell Mbd	15/08/2018	20/08/2018	4
+NM0582	Gerardo Bautista Aguinaldo Jr.	Leong Wai Hin	F3 SHIFT	FORG	Dell LCD	15/08/2018	20/08/2018	4
+NM0769	Devi Hari Yanti Pulungan	Leong Wai Hin	G1 SHIFT	FORG	Dell Mbd	15/08/2018	20/08/2018	5
+NM0731	Mark Anthony Pascual Gatus	Leong Wai Hin	G2 SHIFT	FORG	Dell Mbd	15/08/2018	20/08/2018	4
+NM0353	Jayson Esteban Atangan	Leong Wai Hin	G2 SHIFT	FORG	Dell Mbd	15/08/2018	20/08/2018	4
+RP0221	Risdiyanti	Leong Wai Hin	H1 SHIFT	FORG	Dell Mbd	15/08/2018	20/08/2018	5
+NM0726	Santosh Kumar Yadav	Leong Wai Hin	H1 SHIFT	FORG	Dell Mbd	15/08/2018	20/08/2018	5
+NM0483	Christopher Caputolan Bataluna	Chong Poh Lee	F3 SHIFT	FORG	Purchasing	15/08/2018	20/08/2018	4
+NM0770	Intanida Barus	Chia Lay Kuen	F2 SHIFT	FORG	HP Form	15/08/2018	20/08/2018	5
+NM0753	Yulianti	Chia Lay Kuen	F2 SHIFT	FORG	HP Form	15/08/2018	20/08/2018	5
+NM0562	Emer Lionel Cultura Dimalibot	Chia Lay Kuen	F3 SHIFT	FORG	HP Form	15/08/2018	20/08/2018	4
+NM0721	Santosh Kumar Karki	Tan Saw Lan	F2 SHIFT	FORG	Dell LCD	15/08/2018	20/08/2018	5
+NM0759	Masganti Hasibuan	Tan Saw Lan	F2 SHIFT	FORG	Dell LCD	15/08/2018	20/08/2018	5
+NM0762	Siti Fatimah Harahap	Tan Saw Lan	F2 SHIFT	FORG	Dell LCD	15/08/2018	20/08/2018	5
+NM0749	Manuel Tendencia Colinares	Tan Saw Lan	F3 SHIFT	FORG	Dell LCD	15/08/2018	20/08/2018	4
+NM0560	Allan Barte Bagui	Wong Gim Hock	F3 SHIFT	FORG	Site Human Resources	15/08/2018	20/08/2018	4
+NM0763	Sriance Siregar	Adelyn Lim Ean Ping	F2 SHIFT	FORG	Dell Mbd	15/08/2018	20/08/2018	5
+NM0767	Fitri Lindayani	Adelyn Lim Ean Ping	F2 SHIFT	FORG	Dell Mbd	15/08/2018	20/08/2018	5
+NM0761	Sri Eka Damaiyanti	Adelyn Lim Ean Ping	F2 SHIFT	FORG	Dell LCD	15/08/2018	20/08/2018	5
+NM0766	Sartika Purba	Adelyn Lim Ean Ping	F2 SHIFT	FORG	Dell Mbd	15/08/2018	20/08/2018	5
+NM0746	Fridan Elvita Bangun	Adelyn Lim Ean Ping	F2 SHIFT	FORG	Dell Mbd	15/08/2018	20/08/2018	5
+NM0758	Maharani	Adelyn Lim Ean Ping	F2 SHIFT	FORG	Dell LCD	15/08/2018	20/08/2018	5
+NM0747	Puji Yani Sembiring	Adelyn Lim Ean Ping	F2 SHIFT	FORG	Dell Mbd	15/08/2018	20/08/2018	5
+NM0765	Rovy Yunita Simanjuntak	Adelyn Lim Ean Ping	F2 SHIFT	FORG	Dell Mbd	15/08/2018	20/08/2018	5
+NM0745	Tri Nopa Sirait	Adelyn Lim Ean Ping	F2 SHIFT	FORG	Dell LCD	15/08/2018	20/08/2018	5
+NM0757	Indah Sari Nainggolan	Adelyn Lim Ean Ping	F2 SHIFT	FORG	Dell LCD	15/08/2018	20/08/2018	5
+NM0764	Fitri Juliana	Adelyn Lim Ean Ping	F2 SHIFT	FORG	Dell Mbd	15/08/2018	20/08/2018	5
+NM0734	Keshab Thapa	Adelyn Lim Ean Ping	F2 SHIFT	FORG	Dell LCD	15/08/2018	20/08/2018	5
+NM0576	John Marvin Villamater Ignacio	Adelyn Lim Ean Ping	F2 SHIFT	FORG	Dell Mbd	15/08/2018	20/08/2018	5
+NM0768	Linda Susanti Zai	Adelyn Lim Ean Ping	F2 SHIFT	FORG	Dell Mbd	15/08/2018	20/08/2018	5
+NM0256	Dante Reyes Elefante	Adelyn Lim Ean Ping	F3 SHIFT	FORG	Dell Mbd	15/08/2018	20/08/2018	4
+NM0620	Erick Deticio Estoque	Adelyn Lim Ean Ping	F3 SHIFT	FORG	Dell Mbd	15/08/2018	20/08/2018	4
+NM0744	Riyanti Sianturi	Adelyn Lim Ean Ping	G1 SHIFT	FORG	Dell LCD	15/08/2018	20/08/2018	5
+NM0577	Christian Villalobos Magnaye	Adelyn Lim Ean Ping	G1 SHIFT	FORG	Dell LCD	15/08/2018	20/08/2018	5
+NM0730	Krishna Mahato	Adelyn Lim Ean Ping	G1 SHIFT	FORG	Dell LCD	15/08/2018	20/08/2018	5
+NM0597	Jeffry Marigsa Villareal	Adelyn Lim Ean Ping	H1 SHIFT	FORG	Dell Mbd	15/08/2018	20/08/2018	5
+NM0615	Erwin Manansala Yabut	Chu Wee Liang	F3 SHIFT	FORG	Cisco STB	15/08/2018	20/08/2018	4
+NM0772	Tika Pratiwi	Chu Wee Liang	G1 SHIFT	FORG	Cisco STB	15/08/2018	20/08/2018	5
+NM0771	Naomi Ramsi Yanita	Chu Wee Liang	H1 SHIFT	FORG	Cisco STB	15/08/2018	20/08/2018	5
+NM0044	Suriati	Tham Wai Kin	G1 SHIFT	FORG	ABC	15/08/2018	20/08/2018	5
+CN0118	Cici Dwi	Nordin Bin Osman	14MY1801	FORG	Facility	23/07/2018	10/08/2018	15
+CN0095	Md Tandu	Nordin Bin Osman	F2 SHIFT	FORG	Facility	23/07/2018	11/08/2018	18
+NM0729	Nabin Khadka	Leong Wai Hin	F2 SHIFT	FORG	Dell Mbd	23/07/2018	11/08/2018	18
+NM0751	Henny Sihole	Leong Wai Hin	F2 SHIFT	FORG	Dell LCD	23/07/2018	11/08/2018	18
+CW10456	Jamir  Carreon Comendador	Leong Wai Hin	F3 SHIFT	FORG	Dell Mbd	23/07/2018	10/08/2018	15
+NM0572	Glindro Balancio Manao	Leong Wai Hin	F3 SHIFT	FORG	Dell Mbd	23/07/2018	10/08/2018	15
+NM0582	Gerardo Bautista Aguinaldo Jr.	Leong Wai Hin	F3 SHIFT	FORG	Dell LCD	23/07/2018	10/08/2018	15
+NM0769	Devi Hari Yanti Pulungan	Leong Wai Hin	G1 SHIFT	FORG	Dell Mbd	23/07/2018	11/08/2018	18
+NM0731	Mark Anthony Pascual Gatus	Leong Wai Hin	G2 SHIFT	FORG	Dell Mbd	23/07/2018	10/08/2018	15
+NM0353	Jayson Esteban Atangan	Leong Wai Hin	G2 SHIFT	FORG	Dell Mbd	23/07/2018	10/08/2018	15
+RP0221	Risdiyanti	Leong Wai Hin	H1 SHIFT	FORG	Dell Mbd	23/07/2018	11/08/2018	18
+NM0726	Santosh Kumar Yadav	Leong Wai Hin	H1 SHIFT	FORG	Dell Mbd	23/07/2018	11/08/2018	18
+NM0483	Christopher Caputolan Bataluna	Chong Poh Lee	F3 SHIFT	FORG	Purchasing	23/07/2018	10/08/2018	15
+NM0770	Intanida Barus	Chia Lay Kuen	F2 SHIFT	FORG	HP Form	23/07/2018	11/08/2018	18
+NM0753	Yulianti	Chia Lay Kuen	F2 SHIFT	FORG	HP Form	23/07/2018	11/08/2018	18
+NM0562	Emer Lionel Cultura Dimalibot	Chia Lay Kuen	F3 SHIFT	FORG	HP Form	23/07/2018	10/08/2018	15
+NM0721	Santosh Kumar Karki	Tan Saw Lan	F2 SHIFT	FORG	Dell LCD	23/07/2018	11/08/2018	18
+NM0759	Masganti Hasibuan	Tan Saw Lan	F2 SHIFT	FORG	Dell LCD	23/07/2018	11/08/2018	18
+NM0762	Siti Fatimah Harahap	Tan Saw Lan	F2 SHIFT	FORG	Dell LCD	23/07/2018	11/08/2018	18
+NM0749	Manuel Tendencia Colinares	Tan Saw Lan	F3 SHIFT	FORG	Dell LCD	23/07/2018	10/08/2018	15
+NM0560	Allan Barte Bagui	Wong Gim Hock	F3 SHIFT	FORG	Site Human Resources	23/07/2018	10/08/2018	15
+NM0763	Sriance Siregar	Adelyn Lim Ean Ping	F2 SHIFT	FORG	Dell Mbd	23/07/2018	11/08/2018	18
+NM0767	Fitri Lindayani	Adelyn Lim Ean Ping	F2 SHIFT	FORG	Dell Mbd	23/07/2018	11/08/2018	18
+NM0761	Sri Eka Damaiyanti	Adelyn Lim Ean Ping	F2 SHIFT	FORG	Dell LCD	23/07/2018	11/08/2018	18
+NM0766	Sartika Purba	Adelyn Lim Ean Ping	F2 SHIFT	FORG	Dell Mbd	23/07/2018	11/08/2018	18
+NM0746	Fridan Elvita Bangun	Adelyn Lim Ean Ping	F2 SHIFT	FORG	Dell Mbd	23/07/2018	11/08/2018	18
+NM0758	Maharani	Adelyn Lim Ean Ping	F2 SHIFT	FORG	Dell LCD	23/07/2018	11/08/2018	18
+NM0747	Puji Yani Sembiring	Adelyn Lim Ean Ping	F2 SHIFT	FORG	Dell Mbd	23/07/2018	11/08/2018	18
+NM0765	Rovy Yunita Simanjuntak	Adelyn Lim Ean Ping	F2 SHIFT	FORG	Dell Mbd	23/07/2018	11/08/2018	18
+NM0576	John Marvin Villamater Ignacio	Adelyn Lim Ean Ping	F2 SHIFT	FORG	Dell Mbd	23/07/2018	11/08/2018	18
+NM0745	Tri Nopa Sirait	Adelyn Lim Ean Ping	F2 SHIFT	FORG	Dell LCD	23/07/2018	11/08/2018	18
+NM0757	Indah Sari Nainggolan	Adelyn Lim Ean Ping	F2 SHIFT	FORG	Dell LCD	23/07/2018	11/08/2018	18
+NM0764	Fitri Juliana	Adelyn Lim Ean Ping	F2 SHIFT	FORG	Dell Mbd	23/07/2018	11/08/2018	18
+NM0734	Keshab Thapa	Adelyn Lim Ean Ping	F2 SHIFT	FORG	Dell LCD	23/07/2018	11/08/2018	18
+NM0768	Linda Susanti Zai	Adelyn Lim Ean Ping	F2 SHIFT	FORG	Dell Mbd	23/07/2018	11/08/2018	18
+NM0256	Dante Reyes Elefante	Adelyn Lim Ean Ping	F3 SHIFT	FORG	Dell Mbd	23/07/2018	10/08/2018	15
+NM0620	Erick Deticio Estoque	Adelyn Lim Ean Ping	F3 SHIFT	FORG	Dell Mbd	23/07/2018	10/08/2018	15
+NM0730	Krishna Mahato	Adelyn Lim Ean Ping	G1 SHIFT	FORG	Dell LCD	23/07/2018	11/08/2018	18
+NM0744	Riyanti Sianturi	Adelyn Lim Ean Ping	G1 SHIFT	FORG	Dell LCD	23/07/2018	11/08/2018	18
+NM0577	Christian Villalobos Magnaye	Adelyn Lim Ean Ping	G1 SHIFT	FORG	Dell LCD	23/07/2018	11/08/2018	18
+NM0597	Jeffry Marigsa Villareal	Adelyn Lim Ean Ping	H1 SHIFT	FORG	Dell Mbd	23/07/2018	11/08/2018	18
+NM0615	Erwin Manansala Yabut	Chu Wee Liang	F3 SHIFT	FORG	Cisco STB	23/07/2018	10/08/2018	15
+NM0772	Tika Pratiwi	Chu Wee Liang	G1 SHIFT	FORG	Cisco STB	23/07/2018	11/08/2018	18
+NM0771	Naomi Ramsi Yanita	Chu Wee Liang	H1 SHIFT	FORG	Cisco STB	23/07/2018	11/08/2018	18
+NM0044	Suriati	Tham Wai Kin	G1 SHIFT	FORG	ABC	23/07/2018	11/08/2018	18
+NM0731	Mark Anthony Pascual Gatus	Leong Wai Hin	G2 SHIFT	FORG	Dell Mbd	17/07/2018	20/07/2018	4
+NM0353	Jayson Esteban Atangan	Leong Wai Hin	G2 SHIFT	FORG	Dell Mbd	17/07/2018	20/07/2018	4
+NM0747	Puji Yani Sembiring	Adelyn Lim Ean Ping	F2 SHIFT	FORG	Dell Mbd	17/07/2018	20/07/2018	4
+NM0769	Devi Hari Yanti Pulungan	Leong Wai Hin	G1 SHIFT	FORG	Dell Mbd	16/07/2018	20/07/2018	5
+NM0730	Krishna Mahato	Adelyn Lim Ean Ping	G1 SHIFT	FORG	Dell LCD	16/07/2018	20/07/2018	5
+NM0744	Riyanti Sianturi	Adelyn Lim Ean Ping	G1 SHIFT	FORG	Dell LCD	16/07/2018	20/07/2018	5
+NM0577	Christian Villalobos Magnaye	Adelyn Lim Ean Ping	G1 SHIFT	FORG	Dell LCD	16/07/2018	20/07/2018	5
+NM0772	Tika Pratiwi	Chu Wee Liang	G1 SHIFT	FORG	Cisco STB	16/07/2018	20/07/2018	5
+RP0221	Risdiyanti	Leong Wai Hin	H1 SHIFT	FORG	Dell Mbd	09/07/2018	13/07/2018	5
+NM0726	Santosh Kumar Yadav	Leong Wai Hin	H1 SHIFT	FORG	Dell Mbd	09/07/2018	13/07/2018	5
+NM0597	Jeffry Marigsa Villareal	Adelyn Lim Ean Ping	H1 SHIFT	FORG	Dell Mbd	09/07/2018	13/07/2018	5
+NM0771	Naomi Ramsi Yanita	Chu Wee Liang	H1 SHIFT	FORG	Cisco STB	09/07/2018	13/07/2018	5
+NM0769	Devi Hari Yanti Pulungan	Leong Wai Hin	G1 SHIFT	FORG	Dell Mbd	02/07/2018	07/07/2018	6
+NM0762	Siti Fatimah Harahap	Tan Saw Lan	F2 SHIFT	FORG	Dell LCD	02/07/2018	20/07/2018	15
+NM0767	Fitri Lindayani	Adelyn Lim Ean Ping	F2 SHIFT	FORG	Dell Mbd	02/07/2018	04/07/2018	3
+NM0730	Krishna Mahato	Adelyn Lim Ean Ping	G1 SHIFT	FORG	Dell LCD	02/07/2018	07/07/2018	6
+NM0744	Riyanti Sianturi	Adelyn Lim Ean Ping	G1 SHIFT	FORG	Dell LCD	02/07/2018	07/07/2018	6
+NM0577	Christian Villalobos Magnaye	Adelyn Lim Ean Ping	G1 SHIFT	FORG	Dell LCD	02/07/2018	07/07/2018	6
+NM0772	Tika Pratiwi	Chu Wee Liang	G1 SHIFT	FORG	Cisco STB	02/07/2018	07/07/2018	6
+NM0044	Suriati	Tham Wai Kin	G1 SHIFT	FORG	ABC	02/07/2018	20/07/2018	16
+NM0726	Santosh Kumar Yadav	Leong Wai Hin	H1 SHIFT	FORG	Dell Mbd	27/06/2018	29/06/2018	3
+RP0221	Risdiyanti	Leong Wai Hin	H1 SHIFT	FORG	Dell Mbd	27/06/2018	29/06/2018	3
+NM0762	Siti Fatimah Harahap	Tan Saw Lan	F2 SHIFT	FORG	Dell LCD	27/06/2018	29/06/2018	3
+NM0771	Naomi Ramsi Yanita	Chu Wee Liang	H1 SHIFT	FORG	Cisco STB	27/06/2018	29/06/2018	3
+CN0107	Mohammad Anech	Nordin Bin Osman		FORG	Facility	22/06/2018	29/06/2018	7
+CW10456	Jamir  Carreon Comendador	Leong Wai Hin	F3 SHIFT	FORG	Dell Mbd	22/06/2018	20/07/2018	21
+NM0044	Suriati	Tham Wai Kin	G1 SHIFT	FORG	ABC	22/06/2018	29/06/2018	7

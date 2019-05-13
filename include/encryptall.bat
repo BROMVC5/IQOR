@@ -1,0 +1,1 @@
+screnc /f *.asp

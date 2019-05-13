@@ -1,0 +1,2 @@
+Purge Log File (IC) ***05/02/2015-05/02/2015     20150209 18:29:21     BRO
+Purge Stock Transaction***16/04/2015-16/04/2015STOCK 123-STOCK 123     20150415 11:51:22     BRO

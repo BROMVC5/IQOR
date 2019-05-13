@@ -1,0 +1,7 @@
+Day	Shift Date	Employee Code	Employee Name	Contract	Cost Center	Shift	Time In	Time Out	Total 	Total OT 	Rounded OT 	Approved OT	OT Code/Rate	Manager	Superior
+Sat	05/01/2019	306986	Siti Khadijah Binti Abu Bakar	PERMAN	Microsoft	OFF	07:00	09:00	02:00	02:00	2.00	2.00	OT1 - 1.5		
+Sat	19/01/2019	306986	Siti Khadijah Binti Abu Bakar	PERMAN	Microsoft	OFF	11:57	16:03	04:06	04:06	4.00	0.00	OT1 - 1.5		
+Mon	21/01/2019	306986	Siti Khadijah Binti Abu Bakar	PERMAN	Microsoft	NORM 08:00-16:30	10:54	21:04	10:10	10:10	10.00	0.00	OT1 - 3.0		
+Fri	08/02/2019	306986	Siti Khadijah Binti Abu Bakar	PERMAN	Microsoft	NORM 08:00-16:30	07:55	19:40	11:45	03:10	3.00	0.00	OT1 - 1.5		
+Sat	09/02/2019	306986	Siti Khadijah Binti Abu Bakar	PERMAN	Microsoft	OFF	10:16	20:32	10:16	10:16	10.00	0.00	OT1 - 1.5		
+Sat	23/02/2019	306986	Siti Khadijah Binti Abu Bakar	PERMAN	Microsoft	OFF	12:07	23:38	11:31	11:31	11.50	0.00	OT1 - 1.5		

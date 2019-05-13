@@ -1,0 +1,2 @@
+28/09/2018,23:59:15,Cb,Valid Card Exit,306986,Siti Khadijah Binti Abu Bakar,0000993682,TMS1_OUT,
+28/09/2018,23:59:16,CC,Unknown Card Number (Exit),,Unlisted User,0000083724,TMS1_OUT,

@@ -1,0 +1,709 @@
+Day	Shift Date	Emp Code	Name	Contract	Cost Center	Shift	In	Out	Total	Total OT	Approved OT	Time Off	Status
+Mon	01/04/2019	102278	Nordin Bin Osman	PERMAN	Dell LCD	NORM 08:00-16:30	07:29	17:02	9.55		0.00		Normal 
+Tue	02/04/2019	102278	Nordin Bin Osman	PERMAN	Dell LCD	NORM 08:00-16:30	07:32	17:22	9.83		0.00		Normal 
+Wed	03/04/2019	102278	Nordin Bin Osman	PERMAN	Dell LCD	NORM 08:00-16:30	07:31	16:34	9.05		0.00		Normal 
+Thu	04/04/2019	102278	Nordin Bin Osman	PERMAN	Dell LCD	NORM 08:00-16:30	07:29	17:56	10.45		0.00		Normal 
+Mon	01/04/2019	102280	Siti Hajar Binti Awang	PERMAN	Quality Assurance	DW07 07:00-19:00	06:58	19:31	12.55		0.00		Normal 
+Tue	02/04/2019	102280	Siti Hajar Binti Awang	PERMAN	Quality Assurance	DW07 07:00-19:00	06:52	19:16	12.40		0.00		Normal 
+Wed	03/04/2019	102280	Siti Hajar Binti Awang	PERMAN	Quality Assurance	DW07 07:00-19:00	06:51	20:29	13.63		0.00		Normal 
+Thu	04/04/2019	102280	Siti Hajar Binti Awang	PERMAN	Quality Assurance	DW07 07:00-19:00	06:55	19:34	12.65		0.00		Normal 
+Mon	01/04/2019	102286	Norbashiroh Binti Md Amin	PERMAN	Dell Repair on Deman	OFF							OFF  No info 
+Tue	02/04/2019	102286	Norbashiroh Binti Md Amin	PERMAN	Dell Repair on Deman	OFF	06:13	19:07	12.90	12.90	0.00		OFF  OT 
+Wed	03/04/2019	102286	Norbashiroh Binti Md Amin	PERMAN	Dell Repair on Deman	DW07 07:00-19:00	06:19	19:09	12.83		0.00		Normal 
+Thu	04/04/2019	102286	Norbashiroh Binti Md Amin	PERMAN	Dell Repair on Deman	DW08 19:00-07:00	06:23	19:06	0.00		0.00		Normal 
+Mon	01/04/2019	102287	Faridah Binti Hassan	PERMAN	Quality Assurance	DW07 07:00-19:00						3000 - Annual Leave	No Schedule  No info 
+Tue	02/04/2019	102287	Faridah Binti Hassan	PERMAN	Quality Assurance	DW07 07:00-19:00	07:02	19:08	12.10		0.00		Normal 
+Wed	03/04/2019	102287	Faridah Binti Hassan	PERMAN	Quality Assurance	DW07 07:00-19:00	06:59	19:14	12.25		0.00		Normal 
+Thu	04/04/2019	102287	Faridah Binti Hassan	PERMAN	Quality Assurance	DW07 07:00-19:00	06:57	19:10	12.22		0.00		Normal 
+Mon	01/04/2019	102288	Hajar Binti Tahir	PERMAN	HP Form	DW07 07:00-19:00						3000 - Annual Leave	No Schedule  No info 
+Tue	02/04/2019	102288	Hajar Binti Tahir	PERMAN	HP Form	DW07 07:00-19:00	06:57	19:01	12.07		0.00		Normal 
+Wed	03/04/2019	102288	Hajar Binti Tahir	PERMAN	HP Form	DW07 07:00-19:00	06:58	19:02	12.07		0.00		Normal 
+Thu	04/04/2019	102288	Hajar Binti Tahir	PERMAN	HP Form	DW07 07:00-19:00	06:54	19:00	12.10		0.00		Normal 
+Mon	01/04/2019	102291	Rusnah Binti Dolah	PERMAN	Dell LCD	NORM 08:00-16:30	08:14	16:42	8.47		0.00		Normal  Late 
+Tue	02/04/2019	102291	Rusnah Binti Dolah	PERMAN	Dell LCD	NORM 08:00-16:30	07:40	16:57	9.28		0.00		Normal 
+Wed	03/04/2019	102291	Rusnah Binti Dolah	PERMAN	Dell LCD	NORM 08:00-16:30	07:43	16:50	9.12		0.00		Normal 
+Thu	04/04/2019	102291	Rusnah Binti Dolah	PERMAN	Dell LCD	NORM 08:00-16:30	07:44	16:43	8.98		0.00		Normal 
+Mon	01/04/2019	102298	Azizi Bin Othman	PERMAN	Dell LCD	NORM 08:00-16:30						3001 - Medical leave	No Schedule  No info 
+Tue	02/04/2019	102298	Azizi Bin Othman	PERMAN	Dell LCD	NORM 08:00-16:30	07:31	16:39	9.13		0.00		Normal 
+Wed	03/04/2019	102298	Azizi Bin Othman	PERMAN	Dell LCD	NORM 08:00-16:30	07:31	17:35	10.07		0.00		Normal 
+Thu	04/04/2019	102298	Azizi Bin Othman	PERMAN	Dell LCD	NORM 08:00-16:30	07:29	17:52	10.38		0.00		Normal 
+Mon	01/04/2019	102306	Low Tai Seng	PERMAN	Dell LCD	NORM 08:00-16:30	06:58	19:21	12.38	2.85	2.50		Normal  OT 
+Tue	02/04/2019	102306	Low Tai Seng	PERMAN	Dell LCD	NORM 08:00-16:30	06:46	19:39	12.88	3.15	3.00		Normal  OT 
+Wed	03/04/2019	102306	Low Tai Seng	PERMAN	Dell LCD	NORM 08:00-16:30	06:54	19:23	12.48	2.88	2.50		Normal  OT 
+Thu	04/04/2019	102306	Low Tai Seng	PERMAN	Dell LCD	NORM 08:00-16:30	06:44	19:15	12.52	2.75	2.50		Normal  OT 
+Mon	01/04/2019	102312	Fadzlina Binti Md Shariff	PERMAN	Dell LCD	NORM 08:00-16:30	07:36	18:46	11.17	2.27	0.00		Normal  OT 
+Tue	02/04/2019	102312	Fadzlina Binti Md Shariff	PERMAN	Dell LCD	NORM 08:00-16:30	07:12	17:28	10.27		0.00		Normal 
+Wed	03/04/2019	102312	Fadzlina Binti Md Shariff	PERMAN	Dell LCD	NORM 08:00-16:30	07:20	16:50	9.50		0.00		Normal 
+Thu	04/04/2019	102312	Fadzlina Binti Md Shariff	PERMAN	Dell LCD	NORM 08:00-16:30	07:48	16:50	9.03		0.00		Normal 
+Mon	01/04/2019	102327	Angalene A/P Subramaniam	PERMAN	Dell LCD	DW07 07:00-19:00	06:12	19:08	12.93		0.00		Normal 
+Tue	02/04/2019	102327	Angalene A/P Subramaniam	PERMAN	Dell LCD	DW07 07:00-19:00	06:07	19:07	13.00		0.00		Normal 
+Wed	03/04/2019	102327	Angalene A/P Subramaniam	PERMAN	Dell LCD	DW07 07:00-19:00	06:10	19:09	12.98		0.00		Normal 
+Thu	04/04/2019	102327	Angalene A/P Subramaniam	PERMAN	Dell LCD	DW07 07:00-19:00	06:05	19:07	13.03		0.00		Normal 
+Mon	01/04/2019	102338	Zuraida Binti Zenun	PERMAN	Dell LCD	NORM 08:00-16:30	07:48	20:31	12.72	4.02	0.00		Normal  OT 
+Tue	02/04/2019	102338	Zuraida Binti Zenun	PERMAN	Dell LCD	NORM 08:00-16:30	07:50	18:49	10.98	2.32	0.00		Normal  OT 
+Wed	03/04/2019	102338	Zuraida Binti Zenun	PERMAN	Dell LCD	NORM 08:00-16:30	07:33	18:32	10.98	2.03	0.00		Normal  OT 
+Thu	04/04/2019	102338	Zuraida Binti Zenun	PERMAN	Dell LCD	NORM 08:00-16:30	07:47	20:32	12.75	4.03	0.00		Normal  OT 
+Mon	01/04/2019	102345	Tan Soo Ling	PERMAN	Dell Mbd	DW07 07:00-19:00	06:12	19:05	12.88		0.00		Normal 
+Tue	02/04/2019	102345	Tan Soo Ling	PERMAN	Dell Mbd	DW07 07:00-19:00	06:06	19:06	13.00		0.00		Normal 
+Wed	03/04/2019	102345	Tan Soo Ling	PERMAN	Dell Mbd	DW07 07:00-19:00	06:10	19:08	12.97		0.00		Normal 
+Thu	04/04/2019	102345	Tan Soo Ling	PERMAN	Dell Mbd	DW07 07:00-19:00	06:05	19:06	13.02		0.00		Normal 
+Mon	01/04/2019	102347	Zaleha Binti Ahmad	PERMAN	stockroom	NORM 08:00-16:30	07:53	16:37	8.73		0.00		Normal 
+Tue	02/04/2019	102347	Zaleha Binti Ahmad	PERMAN	stockroom	NORM 08:00-16:30	07:54	20:38	12.73	4.13	4.00		Normal  OT 
+Wed	03/04/2019	102347	Zaleha Binti Ahmad	PERMAN	stockroom	NORM 08:00-16:30	08:04	16:37	8.55		0.00		Normal 
+Thu	04/04/2019	102347	Zaleha Binti Ahmad	PERMAN	stockroom	NORM 08:00-16:30	07:59	16:49	8.83		0.00		Normal 
+Mon	01/04/2019	102361	Soridan Bin Hussein	PERMAN	Dell Mbd	NORM 08:00-16:30	07:52	18:09	10.28		0.00		Normal 
+Tue	02/04/2019	102361	Soridan Bin Hussein	PERMAN	Dell Mbd	NORM 08:00-16:30						3000 - Annual Leave	No Schedule  No info 
+Wed	03/04/2019	102361	Soridan Bin Hussein	PERMAN	Dell Mbd	NORM 08:00-16:30	07:51	17:00	9.15		0.00		Normal 
+Thu	04/04/2019	102361	Soridan Bin Hussein	PERMAN	Dell Mbd	NORM 08:00-16:30	07:51	17:05	9.23		0.00		Normal 
+Mon	01/04/2019	102375	Siti Fatimah Binti Abd.Rahim	PERMAN	Tellabs	DW07 07:00-19:00	05:58	19:02	13.07		0.00		Normal 
+Tue	02/04/2019	102375	Siti Fatimah Binti Abd.Rahim	PERMAN	Tellabs	DW07 07:00-19:00						3001 - Medical leave	No Schedule  No info 
+Wed	03/04/2019	102375	Siti Fatimah Binti Abd.Rahim	PERMAN	Tellabs	DW07 07:00-19:00						3000 - Annual Leave	No Schedule  No info 
+Thu	04/04/2019	102375	Siti Fatimah Binti Abd.Rahim	PERMAN	Tellabs	DW07 07:00-19:00	05:55	19:01	13.10		0.00		Normal 
+Mon	01/04/2019	102384	Rohiza Binti Mat Isa	PERMAN	Dell Mbd	OFF	06:16	19:08	12.87	12.87	0.00		OFF  OT 
+Tue	02/04/2019	102384	Rohiza Binti Mat Isa	PERMAN	Dell Mbd	OFF	06:15	19:04	12.82	12.82	0.00		OFF  OT 
+Wed	03/04/2019	102384	Rohiza Binti Mat Isa	PERMAN	Dell Mbd	DW07 07:00-19:00	06:18	19:08	12.83		0.00		Normal 
+Thu	04/04/2019	102384	Rohiza Binti Mat Isa	PERMAN	Dell Mbd	DW07 07:00-19:00	06:23	19:05	12.70		0.00		Normal 
+Mon	01/04/2019	102385	Norhashira Binti Halim	PERMAN	Dell Mbd	DW07 07:00-19:00	06:16	19:09	12.88		0.00		Normal 
+Tue	02/04/2019	102385	Norhashira Binti Halim	PERMAN	Dell Mbd	DW07 07:00-19:00	06:14	19:07	12.88		0.00		Normal 
+Wed	03/04/2019	102385	Norhashira Binti Halim	PERMAN	Dell Mbd	DW07 07:00-19:00	06:18	19:09	12.85		0.00		Normal 
+Thu	04/04/2019	102385	Norhashira Binti Halim	PERMAN	Dell Mbd	DW07 07:00-19:00	06:23	19:08	12.75		0.00		Normal 
+Mon	01/04/2019	102408	Rusliza Binti Ishak	PERMAN	Dell LCD	OFF	06:16	19:08	12.87	12.87	0.00		OFF  OT 
+Tue	02/04/2019	102408	Rusliza Binti Ishak	PERMAN	Dell LCD	OFF	06:15	19:04	12.82	12.82	0.00		OFF  OT 
+Wed	03/04/2019	102408	Rusliza Binti Ishak	PERMAN	Dell LCD	DW07 07:00-19:00	06:18	19:08	12.83		0.00		Normal 
+Thu	04/04/2019	102408	Rusliza Binti Ishak	PERMAN	Dell LCD	DW08 19:00-07:00						3000 - Annual Leave	No Schedule  No info 
+Mon	01/04/2019	102433	Wan Yusanisah Binti Wan Yusoff	PERMAN	Tellabs	NORM 08:00-16:30	07:24	17:54	10.50		0.00		Normal 
+Tue	02/04/2019	102433	Wan Yusanisah Binti Wan Yusoff	PERMAN	Tellabs	NORM 08:00-16:30	07:29	17:43	10.23		0.00		Normal 
+Wed	03/04/2019	102433	Wan Yusanisah Binti Wan Yusoff	PERMAN	Tellabs	NORM 08:00-16:30	07:44	17:25	9.68		0.00		Normal 
+Thu	04/04/2019	102433	Wan Yusanisah Binti Wan Yusoff	PERMAN	Tellabs	NORM 08:00-16:30	07:33	18:05	10.53		0.00		Normal 
+Mon	01/04/2019	102452	Zaniyah Binti Said	PERMAN	Dell LCD	DW07 07:00-19:00	06:11	19:08	12.95		0.00		Normal 
+Tue	02/04/2019	102452	Zaniyah Binti Said	PERMAN	Dell LCD	DW07 07:00-19:00	06:14	19:04	12.83		0.00		Normal 
+Wed	03/04/2019	102452	Zaniyah Binti Said	PERMAN	Dell LCD	DW07 07:00-19:00	06:20	19:08	12.80		0.00		Normal 
+Thu	04/04/2019	102452	Zaniyah Binti Said	PERMAN	Dell LCD	DW07 07:00-19:00	06:23	19:02	12.65		0.00		Normal 
+Mon	01/04/2019	102459	Parvathi A/P Kuppusamy	PERMAN	Dell LCD	DW07 07:00-19:00	06:12	19:02	12.83		0.00		Normal 
+Tue	02/04/2019	102459	Parvathi A/P Kuppusamy	PERMAN	Dell LCD	DW07 07:00-19:00	06:06	19:01	12.92		0.00		Normal 
+Wed	03/04/2019	102459	Parvathi A/P Kuppusamy	PERMAN	Dell LCD	DW07 07:00-19:00	06:10	19:03	12.88		0.00		Normal 
+Thu	04/04/2019	102459	Parvathi A/P Kuppusamy	PERMAN	Dell LCD	DW07 07:00-19:00	06:05	19:00	12.92		0.00		Normal 
+Mon	01/04/2019	102468	Norehan Binti Ismail	PERMAN	Dell LCD	DW07 07:00-19:00	06:56	19:09	12.22		0.00		Normal 
+Tue	02/04/2019	102468	Norehan Binti Ismail	PERMAN	Dell LCD	DW07 07:00-19:00	06:57	19:08	12.18		0.00		Normal 
+Wed	03/04/2019	102468	Norehan Binti Ismail	PERMAN	Dell LCD	DW07 07:00-19:00	07:06	19:09	12.05		0.00		Normal  Late 
+Thu	04/04/2019	102468	Norehan Binti Ismail	PERMAN	Dell LCD	DW07 07:00-19:00	06:58	19:07	12.15		0.00		Normal 
+Mon	01/04/2019	102505	Mohamad Sukri Bin Zainol Abidin	PERMAN	Dell LCD	NORM 08:00-16:30	07:45	21:04	0.00		0.00		Normal 
+Tue	02/04/2019	102505	Mohamad Sukri Bin Zainol Abidin	PERMAN	Dell LCD	NORM 08:00-16:30	07:49	21:19	0.00		0.00		Normal 
+Wed	03/04/2019	102505	Mohamad Sukri Bin Zainol Abidin	PERMAN	Dell LCD	NORM 08:00-16:30	07:55	21:19	0.00		0.00		Normal 
+Thu	04/04/2019	102505	Mohamad Sukri Bin Zainol Abidin	PERMAN	Dell LCD	NORM 08:00-16:30	07:50	20:44	12.90	4.23	0.00		Normal  OT 
+Mon	01/04/2019	102516	Sabirah Binti Md Saleh	PERMAN	Dell Mbd	DW07 07:00-19:00	06:59	19:19	12.33		0.00		Normal 
+Tue	02/04/2019	102516	Sabirah Binti Md Saleh	PERMAN	Dell Mbd	DW07 07:00-19:00	06:59	19:12	12.22		0.00		Normal 
+Wed	03/04/2019	102516	Sabirah Binti Md Saleh	PERMAN	Dell Mbd	DW07 07:00-19:00	06:57	19:21	12.40		0.00		Normal 
+Thu	04/04/2019	102516	Sabirah Binti Md Saleh	PERMAN	Dell Mbd	DW07 07:00-19:00	07:06	19:10	12.07		0.00		Normal  Late 
+Mon	01/04/2019	102522	Azean Binti Ghazali	PERMAN	Quality Assurance	DW07 07:00-19:00	06:12	19:03	12.85		0.00		Normal 
+Tue	02/04/2019	102522	Azean Binti Ghazali	PERMAN	Quality Assurance	DW07 07:00-19:00	06:14	19:02	12.80		0.00		Normal 
+Wed	03/04/2019	102522	Azean Binti Ghazali	PERMAN	Quality Assurance	DW07 07:00-19:00	06:19	19:03	12.73		0.00		Normal 
+Thu	04/04/2019	102522	Azean Binti Ghazali	PERMAN	Quality Assurance	DW07 07:00-19:00	06:23	19:01	12.63		0.00		Normal 
+Mon	01/04/2019	102536	Noorsakila Binti Mohd Isa	PERMAN	Dell LCD	DW07 07:00-19:00	06:11	19:04	12.88		0.00		Normal 
+Tue	02/04/2019	102536	Noorsakila Binti Mohd Isa	PERMAN	Dell LCD	DW07 07:00-19:00	06:13	19:01	12.80		0.00		Normal 
+Wed	03/04/2019	102536	Noorsakila Binti Mohd Isa	PERMAN	Dell LCD	DW07 07:00-19:00	06:20	19:04	12.73		0.00		Normal 
+Thu	04/04/2019	102536	Noorsakila Binti Mohd Isa	PERMAN	Dell LCD	DW07 07:00-19:00	06:23	19:00	12.62		0.00		Normal 
+Mon	01/04/2019	102572	Hamidah Bt Che Mei	PERMAN	Receiving	NORM 08:00-16:30	07:48	21:38	0.00		0.00		Normal 
+Tue	02/04/2019	102572	Hamidah Bt Che Mei	PERMAN	Receiving	NORM 08:00-16:30	07:53	21:36	0.00		0.00		Normal 
+Wed	03/04/2019	102572	Hamidah Bt Che Mei	PERMAN	Receiving	NORM 08:00-16:30	07:55	21:36	0.00		0.00		Normal 
+Thu	04/04/2019	102572	Hamidah Bt Che Mei	PERMAN	Receiving	NORM 08:00-16:30	07:37	22:26	9.83		0.00		Normal 
+Mon	01/04/2019	102592	Azlina Binti Alias	PERMAN	Dell LCD	DW07 07:00-19:00						3001 - Medical leave	No Schedule  No info 
+Tue	02/04/2019	102592	Azlina Binti Alias	PERMAN	Dell LCD	DW07 07:00-19:00						3001 - Medical leave	No Schedule  No info 
+Wed	03/04/2019	102592	Azlina Binti Alias	PERMAN	Dell LCD	DW07 07:00-19:00	06:10	19:10	13.00		0.00		Normal 
+Thu	04/04/2019	102592	Azlina Binti Alias	PERMAN	Dell LCD	DW07 07:00-19:00	06:05	19:06	13.02		0.00		Normal 
+Mon	01/04/2019	102606	Suzila Binti Mat	PERMAN	Dell LCD	DW07 07:00-19:00	06:11	19:05	12.90		0.00		Normal 
+Tue	02/04/2019	102606	Suzila Binti Mat	PERMAN	Dell LCD	DW07 07:00-19:00	06:14	19:01	12.78		0.00		Normal 
+Wed	03/04/2019	102606	Suzila Binti Mat	PERMAN	Dell LCD	DW07 07:00-19:00	06:18	19:04	12.77		0.00		Normal 
+Thu	04/04/2019	102606	Suzila Binti Mat	PERMAN	Dell LCD	DW07 07:00-19:00	06:23	19:00	12.62		0.00		Normal 
+Mon	01/04/2019	102609	Norliah Binti Rahman	Resigned
+Tue	02/04/2019	102609	Norliah Binti Rahman	Resigned
+Wed	03/04/2019	102609	Norliah Binti Rahman	Resigned
+Thu	04/04/2019	102609	Norliah Binti Rahman	Resigned
+Mon	01/04/2019	102635	Narita Binti Abdul Latif	PERMAN	Dell Mbd	DW07 07:00-19:00						3000 - Annual Leave	No Schedule  No info 
+Tue	02/04/2019	102635	Narita Binti Abdul Latif	PERMAN	Dell Mbd	DW07 07:00-19:00						3000 - Annual Leave	No Schedule  No info 
+Wed	03/04/2019	102635	Narita Binti Abdul Latif	PERMAN	Dell Mbd	DW07 07:00-19:00	06:19	19:04	12.75		0.00		Normal 
+Thu	04/04/2019	102635	Narita Binti Abdul Latif	PERMAN	Dell Mbd	DW07 07:00-19:00	06:23	19:00	12.62		0.00		Normal 
+Mon	01/04/2019	102649	Rohani Binti Kadir	PERMAN	Dell LCD	DW07 07:00-19:00	06:11	19:06	12.92		0.00		Normal 
+Tue	02/04/2019	102649	Rohani Binti Kadir	PERMAN	Dell LCD	DW07 07:00-19:00	06:04	19:04	13.00		0.00		Normal 
+Wed	03/04/2019	102649	Rohani Binti Kadir	PERMAN	Dell LCD	DW07 07:00-19:00	06:04	19:05	13.02		0.00		Normal 
+Thu	04/04/2019	102649	Rohani Binti Kadir	PERMAN	Dell LCD	DW07 07:00-19:00	06:05	19:04	12.98		0.00		Normal 
+Mon	01/04/2019	102674	Sannura Bt Sulaiman	PERMAN	Dell LCD	NORM 08:00-16:30	07:49	18:45	10.93	2.25	0.00		Normal  OT 
+Tue	02/04/2019	102674	Sannura Bt Sulaiman	PERMAN	Dell LCD	NORM 08:00-16:30	07:58	17:58	10.00		0.00		Normal 
+Wed	03/04/2019	102674	Sannura Bt Sulaiman	PERMAN	Dell LCD	NORM 08:00-16:30	07:59	18:49	10.83	2.32	0.00		Normal  OT 
+Thu	04/04/2019	102674	Sannura Bt Sulaiman	PERMAN	Dell LCD	NORM 08:00-16:30	07:51	18:42	10.85	2.20	0.00		Normal  OT 
+Mon	01/04/2019	102677	Norhayati Binti Razali	PERMAN	Dell Mbd	OFF	06:16	19:06	12.83	12.83	0.00		OFF  OT 
+Tue	02/04/2019	102677	Norhayati Binti Razali	PERMAN	Dell Mbd	OFF	06:15	19:03	12.80	12.80	0.00		OFF  OT 
+Wed	03/04/2019	102677	Norhayati Binti Razali	PERMAN	Dell Mbd	DW07 07:00-19:00	06:18	19:07	12.82		0.00		Normal 
+Thu	04/04/2019	102677	Norhayati Binti Razali	PERMAN	Dell Mbd	DW07 07:00-19:00	06:23	19:03	12.67		0.00		Normal 
+Mon	01/04/2019	102686	Mohd Fares Bin Jamil	PERMAN	HP Form	NORM 08:00-16:30	07:49	17:07	9.30		0.00		Normal 
+Tue	02/04/2019	102686	Mohd Fares Bin Jamil	PERMAN	HP Form	NORM 08:00-16:30	07:52	20:38	12.77	4.13	0.00		Normal  OT 
+Wed	03/04/2019	102686	Mohd Fares Bin Jamil	PERMAN	HP Form	NORM 08:00-16:30	07:51	20:36	12.75	4.10	0.00		Normal  OT 
+Thu	04/04/2019	102686	Mohd Fares Bin Jamil	PERMAN	HP Form	NORM 08:00-16:30	07:51	20:44	12.88	4.23	0.00		Normal  OT 
+Mon	01/04/2019	102721	Siti Zainab Binti Nordin	PERMAN	Dell LCD	OFF							OFF  No info 
+Tue	02/04/2019	102721	Siti Zainab Binti Nordin	PERMAN	Dell LCD	OFF							OFF  No info 
+Wed	03/04/2019	102721	Siti Zainab Binti Nordin	PERMAN	Dell LCD	DW07 07:00-19:00	06:18	19:04	12.77		0.00		Normal 
+Thu	04/04/2019	102721	Siti Zainab Binti Nordin	PERMAN	Dell LCD	DW07 07:00-19:00	06:23	19:03	12.67		0.00		Normal 
+Mon	01/04/2019	102727	Mas Ayuza Binti Mohd Yusof	PERMAN	Quality Assurance	DW07 07:00-19:00	06:11	19:00	12.82		0.00		Normal 
+Tue	02/04/2019	102727	Mas Ayuza Binti Mohd Yusof	PERMAN	Quality Assurance	DW07 07:00-19:00	06:13	19:00	12.78		0.00		Normal 
+Wed	03/04/2019	102727	Mas Ayuza Binti Mohd Yusof	PERMAN	Quality Assurance	DW07 07:00-19:00	06:19	19:00	12.68		0.00		Normal 
+Thu	04/04/2019	102727	Mas Ayuza Binti Mohd Yusof	PERMAN	Quality Assurance	DW07 07:00-19:00	06:23	19:00	12.62		0.00		Normal 
+Mon	01/04/2019	102748	Asmawati Binti Asalludin	PERMAN	Dell LCD	DW07 07:00-19:00	06:11	19:06	12.92		0.00		Normal 
+Tue	02/04/2019	102748	Asmawati Binti Asalludin	PERMAN	Dell LCD	DW07 07:00-19:00	06:14	19:04	12.83		0.00		Normal 
+Wed	03/04/2019	102748	Asmawati Binti Asalludin	PERMAN	Dell LCD	DW07 07:00-19:00	06:18	19:05	12.78		0.00		Normal 
+Thu	04/04/2019	102748	Asmawati Binti Asalludin	PERMAN	Dell LCD	DW07 07:00-19:00	06:23	19:04	12.68		0.00		Normal 
+Mon	01/04/2019	102753	Norrihan Binti Piee	PERMAN	Dell Mbd	DW07 07:00-19:00						3001 - Medical leave	No Schedule  No info 
+Tue	02/04/2019	102753	Norrihan Binti Piee	PERMAN	Dell Mbd	DW07 07:00-19:00	06:57	19:07	12.17		0.00		Normal 
+Wed	03/04/2019	102753	Norrihan Binti Piee	PERMAN	Dell Mbd	DW07 07:00-19:00	06:20	19:08	12.80		0.00		Normal 
+Thu	04/04/2019	102753	Norrihan Binti Piee	PERMAN	Dell Mbd	DW07 07:00-19:00	06:23	19:05	12.70		0.00		Normal 
+Mon	01/04/2019	102765	Normariani Binti Abdul Rahim	PERMAN	Dell Mbd	DW07 07:00-19:00	06:11	19:06	12.92		0.00		Normal 
+Tue	02/04/2019	102765	Normariani Binti Abdul Rahim	PERMAN	Dell Mbd	DW07 07:00-19:00	06:14	19:03	12.82		0.00		Normal 
+Wed	03/04/2019	102765	Normariani Binti Abdul Rahim	PERMAN	Dell Mbd	DW07 07:00-19:00	06:19	19:07	12.80		0.00		Normal 
+Thu	04/04/2019	102765	Normariani Binti Abdul Rahim	PERMAN	Dell Mbd	DW07 07:00-19:00	06:23	19:03	12.67		0.00		Normal 
+Mon	01/04/2019	102787	Norhafiza Binti Mat Zin	PERMAN	Microsoft	NORM 08:00-16:30	07:56	17:46	9.83		0.00		Normal 
+Tue	02/04/2019	102787	Norhafiza Binti Mat Zin	PERMAN	Microsoft	NORM 08:00-16:30	07:59	17:39	9.67		0.00		Normal 
+Wed	03/04/2019	102787	Norhafiza Binti Mat Zin	PERMAN	Microsoft	NORM 08:00-16:30	08:11	18:38	10.45	2.13	0.00		Normal  OT  Late 
+Thu	04/04/2019	102787	Norhafiza Binti Mat Zin	PERMAN	Microsoft	NORM 08:00-16:30	08:12	17:47	9.58		0.00		Normal  Late 
+Mon	01/04/2019	157237	Haslina Binti Hussin	PERMAN	Dell Repair on Deman	DW07 07:00-19:00	05:59	19:03	13.07		0.00		Normal 
+Tue	02/04/2019	157237	Haslina Binti Hussin	PERMAN	Dell Repair on Deman	DW07 07:00-19:00	05:54	19:02	13.13		0.00		Normal 
+Wed	03/04/2019	157237	Haslina Binti Hussin	PERMAN	Dell Repair on Deman	DW07 07:00-19:00	05:53	19:04	13.18		0.00		Normal 
+Thu	04/04/2019	157237	Haslina Binti Hussin	PERMAN	Dell Repair on Deman	DW07 07:00-19:00	05:55	19:01	13.10		0.00		Normal 
+Mon	01/04/2019	160072	Norida Binti Abdullah	PERMAN	stockroom	NORM 08:00-16:30	07:06	18:46	11.67	2.27	0.00		Normal  OT 
+Tue	02/04/2019	160072	Norida Binti Abdullah	PERMAN	stockroom	NORM 08:00-16:30	07:32	18:40	11.13	2.17	0.00		Normal  OT 
+Wed	03/04/2019	160072	Norida Binti Abdullah	PERMAN	stockroom	NORM 08:00-16:30	07:32	18:30	10.97	2.00	0.00		Normal  OT 
+Thu	04/04/2019	160072	Norida Binti Abdullah	PERMAN	stockroom	NORM 08:00-16:30	07:30	18:40	11.17	2.17	0.00		Normal  OT 
+Mon	01/04/2019	165117	Siti Fatimah Binti Mat Hussain	PERMAN	Dell LCD	DW07 07:00-19:00	06:36	19:10	12.57		0.00		Normal 
+Tue	02/04/2019	165117	Siti Fatimah Binti Mat Hussain	PERMAN	Dell LCD	DW07 07:00-19:00	06:39	19:08	12.48		0.00		Normal 
+Wed	03/04/2019	165117	Siti Fatimah Binti Mat Hussain	PERMAN	Dell LCD	DW07 07:00-19:00	06:39	19:12	12.55		0.00		Normal 
+Thu	04/04/2019	165117	Siti Fatimah Binti Mat Hussain	PERMAN	Dell LCD	DW07 07:00-19:00	06:40	19:10	12.50		0.00		Normal 
+Mon	01/04/2019	174996	Ahmad Nazri Bin Mat Isa	Resigned
+Tue	02/04/2019	174996	Ahmad Nazri Bin Mat Isa	Resigned
+Wed	03/04/2019	174996	Ahmad Nazri Bin Mat Isa	Resigned
+Thu	04/04/2019	174996	Ahmad Nazri Bin Mat Isa	Resigned
+Mon	01/04/2019	178994	Muhammad Fazmi Bin Abd Latif	PERMAN	Receiving	NORM 08:00-16:30	08:03	18:35	10.53	2.08	0.00		Normal  OT 
+Tue	02/04/2019	178994	Muhammad Fazmi Bin Abd Latif	PERMAN	Receiving	NORM 08:00-16:30	07:57	18:40	10.72	2.17	0.00		Normal  OT 
+Wed	03/04/2019	178994	Muhammad Fazmi Bin Abd Latif	PERMAN	Receiving	NORM 08:00-16:30	08:06	17:16	9.17		0.00		Normal  Late 
+Thu	04/04/2019	178994	Muhammad Fazmi Bin Abd Latif	PERMAN	Receiving	NORM 08:00-16:30	08:04	17:24	9.33		0.00		Normal 
+Mon	01/04/2019	178996	Mohd Fadil Bin Saat	Resigned
+Tue	02/04/2019	178996	Mohd Fadil Bin Saat	Resigned
+Wed	03/04/2019	178996	Mohd Fadil Bin Saat	Resigned
+Thu	04/04/2019	178996	Mohd Fadil Bin Saat	Resigned
+Mon	01/04/2019	183167	Nur Nazwa Binti Aziz	PERMAN	Dell LCD	OFF	07:04	19:10	12.10	12.10	0.00		OFF  OT 
+Tue	02/04/2019	183167	Nur Nazwa Binti Aziz	PERMAN	Dell LCD	OFF	06:56	19:08	12.20	12.20	0.00		OFF  OT 
+Wed	03/04/2019	183167	Nur Nazwa Binti Aziz	PERMAN	Dell LCD	DW07 07:00-19:00	06:54	19:11	12.28		0.00		Normal 
+Thu	04/04/2019	183167	Nur Nazwa Binti Aziz	PERMAN	Dell LCD	DW07 07:00-19:00	06:56	19:08	12.20		0.00		Normal 
+Mon	01/04/2019	187827	Khairul Azlan Hisham Bin Man	PERMAN	Receiving	NORM 08:00-16:30	07:46	17:06	9.33		0.00		Normal 
+Tue	02/04/2019	187827	Khairul Azlan Hisham Bin Man	PERMAN	Receiving	NORM 08:00-16:30	07:49	18:33	10.73	2.05	0.00		Normal  OT 
+Wed	03/04/2019	187827	Khairul Azlan Hisham Bin Man	PERMAN	Receiving	NORM 08:00-16:30	07:48	17:16	9.47		0.00		Normal 
+Thu	04/04/2019	187827	Khairul Azlan Hisham Bin Man	PERMAN	Receiving	NORM 08:00-16:30	07:56	18:34	10.63	2.07	0.00		Normal  OT 
+Mon	01/04/2019	194585	Nadia Binti Azahar	PERMAN	Microsoft	NORM 08:00-16:30	08:03	21:45	0.00		0.00		Normal 
+Tue	02/04/2019	194585	Nadia Binti Azahar	PERMAN	Microsoft	NORM 08:00-16:30	08:03	21:33	0.00		0.00		Normal 
+Wed	03/04/2019	194585	Nadia Binti Azahar	PERMAN	Microsoft	NORM 08:00-16:30	08:02	21:33	0.00		0.00		Normal 
+Thu	04/04/2019	194585	Nadia Binti Azahar	PERMAN	Microsoft	NORM 08:00-16:30	08:00	20:48	12.80	4.30	0.00		Normal  OT 
+Mon	01/04/2019	195028	Noorul Huda Binti Mohd Arif	PERMAN	Microsoft	NORM 08:00-16:30	07:06	19:42	12.60	3.20	0.00		Normal  OT 
+Tue	02/04/2019	195028	Noorul Huda Binti Mohd Arif	PERMAN	Microsoft	NORM 08:00-16:30	07:14	17:51	10.62		0.00		Normal 
+Wed	03/04/2019	195028	Noorul Huda Binti Mohd Arif	PERMAN	Microsoft	NORM 08:00-16:30	07:01	19:45	12.73	3.25	0.00		Normal  OT 
+Thu	04/04/2019	195028	Noorul Huda Binti Mohd Arif	PERMAN	Microsoft	NORM 08:00-16:30						3001 - Medical leave	No Schedule  No info 
+Mon	01/04/2019	30123	Siti Zubaidah Binti Ahmad	PERMAN	Dell Mbd	OFF	06:12	19:06	12.90	12.90	0.00		OFF  OT 
+Tue	02/04/2019	30123	Siti Zubaidah Binti Ahmad	PERMAN	Dell Mbd	OFF	06:06	19:06	13.00	13.00	0.00		OFF  OT 
+Wed	03/04/2019	30123	Siti Zubaidah Binti Ahmad	PERMAN	Dell Mbd	NORM 08:00-16:30	06:10	19:08	12.97	2.63	0.00		Normal  OT 
+Thu	04/04/2019	30123	Siti Zubaidah Binti Ahmad	PERMAN	Dell Mbd	DW07 07:00-19:00	06:05	19:04	12.98		0.00		Normal 
+Mon	01/04/2019	30576	Nor Intan Binti Che Ali	PERMAN	Quality Assurance	NORM 08:00-16:30	07:52	16:50	8.97		0.00		Normal 
+Tue	02/04/2019	30576	Nor Intan Binti Che Ali	PERMAN	Quality Assurance	NORM 08:00-16:30	07:43	16:55	9.20		0.00		Normal 
+Wed	03/04/2019	30576	Nor Intan Binti Che Ali	PERMAN	Quality Assurance	NORM 08:00-16:30	07:46	16:50	9.07		0.00		Normal 
+Thu	04/04/2019	30576	Nor Intan Binti Che Ali	PERMAN	Quality Assurance	NORM 08:00-16:30	07:50	17:12	9.37		0.00		Normal 
+Mon	01/04/2019	306986	Siti Khadijah Binti Abu Bakar	PERMAN	Microsoft	NORM 08:00-16:30	08:09	20:47	12.63	4.28	0.00		Normal  OT  Late 
+Tue	02/04/2019	306986	Siti Khadijah Binti Abu Bakar	PERMAN	Microsoft	NORM 08:00-16:30	08:08	21:34	0.00		0.00		Normal 
+Wed	03/04/2019	306986	Siti Khadijah Binti Abu Bakar	PERMAN	Microsoft	NORM 08:00-16:30	08:00	21:34	0.00		0.00		Normal 
+Thu	04/04/2019	306986	Siti Khadijah Binti Abu Bakar	PERMAN	Microsoft	NORM 08:00-16:30	08:04	16:45	8.68		0.00		Normal 
+Mon	01/04/2019	32964	Yusliana Binti Md Yusof	Resigned
+Tue	02/04/2019	32964	Yusliana Binti Md Yusof	Resigned
+Wed	03/04/2019	32964	Yusliana Binti Md Yusof	Resigned
+Thu	04/04/2019	32964	Yusliana Binti Md Yusof	Resigned
+Mon	01/04/2019	38550	Roslina Binti Saidin	PERMAN	Dell LCD	OFF	06:58	19:05	12.12	12.12	12.00		OFF  OT 
+Tue	02/04/2019	38550	Roslina Binti Saidin	PERMAN	Dell LCD	OFF							OFF  No info 
+Wed	03/04/2019	38550	Roslina Binti Saidin	PERMAN	Dell LCD	DW07 07:00-19:00	06:11	19:08	12.95		0.00		Normal 
+Thu	04/04/2019	38550	Roslina Binti Saidin	PERMAN	Dell LCD	DW07 07:00-19:00	06:49	19:03	12.23		0.00		Normal 
+Mon	01/04/2019	448268	Ku Azuwan Bin Ku Adenan	PERMAN	Receiving	NORM 08:00-16:30						3000 - Annual Leave	No Schedule  No info 
+Tue	02/04/2019	448268	Ku Azuwan Bin Ku Adenan	PERMAN	Receiving	NORM 08:00-16:30						Absent	No Schedule  No info 
+Wed	03/04/2019	448268	Ku Azuwan Bin Ku Adenan	PERMAN	Receiving	NORM 08:00-16:30						Absent	No Schedule  No info 
+Thu	04/04/2019	448268	Ku Azuwan Bin Ku Adenan	PERMAN	Receiving	NORM 08:00-16:30	09:27	21:45	0.00		0.00		Normal 
+Mon	01/04/2019	7008772	Razita Binti Sidek	PERMAN	Quality Assurance	DW07 07:00-19:00	06:11	19:05	12.90		0.00		Normal 
+Tue	02/04/2019	7008772	Razita Binti Sidek	PERMAN	Quality Assurance	DW07 07:00-19:00	06:13	19:04	12.85		0.00		Normal 
+Wed	03/04/2019	7008772	Razita Binti Sidek	PERMAN	Quality Assurance	DW07 07:00-19:00	06:19	19:04	12.75		0.00		Normal 
+Thu	04/04/2019	7008772	Razita Binti Sidek	PERMAN	Quality Assurance	DW07 07:00-19:00	06:23	19:03	12.67		0.00		Normal 
+Mon	01/04/2019	7009299	Nurida Binti Abdul Halim	PERMAN	Dell LCD	DW07 07:00-19:00	06:12	19:04	12.87		0.00		Normal 
+Tue	02/04/2019	7009299	Nurida Binti Abdul Halim	PERMAN	Dell LCD	DW07 07:00-19:00	06:06	19:05	12.98		0.00		Normal 
+Wed	03/04/2019	7009299	Nurida Binti Abdul Halim	PERMAN	Dell LCD	DW07 07:00-19:00	06:10	19:05	12.92		0.00		Normal 
+Thu	04/04/2019	7009299	Nurida Binti Abdul Halim	PERMAN	Dell LCD	DW07 07:00-19:00	06:05	19:09	13.07		0.00		Normal 
+Mon	01/04/2019	7010160	Siti Nor Azmani Binti Idris	PERMAN	Dell Repair on Deman	DW07 07:00-19:00	06:12	19:05	12.88		0.00		Normal 
+Tue	02/04/2019	7010160	Siti Nor Azmani Binti Idris	PERMAN	Dell Repair on Deman	DW07 07:00-19:00	06:05	19:04	12.98		0.00		Normal 
+Wed	03/04/2019	7010160	Siti Nor Azmani Binti Idris	PERMAN	Dell Repair on Deman	DW07 07:00-19:00	06:05	19:07	13.03		0.00		Normal 
+Thu	04/04/2019	7010160	Siti Nor Azmani Binti Idris	PERMAN	Dell Repair on Deman	DW07 07:00-19:00	06:06	19:03	12.95		0.00		Normal 
+Mon	01/04/2019	7010445	Nining SetiaWaty	PERMAN	Dell Mbd	DW07 07:00-19:00	06:12	19:08	12.93		0.00		Normal 
+Tue	02/04/2019	7010445	Nining SetiaWaty	PERMAN	Dell Mbd	DW07 07:00-19:00	06:07	19:08	13.02		0.00		Normal 
+Wed	03/04/2019	7010445	Nining SetiaWaty	PERMAN	Dell Mbd	DW07 07:00-19:00	06:11	19:09	12.97		0.00		Normal 
+Thu	04/04/2019	7010445	Nining SetiaWaty	PERMAN	Dell Mbd	DW07 07:00-19:00	06:05	19:06	13.02		0.00		Normal 
+Mon	01/04/2019	765257	Norhuda Binti Mustaffa	PERMAN	Dell Mbd	DW07 07:00-19:00	06:16	19:04	12.80		0.00		Normal 
+Tue	02/04/2019	765257	Norhuda Binti Mustaffa	PERMAN	Dell Mbd	DW07 07:00-19:00	06:15	19:01	12.77		0.00		Normal 
+Wed	03/04/2019	765257	Norhuda Binti Mustaffa	PERMAN	Dell Mbd	DW07 07:00-19:00	06:18	19:04	12.77		0.00		Normal 
+Thu	04/04/2019	765257	Norhuda Binti Mustaffa	PERMAN	Dell Mbd	DW07 07:00-19:00	06:23	19:00	12.62		0.00		Normal 
+Mon	01/04/2019	778304	Noorliah Binti Matin @ Arshad	PERMAN	Quality Assurance	DW07 07:00-19:00	06:11	19:08	12.95		0.00		Normal 
+Tue	02/04/2019	778304	Noorliah Binti Matin @ Arshad	PERMAN	Quality Assurance	DW07 07:00-19:00						5000 - Marriage Leave	No Schedule  No info 
+Wed	03/04/2019	778304	Noorliah Binti Matin @ Arshad	PERMAN	Quality Assurance	DW07 07:00-19:00						5000 - Marriage Leave	No Schedule  No info 
+Thu	04/04/2019	778304	Noorliah Binti Matin @ Arshad	PERMAN	Quality Assurance	DW07 07:00-19:00						5000 - Marriage Leave	No Schedule  No info 
+Mon	01/04/2019	8017705	Gerald Reluya Del Rosario	PERMAN	Microsoft	NORM 08:00-16:30	07:56	16:34	8.63		0.00		Normal 
+Tue	02/04/2019	8017705	Gerald Reluya Del Rosario	PERMAN	Microsoft	NORM 08:00-16:30	07:54	16:55	9.02		0.00		Normal 
+Wed	03/04/2019	8017705	Gerald Reluya Del Rosario	PERMAN	Microsoft	NORM 08:00-16:30	08:08	16:36	8.47		0.00		Normal  Late 
+Thu	04/04/2019	8017705	Gerald Reluya Del Rosario	PERMAN	Microsoft	NORM 08:00-16:30	08:00	16:54	8.90		0.00		Normal 
+Mon	01/04/2019	8027245	Mohamad Baihaki Bin Idris	PERMAN	Microsoft	NORM 08:00-16:30						3000 - Annual Leave	No Schedule  No info 
+Tue	02/04/2019	8027245	Mohamad Baihaki Bin Idris	PERMAN	Microsoft	NORM 08:00-16:30	07:35	20:48	13.22	4.30	0.00		Normal  OT 
+Wed	03/04/2019	8027245	Mohamad Baihaki Bin Idris	PERMAN	Microsoft	NORM 08:00-16:30	08:00	20:48	12.80	4.30	0.00		Normal  OT 
+Thu	04/04/2019	8027245	Mohamad Baihaki Bin Idris	PERMAN	Microsoft	NORM 08:00-16:30	07:41	20:48	13.12	4.30	0.00		Normal  OT 
+Mon	01/04/2019	8032228	Badrul Hisyam Bin Kasim	PERMAN	Receiving	NORM 08:00-16:30	08:06	16:47	8.68		0.00		Normal  Late 
+Tue	02/04/2019	8032228	Badrul Hisyam Bin Kasim	PERMAN	Receiving	NORM 08:00-16:30	12:44	17:10	4.43		0.00	3000 - Annual Leave - 0.50 Day 0.5 Absent	0.5 Day Work Late 
+Wed	03/04/2019	8032228	Badrul Hisyam Bin Kasim	PERMAN	Receiving	NORM 08:00-16:30	08:32	19:34	11.03	3.07	0.00		Normal  OT  Late 
+Thu	04/04/2019	8032228	Badrul Hisyam Bin Kasim	PERMAN	Receiving	NORM 08:00-16:30	08:10	17:05	8.92		0.00		Normal  Late 
+Mon	01/04/2019	8043984	Mohd Firdauz Bin Bahudin	PERMAN	stockroom	OFF	10:56	19:22	8.43	8.43	0.00		OFF  OT 
+Tue	02/04/2019	8043984	Mohd Firdauz Bin Bahudin	PERMAN	stockroom	OFF	10:48	19:15	8.45	8.45	0.00		OFF  OT 
+Wed	03/04/2019	8043984	Mohd Firdauz Bin Bahudin	PERMAN	stockroom	DW07 07:00-19:00	07:03	19:10	12.12		0.00		Normal 
+Thu	04/04/2019	8043984	Mohd Firdauz Bin Bahudin	PERMAN	stockroom	DW07 07:00-19:00	07:43	19:17	11.57		0.00		Normal  Late 
+Mon	01/04/2019	888104	Siti Nor Artini Binti Idris	PERMAN	Dell Mbd	OFF	06:11	19:05	12.90	12.90	0.00		OFF  OT 
+Tue	02/04/2019	888104	Siti Nor Artini Binti Idris	PERMAN	Dell Mbd	OFF	06:04	19:03	12.98	12.98	0.00		OFF  OT 
+Wed	03/04/2019	888104	Siti Nor Artini Binti Idris	PERMAN	Dell Mbd	DW07 07:00-19:00	06:04	19:04	13.00		0.00		Normal 
+Thu	04/04/2019	888104	Siti Nor Artini Binti Idris	PERMAN	Dell Mbd	DW07 07:00-19:00	06:05	19:03	12.97		0.00		Normal 
+Mon	01/04/2019	89188	Julia Binti Arasat @ Arshad	PERMAN	Dell LCD	DW07 07:00-19:00	06:27	19:01	12.57		0.00		Normal 
+Tue	02/04/2019	89188	Julia Binti Arasat @ Arshad	PERMAN	Dell LCD	DW07 07:00-19:00	06:29	19:01	12.53		0.00		Normal 
+Wed	03/04/2019	89188	Julia Binti Arasat @ Arshad	PERMAN	Dell LCD	DW07 07:00-19:00	06:41	19:01	12.33		0.00		Normal 
+Thu	04/04/2019	89188	Julia Binti Arasat @ Arshad	PERMAN	Dell LCD	DW07 07:00-19:00						9001 - Unpaid Leave	No Schedule  No info 
+Mon	01/04/2019	CN0049	Wam Abd Malik Bin Wan Romli	SHIFT	Facility	DW08 19:00-07:00	17:59	08:05	13.53		0.00		Normal 
+Tue	02/04/2019	CN0049	Wam Abd Malik Bin Wan Romli	SHIFT	Facility	DW08 19:00-07:00	18:10	08:16	14.10		0.00		Normal 
+Wed	03/04/2019	CN0049	Wam Abd Malik Bin Wan Romli	SHIFT	Facility	DW07 07:00-19:00						Absent	No Schedule  No info 
+Thu	04/04/2019	CN0049	Wam Abd Malik Bin Wan Romli	SHIFT	Facility	DW07 07:00-19:00						Absent	No Schedule  No info 
+Mon	01/04/2019	CN0066	Choong Poh Siew	Resigned
+Tue	02/04/2019	CN0066	Choong Poh Siew	Resigned
+Wed	03/04/2019	CN0066	Choong Poh Siew	Resigned
+Thu	04/04/2019	CN0066	Choong Poh Siew	Resigned
+Mon	01/04/2019	CN0095	Md Tandu	FORG	Facility	DW07 07:00-19:00	06:22	19:00	12.63		0.00		Normal 
+Tue	02/04/2019	CN0095	Md Tandu	FORG	Facility	DW07 07:00-19:00	06:41	19:00	12.32		0.00		Normal 
+Wed	03/04/2019	CN0095	Md Tandu	FORG	Facility	DW07 07:00-19:00	06:31	19:00	12.48		0.00		Normal 
+Thu	04/04/2019	CN0095	Md Tandu	FORG	Facility	DW07 07:00-19:00	06:29	19:00	12.52		0.00		Normal 
+Mon	01/04/2019	CN0107	Mohammad Anech	FORG	Facility	DW07 07:00-19:00	06:24	19:00	12.60		0.00		Normal 
+Tue	02/04/2019	CN0107	Mohammad Anech	FORG	Facility	DW07 07:00-19:00	06:44	19:00	12.27		0.00		Normal 
+Wed	03/04/2019	CN0107	Mohammad Anech	FORG	Facility	DW07 07:00-19:00	06:31	19:00	12.48		0.00		Normal 
+Thu	04/04/2019	CN0107	Mohammad Anech	FORG	Facility	DW07 07:00-19:00	06:31	19:00	12.48		0.00		Normal 
+Mon	01/04/2019	CN0118	Cici Dwi	FORG	Facility	DW07 07:00-19:00	06:23	19:00	12.62		0.00		Normal 
+Tue	02/04/2019	CN0118	Cici Dwi	FORG	Facility	DW07 07:00-19:00	06:20	18:59	12.65		0.00		Normal 
+Wed	03/04/2019	CN0118	Cici Dwi	FORG	Facility	DW07 07:00-19:00	06:23	19:00	12.62		0.00		Normal 
+Thu	04/04/2019	CN0118	Cici Dwi	FORG	Facility	DW07 07:00-19:00	06:22	19:00	12.63		0.00		Normal 
+Mon	01/04/2019	CN0124	Hossain Md Raju	FORG	Facility	DW07 07:00-19:00	06:23	19:00	12.62		0.00		Normal 
+Tue	02/04/2019	CN0124	Hossain Md Raju	FORG	Facility	DW07 07:00-19:00	06:44	19:00	12.27		0.00		Normal 
+Wed	03/04/2019	CN0124	Hossain Md Raju	FORG	Facility	DW07 07:00-19:00	06:31	19:00	12.48		0.00		Normal 
+Thu	04/04/2019	CN0124	Hossain Md Raju	FORG	Facility	DW07 07:00-19:00	06:31	19:00	12.48		0.00		Normal 
+Mon	01/04/2019	CN0125	Sheikh Nazmul	FORG	Facility	DW07 07:00-19:00	06:23	19:00	12.62		0.00		Normal 
+Tue	02/04/2019	CN0125	Sheikh Nazmul	FORG	Facility	DW07 07:00-19:00	06:41	19:00	12.32		0.00		Normal 
+Wed	03/04/2019	CN0125	Sheikh Nazmul	FORG	Facility	DW07 07:00-19:00	06:31	19:00	12.48		0.00		Normal 
+Thu	04/04/2019	CN0125	Sheikh Nazmul	FORG	Facility	DW07 07:00-19:00	06:29	19:00	12.52		0.00		Normal 
+Mon	01/04/2019	CN0126	Muhamad Noor Ikhwan Bin Abdul Razak	SHIFT	Facility	OFF	07:58	17:03	9.08		0.00		OFF 
+Tue	02/04/2019	CN0126	Muhamad Noor Ikhwan Bin Abdul Razak	SHIFT	Facility	NORM 08:00-16:30	07:59	17:04	9.08		0.00		Normal 
+Wed	03/04/2019	CN0126	Muhamad Noor Ikhwan Bin Abdul Razak	SHIFT	Facility	NORM 08:00-16:30	07:58	17:01	9.05		0.00		Normal 
+Thu	04/04/2019	CN0126	Muhamad Noor Ikhwan Bin Abdul Razak	SHIFT	Facility	NORM 08:00-16:30	07:56	17:11	9.25		0.00		Normal 
+Mon	01/04/2019	CN0127	Shamshalina Binti Samsudin	SHIFT	Facility	OFF	06:26	19:00	12.57		0.00		OFF 
+Tue	02/04/2019	CN0127	Shamshalina Binti Samsudin	SHIFT	Facility	NORM 08:00-16:30	06:30	19:00	12.50		0.00		Normal 
+Wed	03/04/2019	CN0127	Shamshalina Binti Samsudin	SHIFT	Facility	NORM 08:00-16:30	06:26	19:00	12.57		0.00		Normal 
+Thu	04/04/2019	CN0127	Shamshalina Binti Samsudin	SHIFT	Facility	NORM 08:00-16:30	06:30	19:00	12.50		0.00		Normal 
+Mon	01/04/2019	CW10456	Jamir  Carreon Comendador	FORG	Dell Mbd	DW08 19:00-07:00	18:38	07:07	12.48		0.00		Normal 
+Tue	02/04/2019	CW10456	Jamir  Carreon Comendador	FORG	Dell Mbd	DW08 19:00-07:00	18:24	07:07	12.68		0.00		Normal 
+Wed	03/04/2019	CW10456	Jamir  Carreon Comendador	FORG	Dell Mbd	DW08 19:00-07:00	18:52	07:05	12.22		0.00		Normal 
+Thu	04/04/2019	CW10456	Jamir  Carreon Comendador	FORG	Dell Mbd	DW08 19:00-07:00	18:17	07:05	12.82		0.00		Normal 
+Mon	01/04/2019	CW11473	Nur Safitri	FORG	Dell Mbd	DW07 07:00-19:00	06:15	19:06	12.85		0.00		Normal 
+Tue	02/04/2019	CW11473	Nur Safitri	FORG	Dell Mbd	DW07 07:00-19:00	06:35	19:02	12.45		0.00		Normal 
+Wed	03/04/2019	CW11473	Nur Safitri	FORG	Dell Mbd	DW07 07:00-19:00	06:29	19:03	12.57		0.00		Normal 
+Thu	04/04/2019	CW11473	Nur Safitri	FORG	Dell Mbd	DW07 07:00-19:00	06:36	19:01	12.42		0.00		Normal 
+Mon	01/04/2019	CW11474	Nike Haryanti	FORG	Quality Assurance	DW07 07:00-19:00	06:38	19:03	12.42		0.00		Normal 
+Tue	02/04/2019	CW11474	Nike Haryanti	FORG	Quality Assurance	DW07 07:00-19:00	06:21	19:01	12.67		0.00		Normal 
+Wed	03/04/2019	CW11474	Nike Haryanti	FORG	Quality Assurance	DW07 07:00-19:00	06:21	19:02	12.68		0.00		Normal 
+Thu	04/04/2019	CW11474	Nike Haryanti	FORG	Quality Assurance	DW07 07:00-19:00	06:26	19:00	12.57		0.00		Normal 
+Mon	01/04/2019	CW11475	Yuna Mastika Damanik	FORG	Dell LCD	DW07 07:00-19:00	06:15	19:03	12.80		0.00		Normal 
+Tue	02/04/2019	CW11475	Yuna Mastika Damanik	FORG	Dell LCD	DW07 07:00-19:00	06:35	19:06	12.52		0.00		Normal 
+Wed	03/04/2019	CW11475	Yuna Mastika Damanik	FORG	Dell LCD	DW07 07:00-19:00	06:29	19:04	12.58		0.00		Normal 
+Thu	04/04/2019	CW11475	Yuna Mastika Damanik	FORG	Dell LCD	DW07 07:00-19:00	06:36	19:01	12.42		0.00		Normal 
+Mon	01/04/2019	CW11476	Maria Mahdalena Situmorang	FORG	Quality Assurance	DW07 07:00-19:00	06:42	19:02	12.33		0.00		Normal 
+Tue	02/04/2019	CW11476	Maria Mahdalena Situmorang	FORG	Quality Assurance	DW07 07:00-19:00	06:21	19:03	12.70		0.00		Normal 
+Wed	03/04/2019	CW11476	Maria Mahdalena Situmorang	FORG	Quality Assurance	DW07 07:00-19:00	06:21	19:02	12.68		0.00		Normal 
+Thu	04/04/2019	CW11476	Maria Mahdalena Situmorang	FORG	Quality Assurance	DW07 07:00-19:00	06:26	19:01	12.58		0.00		Normal 
+Mon	01/04/2019	CW11477	Rosita Nahampun	FORG	Dell LCD	DW08 19:00-07:00	18:38	07:06	12.47		0.00		Normal 
+Tue	02/04/2019	CW11477	Rosita Nahampun	FORG	Dell LCD	DW08 19:00-07:00	18:24	07:06	12.65		0.00		Normal 
+Wed	03/04/2019	CW11477	Rosita Nahampun	FORG	Dell LCD	DW08 19:00-07:00	18:52	07:03	12.18		0.00		Normal 
+Thu	04/04/2019	CW11477	Rosita Nahampun	FORG	Dell LCD	DW08 19:00-07:00	18:17	07:03	12.78		0.00		Normal 
+Mon	01/04/2019	CW11478	Julia Fitri Yanti Pangaribuan	FORG	Dell LCD	DW07 07:00-19:00	06:14	19:07	12.88		0.00		Normal 
+Tue	02/04/2019	CW11478	Julia Fitri Yanti Pangaribuan	FORG	Dell LCD	DW07 07:00-19:00	06:34	19:03	12.48		0.00		Normal 
+Wed	03/04/2019	CW11478	Julia Fitri Yanti Pangaribuan	FORG	Dell LCD	DW07 07:00-19:00	06:28	19:06	12.63		0.00		Normal 
+Thu	04/04/2019	CW11478	Julia Fitri Yanti Pangaribuan	FORG	Dell LCD	DW07 07:00-19:00	06:35	19:02	12.45		0.00		Normal 
+Mon	01/04/2019	CW11479	Rina Sitorus	FORG	Dell Mbd	DW07 07:00-19:00	06:38	19:03	12.42		0.00		Normal 
+Tue	02/04/2019	CW11479	Rina Sitorus	FORG	Dell Mbd	DW07 07:00-19:00	06:21	19:03	12.70		0.00		Normal 
+Wed	03/04/2019	CW11479	Rina Sitorus	FORG	Dell Mbd	DW07 07:00-19:00	06:22	19:08	12.77		0.00		Normal 
+Thu	04/04/2019	CW11479	Rina Sitorus	FORG	Dell Mbd	DW07 07:00-19:00	06:27	19:04	12.62		0.00		Normal 
+Mon	01/04/2019	CW11480	Elprida Simbolon	FORG	Dell LCD	DW07 07:00-19:00	06:38	19:03	12.42		0.00		Normal 
+Tue	02/04/2019	CW11480	Elprida Simbolon	FORG	Dell LCD	DW07 07:00-19:00	06:22	19:06	12.73		0.00		Normal 
+Wed	03/04/2019	CW11480	Elprida Simbolon	FORG	Dell LCD	DW07 07:00-19:00	06:21	19:04	12.72		0.00		Normal 
+Thu	04/04/2019	CW11480	Elprida Simbolon	FORG	Dell LCD	DW07 07:00-19:00	06:26	19:06	12.67		0.00		Normal 
+Mon	01/04/2019	CW11481	Marintan Sianipar	FORG	Dell LCD	DW07 07:00-19:00	06:14	19:04	12.83		0.00		Normal 
+Tue	02/04/2019	CW11481	Marintan Sianipar	FORG	Dell LCD	DW07 07:00-19:00	06:34	19:03	12.48		0.00		Normal 
+Wed	03/04/2019	CW11481	Marintan Sianipar	FORG	Dell LCD	DW07 07:00-19:00	06:28	19:05	12.62		0.00		Normal 
+Thu	04/04/2019	CW11481	Marintan Sianipar	FORG	Dell LCD	DW07 07:00-19:00	06:35	19:03	12.47		0.00		Normal 
+Mon	01/04/2019	CW11482	Desy Rahayu	FORG	Dell Mbd	DW07 07:00-19:00	06:15	19:07	12.87		0.00		Normal 
+Tue	02/04/2019	CW11482	Desy Rahayu	FORG	Dell Mbd	DW07 07:00-19:00	06:35	19:06	12.52		0.00		Normal 
+Wed	03/04/2019	CW11482	Desy Rahayu	FORG	Dell Mbd	DW07 07:00-19:00	06:29	19:06	12.62		0.00		Normal 
+Thu	04/04/2019	CW11482	Desy Rahayu	FORG	Dell Mbd	DW07 07:00-19:00	06:36	19:05	12.48		0.00		Normal 
+Mon	01/04/2019	CW11483	Lusi Mariance Simanjuntak	FORG	Dell LCD	DW07 07:00-19:00	06:39	19:07	12.47		0.00		Normal 
+Tue	02/04/2019	CW11483	Lusi Mariance Simanjuntak	FORG	Dell LCD	DW07 07:00-19:00	06:23	19:06	12.72		0.00		Normal 
+Wed	03/04/2019	CW11483	Lusi Mariance Simanjuntak	FORG	Dell LCD	DW07 07:00-19:00	06:22	19:08	12.77		0.00		Normal 
+Thu	04/04/2019	CW11483	Lusi Mariance Simanjuntak	FORG	Dell LCD	DW07 07:00-19:00	06:27	19:05	12.63		0.00		Normal 
+Mon	01/04/2019	CW11484	Erika Simanjuntak	FORG	Dell Mbd	DW07 07:00-19:00	06:38	19:05	12.45		0.00		Normal 
+Tue	02/04/2019	CW11484	Erika Simanjuntak	FORG	Dell Mbd	DW07 07:00-19:00	06:21	19:03	12.70		0.00		Normal 
+Wed	03/04/2019	CW11484	Erika Simanjuntak	FORG	Dell Mbd	DW07 07:00-19:00	06:21	19:05	12.73		0.00		Normal 
+Thu	04/04/2019	CW11484	Erika Simanjuntak	FORG	Dell Mbd	DW07 07:00-19:00	06:26	19:03	12.62		0.00		Normal 
+Mon	01/04/2019	CW11485	Ade Rafika Suri	FORG	Dell Mbd	DW07 07:00-19:00	06:38	19:07	12.48		0.00		Normal 
+Tue	02/04/2019	CW11485	Ade Rafika Suri	FORG	Dell Mbd	DW07 07:00-19:00	06:21	19:07	12.77		0.00		Normal 
+Wed	03/04/2019	CW11485	Ade Rafika Suri	FORG	Dell Mbd	DW07 07:00-19:00	06:22	19:08	12.77		0.00		Normal 
+Thu	04/04/2019	CW11485	Ade Rafika Suri	FORG	Dell Mbd	DW07 07:00-19:00	06:27	19:03	12.60		0.00		Normal 
+Mon	01/04/2019	CW11486	Santa Maria Nababan	FORG	Dell LCD	DW07 07:00-19:00	06:38	19:06	12.47		0.00		Normal 
+Tue	02/04/2019	CW11486	Santa Maria Nababan	FORG	Dell LCD	DW07 07:00-19:00	06:21	19:03	12.70		0.00		Normal 
+Wed	03/04/2019	CW11486	Santa Maria Nababan	FORG	Dell LCD	DW07 07:00-19:00	06:21	19:09	12.80		0.00		Normal 
+Thu	04/04/2019	CW11486	Santa Maria Nababan	FORG	Dell LCD	DW07 07:00-19:00	06:26	19:06	12.67		0.00		Normal 
+Mon	01/04/2019	CW11487	Romasiana Tamba	FORG	Quality Assurance	DW07 07:00-19:00	06:38	19:01	12.38		0.00		Normal 
+Tue	02/04/2019	CW11487	Romasiana Tamba	FORG	Quality Assurance	DW07 07:00-19:00	06:21	19:01	12.67		0.00		Normal 
+Wed	03/04/2019	CW11487	Romasiana Tamba	FORG	Quality Assurance	DW07 07:00-19:00	06:22	19:02	12.67		0.00		Normal 
+Thu	04/04/2019	CW11487	Romasiana Tamba	FORG	Quality Assurance	DW07 07:00-19:00	06:26	19:00	12.57		0.00		Normal 
+Mon	01/04/2019	CW11526	Neizer Saratan Marcelo	FORG	Dell Mbd	DW07 07:00-19:00	06:42	19:09	12.45		0.00		Normal 
+Tue	02/04/2019	CW11526	Neizer Saratan Marcelo	FORG	Dell Mbd	DW07 07:00-19:00	06:48	19:08	12.33		0.00		Normal 
+Wed	03/04/2019	CW11526	Neizer Saratan Marcelo	FORG	Dell Mbd	DW07 07:00-19:00	06:39	19:11	12.53		0.00		Normal 
+Thu	04/04/2019	CW11526	Neizer Saratan Marcelo	FORG	Dell Mbd	DW07 07:00-19:00	06:39	19:08	12.48		0.00		Normal 
+Mon	01/04/2019	CW11728	Traiska Silalahi	FORG	Dell Mbd	DW07 07:00-19:00	06:14	19:04	12.83		0.00		Normal 
+Tue	02/04/2019	CW11728	Traiska Silalahi	FORG	Dell Mbd	DW07 07:00-19:00	06:35	19:05	12.50		0.00		Normal 
+Wed	03/04/2019	CW11728	Traiska Silalahi	FORG	Dell Mbd	DW07 07:00-19:00	06:29	19:08	12.65		0.00		Normal 
+Thu	04/04/2019	CW11728	Traiska Silalahi	FORG	Dell Mbd	DW07 07:00-19:00	06:36	19:03	12.45		0.00		Normal 
+Mon	01/04/2019	CW11729	Veronika Lesiari Simanjuntak	FORG	Dell Mbd	DW08 19:00-07:00	18:38	07:03	12.42		0.00		Normal 
+Tue	02/04/2019	CW11729	Veronika Lesiari Simanjuntak	FORG	Dell Mbd	DW08 19:00-07:00	18:24	07:03	12.65		0.00		Normal 
+Wed	03/04/2019	CW11729	Veronika Lesiari Simanjuntak	FORG	Dell Mbd	DW08 19:00-07:00	18:52	07:03	12.18		0.00		Normal 
+Thu	04/04/2019	CW11729	Veronika Lesiari Simanjuntak	FORG	Dell Mbd	DW08 19:00-07:00	18:16	07:03	12.78		0.00		Normal 
+Mon	01/04/2019	CW11730	Juita Tarihoran	FORG	Dell Mbd	DW07 07:00-19:00	06:14	19:05	12.85		0.00		Normal 
+Tue	02/04/2019	CW11730	Juita Tarihoran	FORG	Dell Mbd	DW07 07:00-19:00	06:35	19:02	12.45		0.00		Normal 
+Wed	03/04/2019	CW11730	Juita Tarihoran	FORG	Dell Mbd	DW07 07:00-19:00	06:29	19:04	12.58		0.00		Normal 
+Thu	04/04/2019	CW11730	Juita Tarihoran	FORG	Dell Mbd	DW07 07:00-19:00	06:35	19:01	12.43		0.00		Normal 
+Mon	01/04/2019	CW11731	Rosdelima Marbun	FORG	Dell LCD	DW07 07:00-19:00	06:15	19:08	12.88		0.00		Normal 
+Tue	02/04/2019	CW11731	Rosdelima Marbun	FORG	Dell LCD	DW07 07:00-19:00	06:34	19:06	12.53		0.00		Normal 
+Wed	03/04/2019	CW11731	Rosdelima Marbun	FORG	Dell LCD	DW07 07:00-19:00	06:28	19:08	12.67		0.00		Normal 
+Thu	04/04/2019	CW11731	Rosdelima Marbun	FORG	Dell LCD	DW07 07:00-19:00	06:35	19:05	12.50		0.00		Normal 
+Mon	01/04/2019	CW11732	Nani Agustini Manullang	FORG	Dell LCD	DW07 07:00-19:00	06:14	19:05	12.85		0.00		Normal 
+Tue	02/04/2019	CW11732	Nani Agustini Manullang	FORG	Dell LCD	DW07 07:00-19:00	06:34	19:02	12.47		0.00		Normal 
+Wed	03/04/2019	CW11732	Nani Agustini Manullang	FORG	Dell LCD	DW07 07:00-19:00	06:28	19:04	12.60		0.00		Normal 
+Thu	04/04/2019	CW11732	Nani Agustini Manullang	FORG	Dell LCD	DW07 07:00-19:00	06:35	19:05	12.50		0.00		Normal 
+Mon	01/04/2019	CW11816	Marinawati Panjaitan	FORG	Dell LCD	DW07 07:00-19:00	06:14	19:08	12.90		0.00		Normal 
+Tue	02/04/2019	CW11816	Marinawati Panjaitan	FORG	Dell LCD	DW07 07:00-19:00	06:35	19:07	12.53		0.00		Normal 
+Wed	03/04/2019	CW11816	Marinawati Panjaitan	FORG	Dell LCD	DW07 07:00-19:00	06:28	19:09	12.68		0.00		Normal 
+Thu	04/04/2019	CW11816	Marinawati Panjaitan	FORG	Dell LCD	DW07 07:00-19:00	06:37	19:06	12.48		0.00		Normal 
+Mon	01/04/2019	CW11817	Cristina Tampubolon	FORG	Dell Mbd	DW07 07:00-19:00	06:14	19:06	12.87		0.00		Normal 
+Tue	02/04/2019	CW11817	Cristina Tampubolon	FORG	Dell Mbd	DW07 07:00-19:00	06:34	19:05	12.52		0.00		Normal 
+Wed	03/04/2019	CW11817	Cristina Tampubolon	FORG	Dell Mbd	DW07 07:00-19:00	06:29	19:05	12.60		0.00		Normal 
+Thu	04/04/2019	CW11817	Cristina Tampubolon	FORG	Dell Mbd	DW07 07:00-19:00	06:35	19:03	12.47		0.00		Normal 
+Mon	01/04/2019	CW11818	Renni Tampubolon	FORG	Dell LCD	DW07 07:00-19:00	06:14	19:05	12.85		0.00		Normal 
+Tue	02/04/2019	CW11818	Renni Tampubolon	FORG	Dell LCD	DW07 07:00-19:00	06:34	19:05	12.52		0.00		Normal 
+Wed	03/04/2019	CW11818	Renni Tampubolon	FORG	Dell LCD	DW07 07:00-19:00	06:28	19:06	12.63		0.00		Normal 
+Thu	04/04/2019	CW11818	Renni Tampubolon	FORG	Dell LCD	DW07 07:00-19:00	06:35	19:03	12.47		0.00		Normal 
+Mon	01/04/2019	CW11819	Afzahanim Binti Azhar	Resigned
+Tue	02/04/2019	CW11819	Afzahanim Binti Azhar	Resigned
+Wed	03/04/2019	CW11819	Afzahanim Binti Azhar	Resigned
+Thu	04/04/2019	CW11819	Afzahanim Binti Azhar	Resigned
+Mon	01/04/2019	CW11850	Siti Suarni	FORG	Dell Mbd	DW07 07:00-19:00	06:38	19:04	12.43		0.00		Normal 
+Tue	02/04/2019	CW11850	Siti Suarni	FORG	Dell Mbd	DW07 07:00-19:00	06:22	19:05	12.72		0.00		Normal 
+Wed	03/04/2019	CW11850	Siti Suarni	FORG	Dell Mbd	DW07 07:00-19:00	06:22	19:08	12.77		0.00		Normal 
+Thu	04/04/2019	CW11850	Siti Suarni	FORG	Dell Mbd	DW07 07:00-19:00	06:27	19:02	12.58		0.00		Normal 
+Mon	01/04/2019	CW11851	Delima Nainggolan	FORG	Dell Mbd	DW07 07:00-19:00						Absent	No Schedule  No info 
+Tue	02/04/2019	CW11851	Delima Nainggolan	FORG	Dell Mbd	DW07 07:00-19:00	06:22	19:02	12.67		0.00		Normal 
+Wed	03/04/2019	CW11851	Delima Nainggolan	FORG	Dell Mbd	DW07 07:00-19:00	06:22	19:04	12.70		0.00		Normal 
+Thu	04/04/2019	CW11851	Delima Nainggolan	FORG	Dell Mbd	DW07 07:00-19:00	06:27	19:01	12.57		0.00		Normal 
+Mon	01/04/2019	CW11852	Lenni Mariati Simbolon	FORG	Dell Mbd	DW07 07:00-19:00	06:39	19:04	12.42		0.00		Normal 
+Tue	02/04/2019	CW11852	Lenni Mariati Simbolon	FORG	Dell Mbd	DW07 07:00-19:00	06:22	19:04	12.70		0.00		Normal 
+Wed	03/04/2019	CW11852	Lenni Mariati Simbolon	FORG	Dell Mbd	DW07 07:00-19:00	06:22	19:06	12.73		0.00		Normal 
+Thu	04/04/2019	CW11852	Lenni Mariati Simbolon	FORG	Dell Mbd	DW07 07:00-19:00	06:26	19:02	12.60		0.00		Normal 
+Mon	01/04/2019	CW11853	Anita	FORG	Dell LCD	DW07 07:00-19:00	06:38	19:06	12.47		0.00		Normal 
+Tue	02/04/2019	CW11853	Anita	FORG	Dell LCD	DW07 07:00-19:00	06:21	19:06	12.75		0.00		Normal 
+Wed	03/04/2019	CW11853	Anita	FORG	Dell LCD	DW07 07:00-19:00	06:21	19:04	12.72		0.00		Normal 
+Thu	04/04/2019	CW11853	Anita	FORG	Dell LCD	DW07 07:00-19:00	06:26	19:05	12.65		0.00		Normal 
+Mon	01/04/2019	CW11854	Notalia	FORG	Dell LCD	DW07 07:00-19:00	06:39	19:06	12.45		0.00		Normal 
+Tue	02/04/2019	CW11854	Notalia	FORG	Dell LCD	DW07 07:00-19:00	06:23	19:05	12.70		0.00		Normal 
+Wed	03/04/2019	CW11854	Notalia	FORG	Dell LCD	DW07 07:00-19:00	06:24	19:07	12.72		0.00		Normal 
+Thu	04/04/2019	CW11854	Notalia	FORG	Dell LCD	DW07 07:00-19:00	06:29	19:04	12.58		0.00		Normal 
+Mon	01/04/2019	CW11857	Sri Devi Tamarani Sinaga	FORG	Dell LCD	DW07 07:00-19:00	06:38	19:05	12.45		0.00		Normal 
+Tue	02/04/2019	CW11857	Sri Devi Tamarani Sinaga	FORG	Dell LCD	DW07 07:00-19:00	06:21	19:04	12.72		0.00		Normal 
+Wed	03/04/2019	CW11857	Sri Devi Tamarani Sinaga	FORG	Dell LCD	DW07 07:00-19:00	06:21	19:06	12.75		0.00		Normal 
+Thu	04/04/2019	CW11857	Sri Devi Tamarani Sinaga	FORG	Dell LCD	DW07 07:00-19:00	06:26	19:03	12.62		0.00		Normal 
+Mon	01/04/2019	CW11858	Dhias Yeptiana Manullang	FORG	Dell Mbd	DW07 07:00-19:00	06:38	19:04	12.43		0.00		Normal 
+Tue	02/04/2019	CW11858	Dhias Yeptiana Manullang	FORG	Dell Mbd	DW07 07:00-19:00	06:22	19:06	12.73		0.00		Normal 
+Wed	03/04/2019	CW11858	Dhias Yeptiana Manullang	FORG	Dell Mbd	DW07 07:00-19:00	06:28	19:07	12.65		0.00		Normal 
+Thu	04/04/2019	CW11858	Dhias Yeptiana Manullang	FORG	Dell Mbd	DW07 07:00-19:00	06:35	19:05	12.50		0.00		Normal 
+Mon	01/04/2019	CW11900	Joe Ang Xia Wei	SHIFT	Site IT	NORM 08:00-16:30						Absent	No Schedule  No info 
+Tue	02/04/2019	CW11900	Joe Ang Xia Wei	SHIFT	Site IT	NORM 08:00-16:30	08:00	16:45	8.75		0.00		Normal 
+Wed	03/04/2019	CW11900	Joe Ang Xia Wei	SHIFT	Site IT	NORM 08:00-16:30	08:00	16:42	8.70		0.00		Normal 
+Thu	04/04/2019	CW11900	Joe Ang Xia Wei	SHIFT	Site IT	NORM 08:00-16:30	08:00	16:44	8.73		0.00		Normal 
+Mon	01/04/2019	CW11992	Ang Tzu Te	SHIFT	Site IT	DW01 08:00-16:30	05:48	17:00	0.00		0.00		Normal 
+Tue	02/04/2019	CW11992	Ang Tzu Te	SHIFT	Site IT	NORM 08:00-16:30						Absent	No Schedule  No info 
+Wed	03/04/2019	CW11992	Ang Tzu Te	SHIFT	Site IT	NORM 08:00-16:30	06:37	16:13	0.00		0.00		Normal 
+Thu	04/04/2019	CW11992	Ang Tzu Te	SHIFT	Site IT	NORM 08:00-16:30	07:01	15:08	0.00		0.00		Normal 
+Mon	01/04/2019	CW12458	Khairul Fahmi Bin Abdullah	SHIFT	Site IT	DW03 15:00-23:00	14:38	23:03	8.42		0.00		Normal 
+Tue	02/04/2019	CW12458	Khairul Fahmi Bin Abdullah	SHIFT	Site IT	DW03 15:00-23:00	14:33	23:02	8.48		0.00		Normal 
+Wed	03/04/2019	CW12458	Khairul Fahmi Bin Abdullah	SHIFT	Site IT	DW03 15:00-23:00	14:34	23:00	8.43		0.00		Normal 
+Thu	04/04/2019	CW12458	Khairul Fahmi Bin Abdullah	SHIFT	Site IT	DW03 15:00-23:00	14:46	23:12	8.43		0.00		Normal 
+Mon	01/04/2019	CW12540	Endrian Raniola Oxima	FORG	Dell Mbd	DW07 07:00-19:00	06:39	19:08	12.48		0.00		Normal 
+Tue	02/04/2019	CW12540	Endrian Raniola Oxima	FORG	Dell Mbd	DW07 07:00-19:00	06:23	19:07	12.73		0.00		Normal 
+Wed	03/04/2019	CW12540	Endrian Raniola Oxima	FORG	Dell Mbd	DW07 07:00-19:00	06:22	19:09	12.78		0.00		Normal 
+Thu	04/04/2019	CW12540	Endrian Raniola Oxima	FORG	Dell Mbd	DW07 07:00-19:00	06:27	19:06	12.65		0.00		Normal 
+Mon	01/04/2019	CW12541	Ruel Munoz Pedrosa	FORG	Dell Mbd	DW07 07:00-19:00	06:39	19:08	12.48		0.00		Normal 
+Tue	02/04/2019	CW12541	Ruel Munoz Pedrosa	FORG	Dell Mbd	DW07 07:00-19:00	06:22	19:07	12.75		0.00		Normal 
+Wed	03/04/2019	CW12541	Ruel Munoz Pedrosa	FORG	Dell Mbd	DW07 07:00-19:00	06:23	19:11	12.80		0.00		Normal 
+Thu	04/04/2019	CW12541	Ruel Munoz Pedrosa	FORG	Dell Mbd	DW07 07:00-19:00	06:27	19:06	12.65		0.00		Normal 
+Mon	01/04/2019	CW12542	Apriliyanti Tarigan	FORG	Dell Mbd	DW08 19:00-07:00	18:38	07:03	12.42		0.00		Normal 
+Tue	02/04/2019	CW12542	Apriliyanti Tarigan	FORG	Dell Mbd	DW08 19:00-07:00	18:24	07:03	12.63		0.00		Normal 
+Wed	03/04/2019	CW12542	Apriliyanti Tarigan	FORG	Dell Mbd	DW08 19:00-07:00	18:52	07:02	12.17		0.00		Normal 
+Thu	04/04/2019	CW12542	Apriliyanti Tarigan	FORG	Dell Mbd	DW08 19:00-07:00	18:16	07:02	12.77		0.00		Normal 
+Mon	01/04/2019	CW12549	Adelia Fransiska	FORG	Dell Mbd	DW07 07:00-19:00	06:14	19:07	12.88		0.00		Normal 
+Tue	02/04/2019	CW12549	Adelia Fransiska	FORG	Dell Mbd	DW07 07:00-19:00	06:22	19:06	12.73		0.00		Normal 
+Wed	03/04/2019	CW12549	Adelia Fransiska	FORG	Dell Mbd	DW07 07:00-19:00	06:28	19:04	12.60		0.00		Normal 
+Thu	04/04/2019	CW12549	Adelia Fransiska	FORG	Dell Mbd	DW07 07:00-19:00	06:35	19:03	12.47		0.00		Normal 
+Mon	01/04/2019	CW12550	Rista Hutasoit	FORG	Dell LCD	DW07 07:00-19:00	06:15	19:08	12.88		0.00		Normal 
+Tue	02/04/2019	CW12550	Rista Hutasoit	FORG	Dell LCD	DW07 07:00-19:00	06:22	19:06	12.73		0.00		Normal 
+Wed	03/04/2019	CW12550	Rista Hutasoit	FORG	Dell LCD	DW07 07:00-19:00	06:28	19:08	12.67		0.00		Normal 
+Thu	04/04/2019	CW12550	Rista Hutasoit	FORG	Dell LCD	DW07 07:00-19:00	06:35	19:06	12.52		0.00		Normal 
+Mon	01/04/2019	CW12551	Fransiska Tambunan	FORG	Dell LCD	DW07 07:00-19:00	06:15	19:05	12.83		0.00		Normal 
+Tue	02/04/2019	CW12551	Fransiska Tambunan	FORG	Dell LCD	DW07 07:00-19:00	06:22	19:06	12.73		0.00		Normal 
+Wed	03/04/2019	CW12551	Fransiska Tambunan	FORG	Dell LCD	DW07 07:00-19:00	06:28	19:07	12.65		0.00		Normal 
+Thu	04/04/2019	CW12551	Fransiska Tambunan	FORG	Dell LCD	DW07 07:00-19:00	06:35	19:03	12.47		0.00		Normal 
+Mon	01/04/2019	CW12709	Billy Ray Tubilag Suacillo	FORG	Dell Mbd	DW07 07:00-19:00	07:00	19:00	12.00		0.00		Normal 
+Tue	02/04/2019	CW12709	Billy Ray Tubilag Suacillo	FORG	Dell Mbd	DW07 07:00-19:00	06:22	19:07	12.75		0.00		Normal 
+Wed	03/04/2019	CW12709	Billy Ray Tubilag Suacillo	FORG	Dell Mbd	DW07 07:00-19:00	06:23	19:10	12.78		0.00		Normal 
+Thu	04/04/2019	CW12709	Billy Ray Tubilag Suacillo	FORG	Dell Mbd	DW07 07:00-19:00	06:27	19:06	12.65		0.00		Normal 
+Mon	01/04/2019	FC0043	Ismail Bin Ahmad	SHIFT	Facility	NORM 08:00-16:30	06:29	19:54	13.42		0.00		Normal 
+Tue	02/04/2019	FC0043	Ismail Bin Ahmad	SHIFT	Facility	NORM 08:00-16:30						Absent	No Schedule  No info 
+Wed	03/04/2019	FC0043	Ismail Bin Ahmad	SHIFT	Facility	DW08 19:00-07:00	18:24	07:30	13.10		0.00		Normal 
+Thu	04/04/2019	FC0043	Ismail Bin Ahmad	SHIFT	Facility	DW08 19:00-07:00	17:41	07:30	14.33		0.00		Normal 
+Mon	01/04/2019	FC0051	Muhammad Husaini Bin Zolkifli	SHIFT	Facility	NORM 08:00-16:30						Absent	No Schedule  No info 
+Tue	02/04/2019	FC0051	Muhammad Husaini Bin Zolkifli	SHIFT	Facility	NORM 08:00-16:30	07:03	19:45	12.70		0.00		Normal 
+Wed	03/04/2019	FC0051	Muhammad Husaini Bin Zolkifli	SHIFT	Facility	NORM 08:00-16:30	07:14	20:58	13.73		0.00		Normal 
+Thu	04/04/2019	FC0051	Muhammad Husaini Bin Zolkifli	SHIFT	Facility	NORM 08:00-16:30	07:06	19:59	12.88		0.00		Normal 
+Mon	01/04/2019	FC0052	Mohd Khalifah Bin Mohamad Kama	Resigned
+Tue	02/04/2019	FC0052	Mohd Khalifah Bin Mohamad Kama	Resigned
+Wed	03/04/2019	FC0052	Mohd Khalifah Bin Mohamad Kama	Resigned
+Thu	04/04/2019	FC0052	Mohd Khalifah Bin Mohamad Kama	Resigned
+Mon	01/04/2019	IT0061	Lim Kai Woon	Resigned
+Tue	02/04/2019	IT0061	Lim Kai Woon	Resigned
+Wed	03/04/2019	IT0061	Lim Kai Woon	Resigned
+Thu	04/04/2019	IT0061	Lim Kai Woon	Resigned
+Mon	01/04/2019	NM0154	Ali Dizon Villanueva	Resigned
+Tue	02/04/2019	NM0154	Ali Dizon Villanueva	Resigned
+Wed	03/04/2019	NM0154	Ali Dizon Villanueva	Resigned
+Thu	04/04/2019	NM0154	Ali Dizon Villanueva	Resigned
+Mon	01/04/2019	NM0256	Dante Reyes Elefante	FORG	Dell Mbd	DW07 07:00-19:00	06:38	19:08	12.50		0.00		Normal 
+Tue	02/04/2019	NM0256	Dante Reyes Elefante	FORG	Dell Mbd	DW07 07:00-19:00	06:22	19:07	12.75		0.00		Normal 
+Wed	03/04/2019	NM0256	Dante Reyes Elefante	FORG	Dell Mbd	DW07 07:00-19:00	06:22	19:10	12.80		0.00		Normal 
+Thu	04/04/2019	NM0256	Dante Reyes Elefante	FORG	Dell Mbd	DW07 07:00-19:00	06:26	19:06	12.67		0.00		Normal 
+Mon	01/04/2019	NM0353	Jayson Esteban Atangan	FORG	Dell Mbd	DW07 07:00-19:00	06:39	19:08	12.48		0.00		Normal 
+Tue	02/04/2019	NM0353	Jayson Esteban Atangan	FORG	Dell Mbd	DW07 07:00-19:00	06:21	19:07	12.77		0.00		Normal 
+Wed	03/04/2019	NM0353	Jayson Esteban Atangan	FORG	Dell Mbd	DW07 07:00-19:00	06:22	19:10	12.80		0.00		Normal 
+Thu	04/04/2019	NM0353	Jayson Esteban Atangan	FORG	Dell Mbd	DW07 07:00-19:00	06:27	19:06	12.65		0.00		Normal 
+Mon	01/04/2019	NM0483	Christopher Caputolan Bataluna	FORG	stockroom	DW07 07:00-19:00	06:39	19:01	12.37		0.00		Normal 
+Tue	02/04/2019	NM0483	Christopher Caputolan Bataluna	FORG	stockroom	DW07 07:00-19:00	06:22	19:01	12.65		0.00		Normal 
+Wed	03/04/2019	NM0483	Christopher Caputolan Bataluna	FORG	stockroom	DW07 07:00-19:00	06:22	19:02	12.67		0.00		Normal 
+Thu	04/04/2019	NM0483	Christopher Caputolan Bataluna	FORG	stockroom	DW07 07:00-19:00	06:26	19:01	12.58		0.00		Normal 
+Mon	01/04/2019	NM0551	Nestorio Driden Balute Comenda	Resigned
+Tue	02/04/2019	NM0551	Nestorio Driden Balute Comenda	Resigned
+Wed	03/04/2019	NM0551	Nestorio Driden Balute Comenda	Resigned
+Thu	04/04/2019	NM0551	Nestorio Driden Balute Comenda	Resigned
+Mon	01/04/2019	NM0560	Allan Barte Bagui	FORG	Site Human Resources	DW07 07:00-19:00	07:00	19:01	12.02		0.00		Normal 
+Tue	02/04/2019	NM0560	Allan Barte Bagui	FORG	Site Human Resources	DW07 07:00-19:00	07:00	19:00	12.00		0.00		Normal 
+Wed	03/04/2019	NM0560	Allan Barte Bagui	FORG	Site Human Resources	DW07 07:00-19:00	06:53	19:00	12.12		0.00		Normal 
+Thu	04/04/2019	NM0560	Allan Barte Bagui	FORG	Site Human Resources	DW07 07:00-19:00	07:00	19:00	12.00		0.00		Normal 
+Mon	01/04/2019	NM0562	Emer Lionel Cultura Dimalibot	FORG	HP Form	DW07 07:00-19:00	06:41	19:09	12.47		0.00		Normal 
+Tue	02/04/2019	NM0562	Emer Lionel Cultura Dimalibot	FORG	HP Form	DW07 07:00-19:00	07:04	19:08	12.07		0.00		Normal 
+Wed	03/04/2019	NM0562	Emer Lionel Cultura Dimalibot	FORG	HP Form	DW07 07:00-19:00	06:39	19:03	12.40		0.00		Normal 
+Thu	04/04/2019	NM0562	Emer Lionel Cultura Dimalibot	FORG	HP Form	DW07 07:00-19:00						3001 - Medical leave	No Schedule  No info 
+Mon	01/04/2019	NM0572	Glindro Balancio Manao	Resigned
+Tue	02/04/2019	NM0572	Glindro Balancio Manao	Resigned
+Wed	03/04/2019	NM0572	Glindro Balancio Manao	Resigned
+Thu	04/04/2019	NM0572	Glindro Balancio Manao	Resigned
+Mon	01/04/2019	NM0576	John Marvin Villamater Ignacio	Resigned
+Tue	02/04/2019	NM0576	John Marvin Villamater Ignacio	Resigned
+Wed	03/04/2019	NM0576	John Marvin Villamater Ignacio	Resigned
+Thu	04/04/2019	NM0576	John Marvin Villamater Ignacio	Resigned
+Mon	01/04/2019	NM0577	Christian Villalobos Magnaye	Resigned
+Tue	02/04/2019	NM0577	Christian Villalobos Magnaye	Resigned
+Wed	03/04/2019	NM0577	Christian Villalobos Magnaye	Resigned
+Thu	04/04/2019	NM0577	Christian Villalobos Magnaye	Resigned
+Mon	01/04/2019	NM0582	Gerardo Bautista Aguinaldo Jr.	FORG	Dell LCD	DW07 07:00-19:00	07:25	19:34	12.15		0.00		Normal  Late 
+Tue	02/04/2019	NM0582	Gerardo Bautista Aguinaldo Jr.	FORG	Dell LCD	DW07 07:00-19:00	06:35	19:08	12.55		0.00		Normal 
+Wed	03/04/2019	NM0582	Gerardo Bautista Aguinaldo Jr.	FORG	Dell LCD	DW07 07:00-19:00	06:29	19:16	12.78		0.00		Normal 
+Thu	04/04/2019	NM0582	Gerardo Bautista Aguinaldo Jr.	FORG	Dell LCD	DW07 07:00-19:00	06:36	19:07	12.52		0.00		Normal 
+Mon	01/04/2019	NM0597	Jeffry Marigsa Villareal	FORG	Dell Mbd	DW07 07:00-19:00	06:39	19:08	12.48		0.00		Normal 
+Tue	02/04/2019	NM0597	Jeffry Marigsa Villareal	FORG	Dell Mbd	DW07 07:00-19:00	06:23	19:07	12.73		0.00		Normal 
+Wed	03/04/2019	NM0597	Jeffry Marigsa Villareal	FORG	Dell Mbd	DW07 07:00-19:00	06:22	19:10	12.80		0.00		Normal 
+Thu	04/04/2019	NM0597	Jeffry Marigsa Villareal	FORG	Dell Mbd	DW07 07:00-19:00	06:27	19:04	12.62		0.00		Normal 
+Mon	01/04/2019	NM0615	Erwin Manansala Yabut	FORG	Cisco STB	DW07 07:00-19:00	06:39	19:00	12.35		0.00		Normal 
+Tue	02/04/2019	NM0615	Erwin Manansala Yabut	FORG	Cisco STB	DW07 07:00-19:00	06:24	19:00	12.60		0.00		Normal 
+Wed	03/04/2019	NM0615	Erwin Manansala Yabut	FORG	Cisco STB	DW07 07:00-19:00	06:23	19:00	12.62		0.00		Normal 
+Thu	04/04/2019	NM0615	Erwin Manansala Yabut	FORG	Cisco STB	DW07 07:00-19:00	06:26	19:00	12.57		0.00		Normal 
+Mon	01/04/2019	NM0620	Erick Deticio Estoque	FORG	Dell Mbd	DW07 07:00-19:00	06:38	19:08	12.50		0.00		Normal 
+Tue	02/04/2019	NM0620	Erick Deticio Estoque	FORG	Dell Mbd	DW07 07:00-19:00	06:21	19:07	12.77		0.00		Normal 
+Wed	03/04/2019	NM0620	Erick Deticio Estoque	FORG	Dell Mbd	DW07 07:00-19:00	06:21	19:10	12.82		0.00		Normal 
+Thu	04/04/2019	NM0620	Erick Deticio Estoque	FORG	Dell Mbd	DW07 07:00-19:00	06:26	19:07	12.68		0.00		Normal 
+Mon	01/04/2019	NM0721	Santosh Kumar Karki	FORG	Dell LCD	DW07 07:00-19:00	06:39	19:06	12.45		0.00		Normal 
+Tue	02/04/2019	NM0721	Santosh Kumar Karki	FORG	Dell LCD	DW07 07:00-19:00	06:23	19:05	12.70		0.00		Normal 
+Wed	03/04/2019	NM0721	Santosh Kumar Karki	FORG	Dell LCD	DW07 07:00-19:00	06:23	19:05	12.70		0.00		Normal 
+Thu	04/04/2019	NM0721	Santosh Kumar Karki	FORG	Dell LCD	DW07 07:00-19:00	06:27	19:06	12.65		0.00		Normal 
+Mon	01/04/2019	NM0726	Santosh Kumar Yadav	FORG	Dell Mbd	DW07 07:00-19:00	06:39	19:06	12.45		0.00		Normal 
+Tue	02/04/2019	NM0726	Santosh Kumar Yadav	FORG	Dell Mbd	DW07 07:00-19:00	07:00	19:02	12.03		0.00		Normal 
+Wed	03/04/2019	NM0726	Santosh Kumar Yadav	FORG	Dell Mbd	DW07 07:00-19:00	06:22	19:07	12.75		0.00		Normal 
+Thu	04/04/2019	NM0726	Santosh Kumar Yadav	FORG	Dell Mbd	DW07 07:00-19:00	06:27	19:02	12.58		0.00		Normal 
+Mon	01/04/2019	NM0729	Nabin Khadka	FORG	Dell Mbd	DW07 07:00-19:00	06:32	19:08	12.60		0.00		Normal 
+Tue	02/04/2019	NM0729	Nabin Khadka	FORG	Dell Mbd	DW07 07:00-19:00	06:34	19:06	12.53		0.00		Normal 
+Wed	03/04/2019	NM0729	Nabin Khadka	FORG	Dell Mbd	DW07 07:00-19:00	06:38	19:08	12.50		0.00		Normal 
+Thu	04/04/2019	NM0729	Nabin Khadka	FORG	Dell Mbd	DW07 07:00-19:00	06:35	19:05	12.50		0.00		Normal 
+Mon	01/04/2019	NM0730	Krishna Mahato	FORG	Dell LCD	DW07 07:00-19:00	06:39	19:02	12.38		0.00		Normal 
+Tue	02/04/2019	NM0730	Krishna Mahato	FORG	Dell LCD	DW07 07:00-19:00	06:22	19:00	12.63		0.00		Normal 
+Wed	03/04/2019	NM0730	Krishna Mahato	FORG	Dell LCD	DW07 07:00-19:00	06:22	19:02	12.67		0.00		Normal 
+Thu	04/04/2019	NM0730	Krishna Mahato	FORG	Dell LCD	DW07 07:00-19:00	06:27	19:00	12.55		0.00		Normal 
+Mon	01/04/2019	NM0731	Mark Anthony Pascual Gatus	FORG	Dell Mbd	DW07 07:00-19:00	06:39	19:08	12.48		0.00		Normal 
+Tue	02/04/2019	NM0731	Mark Anthony Pascual Gatus	FORG	Dell Mbd	DW07 07:00-19:00	06:22	19:07	12.75		0.00		Normal 
+Wed	03/04/2019	NM0731	Mark Anthony Pascual Gatus	FORG	Dell Mbd	DW07 07:00-19:00	06:22	19:11	12.82		0.00		Normal 
+Thu	04/04/2019	NM0731	Mark Anthony Pascual Gatus	FORG	Dell Mbd	DW08 19:00-07:00	18:17	07:06	12.82		0.00		Normal 
+Mon	01/04/2019	NM0734	Keshab Thapa	FORG	Dell LCD	DW07 07:00-19:00	06:41	19:08	12.45		0.00		Normal 
+Tue	02/04/2019	NM0734	Keshab Thapa	FORG	Dell LCD	DW07 07:00-19:00	06:23	19:06	12.72		0.00		Normal 
+Wed	03/04/2019	NM0734	Keshab Thapa	FORG	Dell LCD	DW07 07:00-19:00	06:22	19:08	12.77		0.00		Normal 
+Thu	04/04/2019	NM0734	Keshab Thapa	FORG	Dell LCD	DW07 07:00-19:00	06:27	19:05	12.63		0.00		Normal 
+Mon	01/04/2019	NM0738	Marlon Nunez Malingin	Resigned
+Tue	02/04/2019	NM0738	Marlon Nunez Malingin	Resigned
+Wed	03/04/2019	NM0738	Marlon Nunez Malingin	Resigned
+Thu	04/04/2019	NM0738	Marlon Nunez Malingin	Resigned
+Mon	01/04/2019	NM0744	Riyanti Sianturi	FORG	Dell LCD	DW08 19:00-07:00	18:38	07:03	12.42		0.00		Normal 
+Tue	02/04/2019	NM0744	Riyanti Sianturi	FORG	Dell LCD	DW08 19:00-07:00	18:24	07:03	12.65		0.00		Normal 
+Wed	03/04/2019	NM0744	Riyanti Sianturi	FORG	Dell LCD	DW08 19:00-07:00	18:52	07:02	12.17		0.00		Normal 
+Thu	04/04/2019	NM0744	Riyanti Sianturi	FORG	Dell LCD	DW08 19:00-07:00	18:17	07:02	12.75		0.00		Normal 
+Mon	01/04/2019	NM0745	Tri Nopa Sirait	FORG	Dell LCD	DW07 07:00-19:00	06:14	19:03	12.82		0.00		Normal 
+Tue	02/04/2019	NM0745	Tri Nopa Sirait	FORG	Dell LCD	DW07 07:00-19:00	06:34	19:01	12.45		0.00		Normal 
+Wed	03/04/2019	NM0745	Tri Nopa Sirait	FORG	Dell LCD	DW07 07:00-19:00	06:28	19:02	12.57		0.00		Normal 
+Thu	04/04/2019	NM0745	Tri Nopa Sirait	FORG	Dell LCD	DW07 07:00-19:00	06:36	19:00	12.40		0.00		Normal 
+Mon	01/04/2019	NM0746	Fridan Elvita Bangun	FORG	Dell Mbd	DW07 07:00-19:00	06:14	19:08	12.90		0.00		Normal 
+Tue	02/04/2019	NM0746	Fridan Elvita Bangun	FORG	Dell Mbd	DW07 07:00-19:00	06:23	19:06	12.72		0.00		Normal 
+Wed	03/04/2019	NM0746	Fridan Elvita Bangun	FORG	Dell Mbd	DW07 07:00-19:00	06:28	19:09	12.68		0.00		Normal 
+Thu	04/04/2019	NM0746	Fridan Elvita Bangun	FORG	Dell Mbd	DW07 07:00-19:00	06:35	19:06	12.52		0.00		Normal 
+Mon	01/04/2019	NM0747	Puji Yani Sembiring	FORG	Dell Mbd	DW07 07:00-19:00	06:14	19:08	12.90		0.00		Normal 
+Tue	02/04/2019	NM0747	Puji Yani Sembiring	FORG	Dell Mbd	DW07 07:00-19:00	06:34	19:07	12.55		0.00		Normal 
+Wed	03/04/2019	NM0747	Puji Yani Sembiring	FORG	Dell Mbd	DW07 07:00-19:00	06:46	19:09	12.38		0.00		Normal 
+Thu	04/04/2019	NM0747	Puji Yani Sembiring	FORG	Dell Mbd	DW07 07:00-19:00	06:37	19:06	12.48		0.00		Normal 
+Mon	01/04/2019	NM0749	Manuel Tendencia Colinares	FORG	Dell LCD	DW07 07:00-19:00	06:15	19:08	12.88		0.00		Normal 
+Tue	02/04/2019	NM0749	Manuel Tendencia Colinares	FORG	Dell LCD	DW07 07:00-19:00	06:34	19:06	12.53		0.00		Normal 
+Wed	03/04/2019	NM0749	Manuel Tendencia Colinares	FORG	Dell LCD	DW07 07:00-19:00	06:29	19:09	12.67		0.00		Normal 
+Thu	04/04/2019	NM0749	Manuel Tendencia Colinares	FORG	Dell LCD	DW07 07:00-19:00						Absent	No Schedule  No info 
+Mon	01/04/2019	NM0751	Henny Sihole	FORG	Dell LCD	DW07 07:00-19:00	06:18	19:04	12.77		0.00		Normal 
+Tue	02/04/2019	NM0751	Henny Sihole	FORG	Dell LCD	DW07 07:00-19:00	06:50	19:04	12.23		0.00		Normal 
+Wed	03/04/2019	NM0751	Henny Sihole	FORG	Dell LCD	DW07 07:00-19:00	06:30	19:08	12.63		0.00		Normal 
+Thu	04/04/2019	NM0751	Henny Sihole	FORG	Dell LCD	DW07 07:00-19:00	06:51	19:05	12.23		0.00		Normal 
+Mon	01/04/2019	NM0753	Yulianti	FORG	HP Form	DW07 07:00-19:00	06:32	19:02	12.50		0.00		Normal 
+Tue	02/04/2019	NM0753	Yulianti	FORG	HP Form	DW07 07:00-19:00	06:34	19:00	12.43		0.00		Normal 
+Wed	03/04/2019	NM0753	Yulianti	FORG	HP Form	DW07 07:00-19:00	06:36	19:01	12.42		0.00		Normal 
+Thu	04/04/2019	NM0753	Yulianti	FORG	HP Form	DW07 07:00-19:00	06:35	19:00	12.42		0.00		Normal 
+Mon	01/04/2019	NM0757	Indah Sari Nainggolan	FORG	Dell LCD	DW07 07:00-19:00	06:14	19:05	12.85		0.00		Normal 
+Tue	02/04/2019	NM0757	Indah Sari Nainggolan	FORG	Dell LCD	DW07 07:00-19:00	06:34	19:05	12.52		0.00		Normal 
+Wed	03/04/2019	NM0757	Indah Sari Nainggolan	FORG	Dell LCD	DW07 07:00-19:00	06:27	19:06	12.65		0.00		Normal 
+Thu	04/04/2019	NM0757	Indah Sari Nainggolan	FORG	Dell LCD	DW07 07:00-19:00	06:36	19:06	12.50		0.00		Normal 
+Mon	01/04/2019	NM0758	Maharani	FORG	Dell LCD	DW07 07:00-19:00	06:14	19:03	12.82		0.00		Normal 
+Tue	02/04/2019	NM0758	Maharani	FORG	Dell LCD	DW07 07:00-19:00	06:22	19:01	12.65		0.00		Normal 
+Wed	03/04/2019	NM0758	Maharani	FORG	Dell LCD	DW07 07:00-19:00	06:27	19:04	12.62		0.00		Normal 
+Thu	04/04/2019	NM0758	Maharani	FORG	Dell LCD	DW07 07:00-19:00	06:34	19:00	12.43		0.00		Normal 
+Mon	01/04/2019	NM0759	Masganti Hasibuan	FORG	Dell LCD	DW07 07:00-19:00	06:15	19:05	12.83		0.00		Normal 
+Tue	02/04/2019	NM0759	Masganti Hasibuan	FORG	Dell LCD	DW07 07:00-19:00	06:35	19:05	12.50		0.00		Normal 
+Wed	03/04/2019	NM0759	Masganti Hasibuan	FORG	Dell LCD	DW07 07:00-19:00	06:29	19:08	12.65		0.00		Normal 
+Thu	04/04/2019	NM0759	Masganti Hasibuan	FORG	Dell LCD	DW07 07:00-19:00	06:36	19:03	12.45		0.00		Normal 
+Mon	01/04/2019	NM0761	Sri Eka Damaiyanti	FORG	Dell LCD	DW08 19:00-07:00	18:38	07:06	12.47		0.00		Normal 
+Tue	02/04/2019	NM0761	Sri Eka Damaiyanti	FORG	Dell LCD	DW08 19:00-07:00	18:24	07:06	12.65		0.00		Normal 
+Wed	03/04/2019	NM0761	Sri Eka Damaiyanti	FORG	Dell LCD	DW08 19:00-07:00	18:52	07:03	12.20		0.00		Normal 
+Thu	04/04/2019	NM0761	Sri Eka Damaiyanti	FORG	Dell LCD	DW08 19:00-07:00	18:17	07:04	12.77		0.00		Normal 
+Mon	01/04/2019	NM0762	Siti Fatimah Harahap	FORG	Dell LCD	DW07 07:00-19:00						Absent	No Schedule  No info 
+Tue	02/04/2019	NM0762	Siti Fatimah Harahap	FORG	Dell LCD	DW07 07:00-19:00	06:34	19:02	12.47		0.00		Normal 
+Wed	03/04/2019	NM0762	Siti Fatimah Harahap	FORG	Dell LCD	DW07 07:00-19:00	06:28	19:06	12.63		0.00		Normal 
+Thu	04/04/2019	NM0762	Siti Fatimah Harahap	FORG	Dell LCD	DW07 07:00-19:00	06:35	19:02	12.45		0.00		Normal 
+Mon	01/04/2019	NM0763	Sriance Siregar	FORG	Dell Mbd	DW07 07:00-19:00						Absent	No Schedule  No info 
+Tue	02/04/2019	NM0763	Sriance Siregar	FORG	Dell Mbd	DW07 07:00-19:00	06:35	19:04	12.48		0.00		Normal 
+Wed	03/04/2019	NM0763	Sriance Siregar	FORG	Dell Mbd	DW07 07:00-19:00	06:28	19:07	12.65		0.00		Normal 
+Thu	04/04/2019	NM0763	Sriance Siregar	FORG	Dell Mbd	DW07 07:00-19:00	06:36	19:03	12.45		0.00		Normal 
+Mon	01/04/2019	NM0764	Fitri Juliana	FORG	Dell Mbd	DW07 07:00-19:00	07:05	19:06	12.02		0.00		Normal 
+Tue	02/04/2019	NM0764	Fitri Juliana	FORG	Dell Mbd	DW07 07:00-19:00	06:35	19:05	12.50		0.00		Normal 
+Wed	03/04/2019	NM0764	Fitri Juliana	FORG	Dell Mbd	DW07 07:00-19:00	06:29	19:08	12.65		0.00		Normal 
+Thu	04/04/2019	NM0764	Fitri Juliana	FORG	Dell Mbd	DW07 07:00-19:00	06:36	19:04	12.47		0.00		Normal 
+Mon	01/04/2019	NM0765	Rovy Yunita Simanjuntak	FORG	Dell Mbd	DW07 07:00-19:00	07:25	19:34	12.15		0.00		Normal  Late 
+Tue	02/04/2019	NM0765	Rovy Yunita Simanjuntak	FORG	Dell Mbd	DW07 07:00-19:00	06:35	19:01	12.43		0.00		Normal 
+Wed	03/04/2019	NM0765	Rovy Yunita Simanjuntak	FORG	Dell Mbd	DW07 07:00-19:00	06:29	19:04	12.58		0.00		Normal 
+Thu	04/04/2019	NM0765	Rovy Yunita Simanjuntak	FORG	Dell Mbd	DW07 07:00-19:00	06:36	19:00	12.40		0.00		Normal 
+Mon	01/04/2019	NM0766	Sartika Purba	FORG	Dell Mbd	DW08 19:00-07:00	18:38	07:03	12.42		0.00		Normal 
+Tue	02/04/2019	NM0766	Sartika Purba	FORG	Dell Mbd	DW08 19:00-07:00	18:24	07:03	12.63		0.00		Normal 
+Wed	03/04/2019	NM0766	Sartika Purba	FORG	Dell Mbd	DW08 19:00-07:00	18:52	07:02	12.17		0.00		Normal 
+Thu	04/04/2019	NM0766	Sartika Purba	FORG	Dell Mbd	DW08 19:00-07:00	18:16	07:02	12.77		0.00		Normal 
+Mon	01/04/2019	NM0767	Fitri Lindayani	FORG	Dell Mbd	DW07 07:00-19:00	06:15	19:05	12.83		0.00		Normal 
+Tue	02/04/2019	NM0767	Fitri Lindayani	FORG	Dell Mbd	DW07 07:00-19:00	06:35	19:05	12.50		0.00		Normal 
+Wed	03/04/2019	NM0767	Fitri Lindayani	FORG	Dell Mbd	DW07 07:00-19:00	06:29	19:08	12.65		0.00		Normal 
+Thu	04/04/2019	NM0767	Fitri Lindayani	FORG	Dell Mbd	DW07 07:00-19:00	06:36	19:03	12.45		0.00		Normal 
+Mon	01/04/2019	NM0768	Linda Susanti Zai	FORG	Dell Mbd	DW08 19:00-07:00	18:38	07:03	12.42		0.00		Normal 
+Tue	02/04/2019	NM0768	Linda Susanti Zai	FORG	Dell Mbd	DW08 19:00-07:00	18:24	07:03	12.63		0.00		Normal 
+Wed	03/04/2019	NM0768	Linda Susanti Zai	FORG	Dell Mbd	DW08 19:00-07:00	18:52	07:02	12.18		0.00		Normal 
+Thu	04/04/2019	NM0768	Linda Susanti Zai	FORG	Dell Mbd	DW08 19:00-07:00	18:16	07:03	12.77		0.00		Normal 
+Mon	01/04/2019	NM0769	Devi Hari Yanti Pulungan	FORG	Dell Mbd	DW07 07:00-19:00	07:02	19:06	12.07		0.00		Normal 
+Tue	02/04/2019	NM0769	Devi Hari Yanti Pulungan	FORG	Dell Mbd	DW07 07:00-19:00	06:35	19:03	12.47		0.00		Normal 
+Wed	03/04/2019	NM0769	Devi Hari Yanti Pulungan	FORG	Dell Mbd	DW07 07:00-19:00	06:29	19:04	12.58		0.00		Normal 
+Thu	04/04/2019	NM0769	Devi Hari Yanti Pulungan	FORG	Dell Mbd	DW07 07:00-19:00	06:36	19:00	12.40		0.00		Normal 
+Mon	01/04/2019	NM0770	Intanida Barus	FORG	HP Form	DW07 07:00-19:00	07:25	19:34	12.15		0.00		Normal  Late 
+Tue	02/04/2019	NM0770	Intanida Barus	FORG	HP Form	DW07 07:00-19:00	06:35	19:07	12.53		0.00		Normal 
+Wed	03/04/2019	NM0770	Intanida Barus	FORG	HP Form	DW07 07:00-19:00	06:29	19:11	12.70		0.00		Normal 
+Thu	04/04/2019	NM0770	Intanida Barus	FORG	HP Form	DW07 07:00-19:00	06:36	19:07	12.52		0.00		Normal 
+Mon	01/04/2019	NM0771	Naomi Ramsi Yanita	FORG	Dell Repair on Deman	DW07 07:00-19:00	06:14	19:06	12.87		0.00		Normal 
+Tue	02/04/2019	NM0771	Naomi Ramsi Yanita	FORG	Dell Repair on Deman	DW07 07:00-19:00	06:34	19:06	12.53		0.00		Normal 
+Wed	03/04/2019	NM0771	Naomi Ramsi Yanita	FORG	Dell Repair on Deman	DW07 07:00-19:00	06:28	19:07	12.65		0.00		Normal 
+Thu	04/04/2019	NM0771	Naomi Ramsi Yanita	FORG	Dell Repair on Deman	DW07 07:00-19:00	06:36	19:04	12.47		0.00		Normal 
+Mon	01/04/2019	NM0772	Tika Pratiwi	FORG	Cisco STB	DW07 07:00-19:00	06:59	19:03	12.07		0.00		Normal 
+Tue	02/04/2019	NM0772	Tika Pratiwi	FORG	Cisco STB	DW07 07:00-19:00	06:39	19:06	12.45		0.00		Normal 
+Wed	03/04/2019	NM0772	Tika Pratiwi	FORG	Cisco STB	DW07 07:00-19:00	06:39	19:02	12.38		0.00		Normal 
+Thu	04/04/2019	NM0772	Tika Pratiwi	FORG	Cisco STB	DW07 07:00-19:00	06:39	19:01	12.37		0.00		Normal 
+Mon	01/04/2019	RP0221	Risdiyanti	FORG	Dell Mbd	DW08 19:00-07:00	18:47	07:05	12.30		0.00		Normal 
+Tue	02/04/2019	RP0221	Risdiyanti	FORG	Dell Mbd	DW08 19:00-07:00	18:24	07:05	12.65		0.00		Normal 
+Wed	03/04/2019	RP0221	Risdiyanti	FORG	Dell Mbd	DW08 19:00-07:00	18:49	07:03	12.23		0.00		Normal 
+Thu	04/04/2019	RP0221	Risdiyanti	FORG	Dell Mbd	DW08 19:00-07:00	18:17	07:03	12.75		0.00		Normal 
+Mon	01/04/2019	SC0136	JAMES A/L ARULAPAN	SHIFT	Security	DW08 19:00-07:00	14:37	07:44	17.13	4.38	0.00		Normal  OT 
+Tue	02/04/2019	SC0136	JAMES A/L ARULAPAN	SHIFT	Security	DW08 19:00-07:00	13:45	07:45	18.08	5.25	0.00		Normal  OT 
+Wed	03/04/2019	SC0136	JAMES A/L ARULAPAN	SHIFT	Security	DW08 19:00-07:00	14:16	07:50	17.47	4.73	0.00		Normal  OT 
+Thu	04/04/2019	SC0136	JAMES A/L ARULAPAN	SHIFT	Security	DW08 19:00-07:00	13:47	07:44	17.95	5.22	0.00		Normal  OT 
+Mon	01/04/2019	SC0146	Hassan Bin Mohamad	SHIFT	Security	DW07 07:00-19:00	05:34	23:38	18.07	4.63	0.00		Normal  OT 
+Tue	02/04/2019	SC0146	Hassan Bin Mohamad	SHIFT	Security	DW07 07:00-19:00	07:23	19:49	12.43		0.00		Normal  Late 
+Wed	03/04/2019	SC0146	Hassan Bin Mohamad	SHIFT	Security	DW07 07:00-19:00	06:53	19:50	12.95		0.00		Normal 
+Thu	04/04/2019	SC0146	Hassan Bin Mohamad	SHIFT	Security	DW07 07:00-19:00	07:07	19:40	12.55		0.00		Normal  Late 
+Mon	01/04/2019	ZN0035	Mohd Firdaus Bin Bahuddin	Resigned
+Tue	02/04/2019	ZN0035	Mohd Firdaus Bin Bahuddin	Resigned
+Wed	03/04/2019	ZN0035	Mohd Firdaus Bin Bahuddin	Resigned
+Thu	04/04/2019	ZN0035	Mohd Firdaus Bin Bahuddin	Resigned
+Mon	01/04/2019	ZN0046	Hasmah Bt Mat	SHIFT	Security	DW08 19:00-07:00						Absent	No Schedule  No info 
+Tue	02/04/2019	ZN0046	Hasmah Bt Mat	SHIFT	Security	DW07 07:00-19:00	07:25	19:30	12.08		0.00		Normal  Late 
+Wed	03/04/2019	ZN0046	Hasmah Bt Mat	SHIFT	Security	DW07 07:00-19:00	07:23	19:31	12.13		0.00		Normal  Late 
+Thu	04/04/2019	ZN0046	Hasmah Bt Mat	SHIFT	Security	DW07 07:00-19:00	07:28	19:30	12.03		0.00		Normal  Late 
+Mon	01/04/2019	ZN0056	Zulkhairi Bin Junoh	SHIFT	Security	DW07 07:00-19:00	07:22	15:30	0.00		0.00		Normal 
+Tue	02/04/2019	ZN0056	Zulkhairi Bin Junoh	SHIFT	Security	DW08 19:00-07:00	19:16	11:31	16.30	4.57	0.00		Normal  OT  Late 
+Wed	03/04/2019	ZN0056	Zulkhairi Bin Junoh	SHIFT	Security	DW08 19:00-07:00	19:25	11:34	16.12	4.53	0.00		Normal  OT  Late 
+Thu	04/04/2019	ZN0056	Zulkhairi Bin Junoh	SHIFT	Security	DW08 19:00-07:00	19:15	11:32	12.42		0.00		Normal  Late 
+Mon	01/04/2019	ZN0062	Lies Anak Jundam	SHIFT	Security	DW07 07:00-19:00	05:20	19:32	14.20		0.00		Normal 
+Tue	02/04/2019	ZN0062	Lies Anak Jundam	SHIFT	Security	DW07 07:00-19:00	06:46	21:31	14.75	2.52	0.00		Normal  OT 
+Wed	03/04/2019	ZN0062	Lies Anak Jundam	SHIFT	Security	DW07 07:00-19:00	05:44	19:47	14.05		0.00		Normal 
+Thu	04/04/2019	ZN0062	Lies Anak Jundam	SHIFT	Security	DW07 07:00-19:00	05:45	21:00	15.25	2.00	0.00		Normal  OT 
+Mon	01/04/2019	ZN0063	Rosman Bin Omar	SHIFT	Security	DW08 19:00-07:00						5000 - Marriage Leave	No Schedule  No info 
+Tue	02/04/2019	ZN0063	Rosman Bin Omar	SHIFT	Security	DW08 19:00-07:00						5000 - Marriage Leave	No Schedule  No info 
+Wed	03/04/2019	ZN0063	Rosman Bin Omar	SHIFT	Security	DW08 19:00-07:00						3000 - Annual Leave	No Schedule  No info 
+Thu	04/04/2019	ZN0063	Rosman Bin Omar	SHIFT	Security	DW08 19:00-07:00						3000 - Annual Leave	No Schedule  No info 
+Mon	01/04/2019	ZN0064	Chiew Hooi Cheng	Resigned
+Tue	02/04/2019	ZN0064	Chiew Hooi Cheng	Resigned
+Wed	03/04/2019	ZN0064	Chiew Hooi Cheng	Resigned
+Thu	04/04/2019	ZN0064	Chiew Hooi Cheng	Resigned

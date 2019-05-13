@@ -1,0 +1,6 @@
+Day	Shift Date	Emp Code	Name	Contract	Cost Center	Shift	In	Out	Total	Total OT	Approved OT	Time Off	Status
+Mon	22/04/2019	102361	Soridan Bin Hussein	PERMAN	Dell Mbd	NORM 08:00-16:30	07:43	17:22	9.65		0.00		Normal 
+Tue	23/04/2019	102361	Soridan Bin Hussein	PERMAN	Dell Mbd	NORM 08:00-16:30	07:51		0.00		0.00	3001 - Medical leave	Normal  Incomplete 
+Wed	24/04/2019	102361	Soridan Bin Hussein	PERMAN	Dell Mbd	NORM 08:00-16:30						3000 - Annual Leave	No Schedule  No info 
+Thu	25/04/2019	102361	Soridan Bin Hussein	PERMAN	Dell Mbd	NORM 08:00-16:30	07:49	17:30	9.68		0.00		Normal 
+Fri	26/04/2019	102361	Soridan Bin Hussein	PERMAN	Dell Mbd	NORM 08:00-16:30	07:47	16:51	9.07		0.00		Normal 
