@@ -1,100 +1,25 @@
 VERSION 5.00
-Object = "{67397AA1-7FB1-11D0-B148-00A0C922E820}#6.0#0"; "MSADODC.OCX"
-Object = "{CDE57A40-8B86-11D0-B3C6-00A0C90AEA82}#1.0#0"; "MSDATGRD.OCX"
 Begin VB.Form frmInterf 
    BorderStyle     =   1  'Fixed Single
    Caption         =   "Get Data from SAP"
-   ClientHeight    =   9930
+   ClientHeight    =   9915
    ClientLeft      =   45
    ClientTop       =   330
-   ClientWidth     =   15105
+   ClientWidth     =   16500
    ControlBox      =   0   'False
    Icon            =   "frmInterf.frx":0000
    KeyPreview      =   -1  'True
    LinkTopic       =   "Form1"
    MaxButton       =   0   'False
    MinButton       =   0   'False
-   ScaleHeight     =   9930
-   ScaleWidth      =   15105
+   ScaleHeight     =   9915
+   ScaleWidth      =   16500
    StartUpPosition =   3  'Windows Default
-   Begin VB.CommandButton cmdRemove 
-      Caption         =   "&Remove Service"
-      BeginProperty Font 
-         Name            =   "Arial"
-         Size            =   9.75
-         Charset         =   0
-         Weight          =   400
-         Underline       =   0   'False
-         Italic          =   0   'False
-         Strikethrough   =   0   'False
-      EndProperty
-      Height          =   350
-      Left            =   2280
-      TabIndex        =   10
-      Top             =   5640
-      Visible         =   0   'False
-      Width           =   2055
-   End
-   Begin VB.CommandButton cmdService 
-      Caption         =   "&Run as Service"
-      BeginProperty Font 
-         Name            =   "Arial"
-         Size            =   9.75
-         Charset         =   0
-         Weight          =   400
-         Underline       =   0   'False
-         Italic          =   0   'False
-         Strikethrough   =   0   'False
-      EndProperty
-      Height          =   350
-      Left            =   120
-      TabIndex        =   9
-      Top             =   5640
-      Visible         =   0   'False
-      Width           =   2115
-   End
-   Begin VB.ComboBox cboCompany 
-      BeginProperty Font 
-         Name            =   "Courier New"
-         Size            =   9.75
-         Charset         =   0
-         Weight          =   400
-         Underline       =   0   'False
-         Italic          =   0   'False
-         Strikethrough   =   0   'False
-      EndProperty
-      Height          =   360
-      ItemData        =   "frmInterf.frx":030A
-      Left            =   2040
-      List            =   "frmInterf.frx":030C
-      Style           =   2  'Dropdown List
-      TabIndex        =   8
-      Top             =   6120
-      Width           =   4335
-   End
    Begin VB.Timer tmRecord 
       Enabled         =   0   'False
       Interval        =   5000
-      Left            =   6600
-      Top             =   6000
-   End
-   Begin VB.CommandButton cmdDetail 
-      Caption         =   "&Detail"
-      Enabled         =   0   'False
-      BeginProperty Font 
-         Name            =   "Arial"
-         Size            =   9.75
-         Charset         =   0
-         Weight          =   400
-         Underline       =   0   'False
-         Italic          =   0   'False
-         Strikethrough   =   0   'False
-      EndProperty
-      Height          =   350
       Left            =   11520
-      TabIndex        =   6
-      Top             =   5640
-      Width           =   1275
+      Top             =   0
    End
    Begin VB.Timer tmCount 
       Enabled         =   0   'False
@@ -108,7 +33,7 @@ Begin VB.Form frmInterf
       Top             =   0
    End
    Begin VB.CommandButton cmdMinimize 
-      Caption         =   "&Minimize To Tray"
+      Caption         =   "&Minimize To Taskbar"
       BeginProperty Font 
          Name            =   "Arial"
          Size            =   9.75
@@ -119,18 +44,18 @@ Begin VB.Form frmInterf
          Strikethrough   =   0   'False
       EndProperty
       Height          =   350
-      Left            =   12840
+      Left            =   14160
       TabIndex        =   4
-      Top             =   5640
+      Top             =   9360
       Width           =   2115
    End
    Begin VB.ListBox lstConnection 
       BackColor       =   &H00FFFFFF&
-      Height          =   5130
+      Height          =   8640
       Left            =   120
       TabIndex        =   2
       Top             =   480
-      Width           =   7320
+      Width           =   8385
    End
    Begin VB.CommandButton cmdExit 
       Caption         =   "&Exit"
@@ -144,190 +69,24 @@ Begin VB.Form frmInterf
          Strikethrough   =   0   'False
       EndProperty
       Height          =   350
-      Left            =   10200
+      Left            =   12720
       TabIndex        =   1
-      Top             =   5640
-      Width           =   1275
+      Top             =   9360
+      Width           =   1395
    End
    Begin VB.ListBox lstStatus 
       BackColor       =   &H00FFFFFF&
-      Height          =   5130
-      Left            =   7560
+      Height          =   8640
+      Left            =   8760
       TabIndex        =   0
       Top             =   480
-      Width           =   7440
-   End
-   Begin MSDataGridLib.DataGrid dtgView1 
-      Bindings        =   "frmInterf.frx":030E
-      Height          =   2895
-      Left            =   120
-      TabIndex        =   13
-      Tag             =   "4"
-      Top             =   6480
-      Width           =   14775
-      _ExtentX        =   26061
-      _ExtentY        =   5106
-      _Version        =   393216
-      AllowUpdate     =   0   'False
-      Enabled         =   -1  'True
-      HeadLines       =   1
-      RowHeight       =   17
-      FormatLocked    =   -1  'True
-      BeginProperty HeadFont {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
-         Name            =   "Arial"
-         Size            =   9
-         Charset         =   0
-         Weight          =   700
-         Underline       =   0   'False
-         Italic          =   0   'False
-         Strikethrough   =   0   'False
-      EndProperty
-      BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
-         Name            =   "Courier New"
-         Size            =   8.25
-         Charset         =   0
-         Weight          =   400
-         Underline       =   0   'False
-         Italic          =   0   'False
-         Strikethrough   =   0   'False
-      EndProperty
-      ColumnCount     =   5
-      BeginProperty Column00 
-         DataField       =   "EMP_CODE"
-         Caption         =   "Employee Code"
-         BeginProperty DataFormat {6D835690-900B-11D0-9484-00A0C91110ED} 
-            Type            =   0
-            Format          =   ""
-            HaveTrueFalseNull=   0
-            FirstDayOfWeek  =   0
-            FirstWeekOfYear =   0
-            LCID            =   1033
-            SubFormatType   =   0
-         EndProperty
-      EndProperty
-      BeginProperty Column01 
-         DataField       =   "DTFR"
-         Caption         =   "Date From"
-         BeginProperty DataFormat {6D835690-900B-11D0-9484-00A0C91110ED} 
-            Type            =   0
-            Format          =   ""
-            HaveTrueFalseNull=   0
-            FirstDayOfWeek  =   0
-            FirstWeekOfYear =   0
-            LCID            =   1033
-            SubFormatType   =   0
-         EndProperty
-      EndProperty
-      BeginProperty Column02 
-         DataField       =   "DTTO"
-         Caption         =   "Date To"
-         BeginProperty DataFormat {6D835690-900B-11D0-9484-00A0C91110ED} 
-            Type            =   0
-            Format          =   ""
-            HaveTrueFalseNull=   0
-            FirstDayOfWeek  =   0
-            FirstWeekOfYear =   0
-            LCID            =   1033
-            SubFormatType   =   0
-         EndProperty
-      EndProperty
-      BeginProperty Column03 
-         DataField       =   "TOFF_ID"
-         Caption         =   "Time Off Code"
-         BeginProperty DataFormat {6D835690-900B-11D0-9484-00A0C91110ED} 
-            Type            =   0
-            Format          =   ""
-            HaveTrueFalseNull=   0
-            FirstDayOfWeek  =   0
-            FirstWeekOfYear =   0
-            LCID            =   1033
-            SubFormatType   =   0
-         EndProperty
-      EndProperty
-      BeginProperty Column04 
-         DataField       =   "LTYPE"
-         Caption         =   "Leave Type"
-         BeginProperty DataFormat {6D835690-900B-11D0-9484-00A0C91110ED} 
-            Type            =   0
-            Format          =   ""
-            HaveTrueFalseNull=   0
-            FirstDayOfWeek  =   0
-            FirstWeekOfYear =   0
-            LCID            =   1033
-            SubFormatType   =   0
-         EndProperty
-      EndProperty
-      SplitCount      =   1
-      BeginProperty Split0 
-         BeginProperty Column00 
-            ColumnWidth     =   1830.047
-         EndProperty
-         BeginProperty Column01 
-            ColumnWidth     =   1530.142
-         EndProperty
-         BeginProperty Column02 
-            ColumnWidth     =   1470.047
-         EndProperty
-         BeginProperty Column03 
-         EndProperty
-         BeginProperty Column04 
-            ColumnWidth     =   4364.788
-         EndProperty
-      EndProperty
-   End
-   Begin MSAdodcLib.Adodc adoDetail1 
-      Height          =   330
-      Left            =   120
-      Tag             =   "CROUTBOX"
-      Top             =   9480
-      Visible         =   0   'False
-      Width           =   3000
-      _ExtentX        =   5292
-      _ExtentY        =   582
-      ConnectMode     =   0
-      CursorLocation  =   3
-      IsolationLevel  =   -1
-      ConnectionTimeout=   15
-      CommandTimeout  =   30
-      CursorType      =   3
-      LockType        =   3
-      CommandType     =   8
-      CursorOptions   =   0
-      CacheSize       =   50
-      MaxRecords      =   0
-      BOFAction       =   0
-      EOFAction       =   0
-      ConnectStringType=   1
-      Appearance      =   1
-      BackColor       =   -2147483643
-      ForeColor       =   -2147483640
-      Orientation     =   0
-      Enabled         =   -1
-      Connect         =   ""
-      OLEDBString     =   ""
-      OLEDBFile       =   ""
-      DataSourceName  =   "TS_GL"
-      OtherAttributes =   ""
-      UserName        =   ""
-      Password        =   ""
-      RecordSource    =   ""
-      Caption         =   ""
-      BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
-         Name            =   "Arial"
-         Size            =   8.25
-         Charset         =   0
-         Weight          =   400
-         Underline       =   0   'False
-         Italic          =   0   'False
-         Strikethrough   =   0   'False
-      EndProperty
-      _Version        =   393216
+      Width           =   7560
    End
    Begin VB.Label l2 
       Caption         =   "Label7"
       Height          =   255
       Left            =   4200
-      TabIndex        =   12
+      TabIndex        =   7
       Top             =   120
       Visible         =   0   'False
       Width           =   255
@@ -336,29 +95,10 @@ Begin VB.Form frmInterf
       Caption         =   "Label7"
       Height          =   255
       Left            =   3720
-      TabIndex        =   11
+      TabIndex        =   6
       Top             =   120
       Visible         =   0   'False
       Width           =   255
-   End
-   Begin VB.Label Label6 
-      AutoSize        =   -1  'True
-      BackStyle       =   0  'Transparent
-      Caption         =   "Company Database :"
-      BeginProperty Font 
-         Name            =   "Arial"
-         Size            =   9.75
-         Charset         =   0
-         Weight          =   700
-         Underline       =   0   'False
-         Italic          =   0   'False
-         Strikethrough   =   0   'False
-      EndProperty
-      Height          =   240
-      Left            =   0
-      TabIndex        =   7
-      Top             =   6120
-      Width           =   1965
    End
    Begin VB.Shape shpStatus 
       BackColor       =   &H0000FF00&
@@ -400,7 +140,7 @@ Begin VB.Form frmInterf
          Strikethrough   =   0   'False
       EndProperty
       Height          =   255
-      Left            =   6480
+      Left            =   4680
       TabIndex        =   5
       Top             =   120
       Width           =   3735
@@ -440,7 +180,6 @@ Dim gConn(10) As ADODB.Connection
 Dim gCompany(10) As String
 Dim iConnect As Integer
 Dim sSQL As String
-Dim sDelete As String
 Dim rstTMEOFF As ADODB.Recordset
 Dim rstTMEMPLY As ADODB.Recordset
 Dim rstTMDESIGN As ADODB.Recordset
@@ -458,14 +197,13 @@ Dim ptSend As CDO.Message
 Dim bNoRefresh As Boolean
 Dim iCal As Integer
 Dim iRestart As Integer
-
 Dim gComDir As String       'SUSAN PJ14/0078
 Dim gComIP As String        'SUSAN PJ14/0078
 Dim gConnVw As String       'SUSAN PJ14/0078
 Dim gPath As String
+Dim gDate As Date           'SUSAN PJ14/0106
 Dim iPos As Integer
 Dim FileDelete As String
-
 Dim sFolderDir As String
 Dim sLogFolder As String
 Dim sArr() As String
@@ -474,90 +212,44 @@ Dim iAbsInserted As Integer
 Dim iInserted As Integer
 Dim iUpdated As Integer
 Dim sSQL1 As String
-
-Dim gDate As Date           'SUSAN PJ14/0106
-
 Dim sSecu As String, sCVT As String, lA As String, lB As String, sC As String
 Dim lStart As Long, lCount2 As Long
-
 Dim gCompanyName As String
 
-Private Sub cboCompany_Change()
-    Call cboCompany_Click
-End Sub
-
-Private Sub cboCompany_Click()
-
-    gConnVw = "DRIVER={MySQL ODBC 5.3 Unicode Driver};"
-    
-    '==== Connection Change 1 =============
-    gConnVw = gConnVw & "Server=" & gComIP & ";Port=3307;UID=root;Password=Pass;Database=" & gComDir & ";OPTION=3;" '==IQOR SERVER
-    'gConnVw = gConnVw & "Server=" & gComIP & ";Port=3307;UID=root;Password=admin@987412;Database=" & gComDir & ";OPTION=3;" '===BRO Desktop Debug
-    
-    adoDetail1.ConnectionString = gConnVw
-  
-End Sub
-
-Private Sub cmdDetail_Click()
-    If cmdDetail.Caption = "&Detail" Then
-        cmdDetail.Caption = "&Summary"
-        
-        Me.Height = 10485
-        adoDetail1.Enabled = True
-        Call cboCompany_Click
-        Call tmRecord_Timer
-        tmRecord.Enabled = True
-    Else
-        cmdDetail.Caption = "&Detail"
-        Me.Height = 10485
-        tmRecord.Enabled = False
-        Call pCloseTables(adoDetail1.Recordset)
-        adoDetail1.Enabled = False
-    End If
-End Sub
-
 Private Sub cmdMinimize_Click()
-    If cmdDetail.Caption = "&Summary" Then
-        cmdDetail.Caption = "&Summary"
-        Call cmdDetail_Click
-    End If
+    Me.WindowState = vbMinimized '=== minimize_to_tray
+End Sub
 
-    minimize_to_tray
-    Shell_NotifyIcon NIM_DELETE, nid
-    
+Private Sub cmdMaximized_Click()
+    If frmInterf.WindowState = vbMinimized Then
+        Me.WindowState = vbNormal
+    End If
 End Sub
 
 Private Sub Form_Load()
     
-    sDelete = "" 'hkchan
-    'minimize_to_tray
-    Shell_NotifyIcon NIM_DELETE, nid
-
     With Me
         .Move (Screen.Width - .Width), (Screen.Height - .Height)
         .Top = 0
         .Left = 0
     End With
-    tmCount.Enabled = True
-    cmdDetail.Caption = "&Summary"
     
+    tmCount.Enabled = True
+
     gPath = App.Path '===Drive Letter:\BROMY\IQOR\GetFrSap '=== When running at 221
                      '===Drive Letter:\BROMY\IQOR '=== When at iQOR Server
                      
-    '===== Connection Change 2 =====================
-    'gPath = Replace(gPath, "\GetFrSap", "") '=== When running at 221, enable this to remove GetFrSap
+    '===== Connection Change 1 =====================
+    'gPath = Replace(gPath, "\GetFrSap", "") '=== When Debugging, enable this to remove GetFrSap
     
     sFolderDir = gPath & "\EMPMASTER_CHANGE_ABSENCE\"
     sLogFolder = gPath & "\EMPMASTER_CHANGE_ABSENCE\LOG\"
     
-    Call cmdDetail_Click
     bNoRefresh = True
    
 End Sub
 
 Private Sub Form_Unload(Cancel As Integer)
-
-'    Shell_NotifyIcon NIM_DELETE, nid ' del tray icon
     Dim frmTemp As Form
     For Each frmTemp In Forms
         Unload frmTemp
@@ -566,9 +258,8 @@ Private Sub Form_Unload(Cancel As Integer)
     End
 End Sub
 
-
 Private Sub cmdExit_Click()
-Dim frm As Form
+    Dim frm As Form
     For Each frm In Forms
         Unload frm
         Set frm = Nothing
@@ -584,32 +275,25 @@ Private Sub pConnection()
     Dim iCheck As Integer
     Dim iFaild As Integer
     
-    cboCompany.Clear
-    cboCompany.Refresh
     iConnect = 0
     iCheck = 0
     bNoRefresh = False
     
-'On Error GoTo ErrorHandler
+On Error GoTo ErrorHandler
     
     Open App.Path & "\IP.TXT" For Input As 1
     Do While Not EOF(1)
-        Line Input #1, sComDir
-        If sComDir <> "" Then
+        Line Input #1, sComIP
+        If sComIP <> "" Then
             bPass = True
             iCheck = iCheck + 1
             
-             '===== Connection Change 3 =====================
-            'connect to server
-            sComIP = sComDir
-            
-            'sComDir = "IQOR190228 " '==Use in 221 Databse
+            '===== Connection Change 1 =====================
+            'sComDir = "IQOR190509" '==Use in 221 Databse
             sComDir = "IQOR " '==Use in IQOR
             
             gComIP = sComIP
-            
-            'gComDir = "IQOR190228 " '==Use in 221 Databse
-            gComDir = "IQOR " '==Use in IQOR
+            gComDir = sComDir
             
             sDatabase = "DRIVER={MySQL ODBC 5.3 Unicode Driver};"
             
@@ -620,15 +304,9 @@ Private Sub pConnection()
             Set gConn(iConnect) = New ADODB.Connection
             gConn(iConnect).Open sDatabase
             If bPass = True Then
+                
                 gCompany(iConnect) = sComIP & "; " & sComDir
                 lstConnection.AddItem gCompany(iConnect) & " >> Connected"
-                
-                cboCompany.AddItem gCompany(iConnect) & " > " & iConnect
-                cboCompany.Refresh
-                
-                If cboCompany.ListIndex <> 0 Then
-                    cboCompany.ListIndex = 0
-                End If
                 
                 iConnect = iConnect + 1
                 
@@ -636,13 +314,14 @@ Private Sub pConnection()
             bPass = True
         
         End If
-        DoEvents
+        'DoEvents
     Loop
     Close #1
     bNoRefresh = True
     
     If iFaild <> iCheck Then
-        cmdDetail.Enabled = True
+        
+        Call cmdMaximized_Click
         
         Call pInsAbsConn
         
@@ -652,15 +331,18 @@ Private Sub pConnection()
         
         shpStatus.BackColor = &HFF00&
         shpStatus.Refresh
+    
     Else
+        
         shpStatus.BackColor = &HFF&
         shpStatus.Refresh
-        cmdDetail.Enabled = False
+        
     End If
     Exit Sub
     
 ErrorHandler:
-    If Err.Number = -2147467259 Then
+
+    If Err.Number = -2147467259 Or Err.Number = 70 Then
         bPass = False
         iFaild = iFaild + 1
         lstConnection.AddItem sComDir & " >> Insert Failed"
@@ -685,30 +367,12 @@ Private Sub tmCount_Timer()
         Call pConnection
         tmCount.Enabled = True
         
-        lSecStart = (Hour(Now) * 3600) + (Minute(Now) * 60) + Second(Now) + 10  '=== + 180 is 2 minutes
+        lSecStart = (Hour(Now) * 3600) + (Minute(Now) * 60) + Second(Now) + 60  '=== + 60 is 1 minute, Every 60 secs refresh
         lCount = lSecStart - lSecEnd
         
         sTime = Format(Fix(lCount / 60), "00") & ":" & Format(pRound(((lCount / 60) - Fix(lCount / 60)) * 60, 0), "00")
         lblCount.Caption = "Refresh After : " & sTime
         lblCount.Refresh
-        
-        If cmdDetail.Caption = "&Summary" Then
-            iCal = iCal + 1
-            l1.Caption = iCal
-        Else
-            iCal = 0
-        End If
-    
-        If cmdDetail.Caption = "&Summary" And iCal >= 2 Then
-            cmdDetail.Caption = "&Summary"
-            Call cmdDetail_Click
-            iCal = 0
-        End If
-        
-        'If iRestart >= 10 Then
-        '    Shell App.Path & "/Email.exe"
-        '    End
-        'End If
     
     Else
         
@@ -717,20 +381,21 @@ Private Sub tmCount_Timer()
         sTime = Format(Fix(lCount / 60), "00") & ":" & Format(pRound(((lCount / 60) - Fix(lCount / 60)) * 60, 0), "00")
         lblCount.Caption = "Refresh After : " & sTime
         lblCount.Refresh
-    
+        
+        If lCount = 10 Then '== After 30 seconds minimize it
+            Call cmdMinimize_Click
+        End If
+        
     End If
     
-    DoEvents
+    'DoEvents
     
     gDate = Now 'SUSAN PJ14/0106
     
     If Format(gDate, "HH:MM") > "00:00" And Format(gDate, "HH:MM") < "00:30" Then
-        
-        'Unload Me   'If detect close time then close and schedule on again
-        
-        End
-    
+        Unload Me   'If detect close time then close and schedule on again
     End If
+    
 End Sub
 
 Private Sub tmRun_Timer()
@@ -761,7 +426,6 @@ Private Sub pInsAbsConn()
         lstStatus.Clear
         lstStatus.Refresh
     End If
-    
     
     For iLoop = 0 To iConnect - 1
         
@@ -815,11 +479,11 @@ Private Sub pInsAbsConn()
                     End If
                     
                 Else
-                    Call cmdDetail_Click
+                    'Call cmdDetail_Click
                     bInsertAbs = False
                 End If
             Else
-                Call cmdDetail_Click
+                'Call cmdDetail_Click
                 bInsertAbs = False
             End If
         End If
@@ -1103,11 +767,11 @@ Private Sub pInsEmpConn()
                         
                     End If
                 Else
-                    Call cmdDetail_Click
+                    'Call cmdDetail_Click
                     bInsertAbs = False
                 End If
             Else
-                Call cmdDetail_Click
+                'Call cmdDetail_Click
                 bInsertAbs = False
             End If
         End If
@@ -1486,11 +1150,11 @@ Private Sub pUpEmpConn()
                         
                     End If
                 Else
-                    Call cmdDetail_Click
+                    'Call cmdDetail_Click
                     bInsertAbs = False
                 End If
             Else
-                Call cmdDetail_Click
+                'Call cmdDetail_Click
                 bInsertAbs = False
             End If
         End If
@@ -1790,9 +1454,9 @@ Dim sSQLCS As String
 End Function
 Private Sub tmRecord_Timer()
     
-    sSQL = "SELECT * FROM TMEOFF ORDER BY EMP_CODE,DTFR"
-    adoDetail1.RecordSource = sSQL
-    adoDetail1.Refresh
+    'sSQL = "SELECT * FROM TMEOFF ORDER BY EMP_CODE,DTFR"
+    'adoDetail1.RecordSource = sSQL
+    'adoDetail1.Refresh
     
     iRestart = iRestart + 1
     l2.Caption = iRestart

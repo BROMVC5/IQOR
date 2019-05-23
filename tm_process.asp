@@ -234,7 +234,6 @@
         sSQL = sSQL & " WHERE EMP_CODE = '" &  sEmp_Code  & "'"
         sSQL = sSQL & " AND DT_WORK = '" & fdate2(dtTheDate) & "'" 
         conn.execute sSQL
-
     end Function 
 	
 	Function fInsertTMCLK2(dt_Process,sCode)
@@ -258,7 +257,7 @@
                 iHour = Cint(rstTMCLK1("HOUR"))
                 iMin = Cint(rstTMCLK1("MIN"))
                 sInOut = rstTMCLK1("IN_OUT")
-
+                bGotShf = ""
                 dt_PreviousDay = DateAdd("d",-1, dt_Work) '=== Del
 
                 sTime = pAddZero(iHour) & ":" & pAddZero(iMin)
@@ -267,15 +266,13 @@
                 dtLoop = dt_Work
                 sSTIME = ""
                 iBackHowManyDay = 0
-                'response.write "<br>*Debug Before Emp_Code : " & sEmp_COde & " Date : " & dt_Work & " Time : " & sTime & " InOut : " & sInOut & " sSTIME: " & sSTIME &"<br>" 
-                'Do While DateDiff("d", dtLoop, dt_Work) < 3
+
                 Do While sSTIME = ""
                     sSQL = "select tmshiftot.SHF_CODE, tmshiftot.*, tmshfcode.* from TMSHIFTOT " 
                     sSQL = sSQL & " left join TMSHFCODE on tmshiftot.SHF_CODE = tmshfcode.SHF_CODE " 
                     sSQL = sSQL & " WHERE EMP_CODE = '" & sEmp_Code & "'"
                     sSQL = sSQL & " AND DT_SHIFT = '" & fdate2(dtLoop) & "'"
                     Set rstTMSHIFTOT = server.CreateObject("ADODB.RecordSet")  
-                    'response.write " * Debug : " & sSQL & "<br>"
                     rstTMSHIFTOT.Open sSQL, conn, 3, 3
                     if not rstTMSHIFTOT.eof then
                         bGotShf = "Y"
@@ -288,21 +285,23 @@
                             sETIME = rstTMSHIFTOT("ETIME")  
                             iSTIME_H = Cint(Mid(rstTMSHIFTOT("STIME"),1,2))  '===Get the Shift Start time and convert to Integer
                             iETIME_H = Cint(Mid(rstTMSHIFTOT("ETIME"),1,2))  '===Get the Shift End time and convert to Integer
-                            'response.write "*Debug got sSTIME back how many day : " & sSTIME & " , "  & iBackHowManyDay & "<br>"
-                            'exit do
-                            'response.write "Exit Do Shouldn't Show :" & sSTIME & "<br>"
                         end if
                     end if
 
                     iBackHowManyDay = iBackHowManyDay -1
                     
-                    dtLoop = DateAdd("d",iBackHowManyDay, dt_Work) '=== Del
-                Loop
+                    if Cint(iBackHowManyDay) = -5 then
+                        exit do
+                    end if
 
-                '===============================================================================================================
-                'response.write "*Debug After Emp_Code : " & sEMp_COde & " Date : " & dt_Work & " Time : " & sTime & " InOut : " & sInOut & " sSHF_CODE : " & sSHF_CODE & " sSTIME : " & sSTIME &"<br>" 
-                
-                if bGotShf = "Y" then '==== Only Process those with shift schedule
+                    dtLoop = DateAdd("d",iBackHowManyDay, dt_Work) '=== Del
+
+                Loop
+    
+            '===============================================================================================================
+            'response.write "*Debug After Emp_Code : " & sEMp_COde & " Date : " & dt_Work & " Time : " & sTime & " InOut : " & sInOut & " sSHF_CODE : " & sSHF_CODE & " sSTIME : " & sSTIME & " Got Shift : " & bGotShf & "<br>" 
+
+            if bGotShf = "Y" then '==== Only Process those with shift schedule
                 
                     sALLCODE = ""
                     '===AllCode, Check the employee Grade to see if Shift Allowance is yes
@@ -396,7 +395,7 @@
                             else 
                                 bIsTOUTWithinRange = "N"
                             end if
-                            
+
                             if bIsTOUTWithinRange = "Y" then
 
                                 Set rstTMClk2 = server.CreateObject("ADODB.RecordSet")    
@@ -408,7 +407,7 @@
                                 else
                                     Call fSQLUpdate(sTime, sEmp_Code, dt_Work)
                                 end if
-
+    
                             else '=== Out of Shift Schedule Range
                                 
                                 Set rstTMClk2 = server.CreateObject("ADODB.RecordSet")    
@@ -444,10 +443,8 @@
                     end if '=== <!-- end if sInOut = "IN" then /  elseif sInOut = "OUT" then !-->
 
                 end if ' === <!-- end if if bGotShf = "Y" then !-->
-
                 rstTMClk1.movenext
             Loop
-
         end if '===  if not TMClk1.eof
     
 	End Function

@@ -48,7 +48,7 @@ Begin VB.Form frmMain
       NoFolders       =   0   'False
       Transparent     =   0   'False
       ViewID          =   "{0057D0E0-3573-11CF-AE69-08002B2E1262}"
-      Location        =   "http:///"
+      Location        =   ""
    End
    Begin VB.Timer Timer1 
       Enabled         =   0   'False
@@ -109,9 +109,9 @@ Private Sub Form_Load()
     Timer1.Enabled = True
     Timer1.Interval = CDbl(1) * 1000 '=== 1 second interval
     
-    sURL1 = "http://localhost/tm_autoprocess.asp" '=== IQOR SERVER
+    'sURL1 = "http://localhost/tm_autoprocess.asp" '=== IQOR SERVER
     
-    'sURL1 = "http://localhost/iqor/tm_autoprocess.asp" '===BRO server
+    sURL1 = "http://localhost/iqor/tm_autoprocess.asp" '===BRO server
     
 End Sub
 
@@ -126,8 +126,8 @@ Private Sub Timer1_Timer()
     Label2.Caption = Label2.Caption - 1
     
     If gCounter = 1 Then
-        'AniFile.Open "D:\WEB\IQOR\Graphics\Filemove.avi"
-        AniFile.Open "C:\BROMY\IQOR\Graphics\Filemove.avi" '==IQOR SERVER
+        AniFile.Open "D:\WEB\IQOR\Graphics\Filemove.avi"
+        'AniFile.Open "C:\BROMY\IQOR\Graphics\Filemove.avi" '==IQOR SERVER
         AniFile.Play
         
         iForm = 0
@@ -140,7 +140,7 @@ Private Sub Timer1_Timer()
         Set hDoc = Wb1.Document
         
         AniFile.Close
-    ElseIf gCounter = 180 Then '=== How many secs, 180 = 3 minutes
+    ElseIf gCounter = 15 Then '=== How many secs, 180 = 3 minutes
         End
     End If
     

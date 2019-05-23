@@ -256,8 +256,6 @@ end Function
     
     rstTMABSENT.Open sSQL, conn, 3, 3
 	if not rstTMABSENT.eof then
-		record = 0
-		i = 0
 		do while not rstTMABSENT.eof
 			'=== Check if the recorded Absent day got any leave applied
 			sSQL = "select * from tmeoff "

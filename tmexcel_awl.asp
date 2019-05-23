@@ -195,41 +195,51 @@ Set objOpenFile = fso.OpenTextFile(sFilePath,8,True)
 	    objOpenFile.WriteLine sStr		
 
         do while not rstTMABSENT.eof
-                	
-            Set rstTMSUPNAME = server.CreateObject("ADODB.RecordSet")    
-			sSQL = "select * from TMEMPLY where EMP_CODE='" & rstTMABSENT("SUP_CODE") & "'" 
-			rstTMSUPNAME.Open sSQL, conn, 3, 3
-			if not rstTMSUPNAME.eof then
-				sSupName = rstTMSUPNAME("NAME")
-			else
-				sSupName = ""
-			end if
-            call pCloseTables(rstTMSUPNAME)
 
-            Set rstTMSHFCODE = server.CreateObject("ADODB.RecordSet")    
-			sSQL = "select STIME,ETIME from TMSHFCODE where SHF_CODE='" & rstTMABSENT("SHF_CODE") & "'" 
-			rstTMSHFCODE.Open sSQL, conn, 3, 3
-			if not rstTMSHFCODE.eof then
-				sSTIME = rstTMSHFCODE("STIME")
-                sETIME = rstTMSHFCODE("ETIME")
-			end if
-            call pCloseTables(rstTMSHFCODE)
+            '=== Check if the recorded Absent day got any leave applied
+			sSQL = "select * from tmeoff "
+			sSQL = sSQL & " where '" & fdate2(rstTMABSENT("DT_ABSENT")) & "' between DTFR and DTTO "
+			sSQL = sSQL & " and EMP_CODE ='" & rstTMABSENT("EMP_CODE") & "'"
+			set rstTMEOFF= server.createobject("adodb.recordset")
+			rstTMEOFF.Open sSQL, conn, 3, 3
+			if rstTMEOFF.eof then '=== No leave was applied on this day. Insert as Absence without leave
+				    response.write sSQL & "<br>"
+				Set rstTMSUPNAME = server.CreateObject("ADODB.RecordSet")    
+				sSQL = "select * from TMEMPLY where EMP_CODE='" & rstTMABSENT("SUP_CODE") & "'" 
+				rstTMSUPNAME.Open sSQL, conn, 3, 3
+				if not rstTMSUPNAME.eof then
+					sSupName = rstTMSUPNAME("NAME")
+				else
+					sSupName = ""
+				end if
+				call pCloseTables(rstTMSUPNAME)
+					
+				Set rstTMSHFCODE = server.CreateObject("ADODB.RecordSet")    
+				sSQL = "select STIME,ETIME from TMSHFCODE where SHF_CODE='" & rstTMABSENT("SHF_CODE") & "'" 
+				rstTMSHFCODE.Open sSQL, conn, 3, 3
+				if not rstTMSHFCODE.eof then
+					sSTIME = rstTMSHFCODE("STIME")
+					sETIME = rstTMSHFCODE("ETIME")
+				end if
+				call pCloseTables(rstTMSHFCODE)
+                    
+				sShift = rstTMABSENT("SHF_CODE") & " " & sSTIME & "-" & sETIME 
+					
+                sCOde = "9000"
+			        
+				if rstTMABSENT("TYPE") = "H" then
+					sDesc = "Absent 0.5" 
+				else
+					sDesc = "Absent" 
+				end if
 			
-            sShift = rstTMABSENT("SHF_CODE") & " " & sSTIME & "-" & sETIME 
-            sCOde = "9000"
-			sDesc = "Absent" 
-	            
-            if rstTMABSENT("TYPE") = "H" then
-				sDesc = "Absent 0.5"    
-            else
-                sDesc = "Absent"
-            end if
-            
-            sStr = Weekdayname(weekday(rstTMABSENT("DT_ABSENT"),1),True) & sep &  rstTMABSENT("DT_ABSENT") & sep 
-            sStr = sStr & sSupName & sep & rstTMABSENT("EMP_CODE") & sep & rstTMABSENT("NAME") & sep & rstTMABSENT("CONT_ID") &sep
-            sStr = sStr & rstTMABSENT("COST_PART") & sep & sShift & sep & sCode & sep & sDesc 
-	    	objOpenFile.WriteLine sStr
+                sStr = Weekdayname(weekday(rstTMABSENT("DT_ABSENT"),1),True) & sep &  rstTMABSENT("DT_ABSENT") & sep 
+                sStr = sStr & sSupName & sep & rstTMABSENT("EMP_CODE") & sep & rstTMABSENT("NAME") & sep & rstTMABSENT("CONT_ID") &sep
+                sStr = sStr & rstTMABSENT("COST_PART") & sep & sShift & sep & sCode & sep & sDesc 
+                objOpenFile.WriteLine sStr
 
+            end if
+			call pCloseTables(rstTMEOFF)
     		rstTMABSENT.movenext
        	loop
 	end if
