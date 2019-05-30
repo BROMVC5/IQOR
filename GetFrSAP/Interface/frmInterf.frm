@@ -367,7 +367,7 @@ Private Sub tmCount_Timer()
         Call pConnection
         tmCount.Enabled = True
         
-        lSecStart = (Hour(Now) * 3600) + (Minute(Now) * 60) + Second(Now) + 60  '=== + 60 is 1 minute, Every 60 secs refresh
+        lSecStart = (Hour(Now) * 3600) + (Minute(Now) * 60) + Second(Now) + 900  '=== + 60 is 1 minute, Every 15mins refresh
         lCount = lSecStart - lSecEnd
         
         sTime = Format(Fix(lCount / 60), "00") & ":" & Format(pRound(((lCount / 60) - Fix(lCount / 60)) * 60, 0), "00")
@@ -382,7 +382,7 @@ Private Sub tmCount_Timer()
         lblCount.Caption = "Refresh After : " & sTime
         lblCount.Refresh
         
-        If lCount = 10 Then '== After 30 seconds minimize it
+        If lCount = 60 Then '== After 60 seconds minimize it
             Call cmdMinimize_Click
         End If
         
